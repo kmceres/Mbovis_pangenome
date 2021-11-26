@@ -1,5 +1,5 @@
-# Scripts and accessory data files for A critical evaluation of Mycobacterium bovis pangenomics, with reference to its utility in outbreak investigation
-* Maintained by Kristina Ceres
+# Scripts and accessory data files for: A critical evaluation of *Mycobacterium bovis* pangenomics, with reference to its utility in outbreak investigation
+Maintained by Kristina Ceres: kc649@cornell.edu
 
 ## Rscripts
 * world_plot_cluster.R: scripts to create geographic clusters and map plot for **Figure 1**
