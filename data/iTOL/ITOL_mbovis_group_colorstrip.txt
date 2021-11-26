@@ -1,0 +1,974 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+#SEPARATOR TAB
+#SEPARATOR COMMA
+SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL Group
+
+#dataset color (can be changed later)
+COLOR #ff0000
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+#When all children of a node have the same color, it will be colored the same, ie. the color will propagate inwards towards the root.
+COLOR_BRANCHES 0
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+LEGEND_TITLE M.bovisGroup
+LEGEND_POSITION_X 100
+LEGEND_POSITION_Y 100
+LEGEND_SHAPES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+LEGEND_COLORS #0D0887FF #240691FF #350498FF #45039EFF #5402A3FF #6200A7FF #7000A8FF #7E03A8FF #8B0AA5FF #9814A0FF #A31E9AFF #AE2892FF #B93289FF #C23C81FF #CC4678FF #D45270FF #DB5C68FF #E26660FF #E97158FF #EF7C51FF #F89441FF #FBA139FF #FDAE31FF #FEBC2AFF #FDCB26FF #FADA24FF #F5E926FF #F0F921FF
+LEGEND_LABELS Mbovis-14 Mbovis-23 Mbovis-07 Mbovis-16 Mbovis-12 Mbovis-29 Mbovis-13 Mbovis-09 No_defining_SNP Mbovis-01 Mbovis-24 Mbovis-06 Mbovis-15 Mbovis-02 Mbovis-03 Mbovis-22 Mbovis-17 Mbovis-19 Mbovis-18 Mbovis-04 Mbovis-11 Mbovis-20 Mbovis-21 Mbovis-05 Mbovis-30 Mbovis-28 Mbovis-10 Mbovis-09R
+#LEGEND_SHAPE_SCALES 1 1 0.5 1
+
+#width of the colored strip
+#STRIP_WIDTH 25
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the color strip 
+#BORDER_WIDTH 0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#if set to 1, border will be drawn completely around each colored strip box
+#COMPLETE_BORDER 0
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+
+
+#display or hide the individual label inside each colored strip (when defined in the data below)
+SHOW_STRIP_LABELS 1
+
+#position of the strip label within the box; 'top', 'center' or 'bottom'
+#STRIP_LABEL_POSITION center
+
+#strip label size factor (relative to the tree leaf labels)
+#STRIP_LABEL_SIZE_FACTOR 1
+
+
+#rotation of the strip labels; used only in rectangular tree display mode
+#STRIP_LABEL_ROTATION 0
+
+#strip label shift in pixels (positive or negative)
+#STRIP_LABEL_SHIFT 0
+
+#STRIP_LABEL_COLOR #000000
+
+#draw a black outline around the text (width in pixels)
+#STRIP_LABEL_OUTLINE 0.5
+
+#display or hide the dataset label above the colored strip
+#SHOW_LABELS 1
+
+#dataset label size factor
+#SIZE_FACTOR 1
+
+#dataset label rotation
+#LABEL_ROTATION 0
+
+#dataset label shift in pixels (positive or negative)
+#LABEL_SHIFT 0
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+
+#Examples:
+#assign a red colored strip to leaf 9606, with label 'Human'
+BioSample color Group
+SAMN14336423_assembled #0D0887FF Mbovis-14
+SAMN14336446_assembled #240691FF Mbovis-23
+SAMN14336444_assembled #350498FF Mbovis-07
+SAMN14336436_assembled #0D0887FF Mbovis-14
+SAMN14336435_assembled #45039EFF Mbovis-16
+SAMN14336433_assembled #0D0887FF Mbovis-14
+SAMN14336429_assembled #0D0887FF Mbovis-14
+SAMN14336419_assembled #0D0887FF Mbovis-14
+SAMN14447197_assembled #0D0887FF Mbovis-14
+SAMN14447196_assembled #5402A3FF Mbovis-12
+SAMN14447194_assembled #5402A3FF Mbovis-12
+SAMN14447216_assembled #5402A3FF Mbovis-12
+SAMN14447214_assembled #0D0887FF Mbovis-14
+SAMN14447213_assembled #6200A7FF Mbovis-29
+SAMN14447212_assembled #5402A3FF Mbovis-12
+SAMN14447211_assembled #7000A8FF Mbovis-13
+SAMN14447210_assembled #5402A3FF Mbovis-12
+SAMN14447192_assembled #0D0887FF Mbovis-14
+SAMN14447207_assembled #5402A3FF Mbovis-12
+SAMN14447206_assembled #7E03A8FF Mbovis-09
+SAMN14447204_assembled #0D0887FF Mbovis-14
+SAMN14447203_assembled #7000A8FF Mbovis-13
+SAMN14447190_assembled #7000A8FF Mbovis-13
+SAMN03199106_assembled #350498FF Mbovis-07
+SAMN03199229_assembled #350498FF Mbovis-07
+SAMN03199232_assembled #8B0AA5FF No_defining_SNP
+SAMN03300051_assembled #9814A0FF Mbovis-01
+SAMN03300053_assembled #A31E9AFF Mbovis-24
+SAMN03300055_assembled #AE2892FF Mbovis-06
+SAMN03300056_assembled #9814A0FF Mbovis-01
+SAMN03300057_assembled #9814A0FF Mbovis-01
+SAMN03300058_assembled #B93289FF Mbovis-15
+SAMN03300060_assembled #45039EFF Mbovis-16
+SAMN03300061_assembled #A31E9AFF Mbovis-24
+SAMN03300062_assembled #240691FF Mbovis-23
+SAMN03300063_assembled #C23C81FF Mbovis-02
+SAMN03300064_assembled #240691FF Mbovis-23
+SAMN03300067_assembled #A31E9AFF Mbovis-24
+SAMN03300073_assembled #C23C81FF Mbovis-02
+SAMN03300074_assembled #9814A0FF Mbovis-01
+SAMN03300076_assembled #9814A0FF Mbovis-01
+SAMN03300077_assembled #9814A0FF Mbovis-01
+SAMN03300078_assembled #240691FF Mbovis-23
+SAMN03300080_assembled #7000A8FF Mbovis-13
+SAMN03300081_assembled #350498FF Mbovis-07
+SAMN03300082_assembled #240691FF Mbovis-23
+SAMN03300087_assembled #240691FF Mbovis-23
+SAMN03300088_assembled #9814A0FF Mbovis-01
+SAMN03300089_assembled #9814A0FF Mbovis-01
+SAMN03300090_assembled #A31E9AFF Mbovis-24
+SAMN03300092_assembled #240691FF Mbovis-23
+SAMN03300093_assembled #240691FF Mbovis-23
+SAMN03300094_assembled #0D0887FF Mbovis-14
+SAMN03300095_assembled #7E03A8FF Mbovis-09
+SAMN03300096_assembled #9814A0FF Mbovis-01
+SAMN03300098_assembled #240691FF Mbovis-23
+SAMN03300100_assembled #240691FF Mbovis-23
+SAMN03300101_assembled #240691FF Mbovis-23
+SAMN03300102_assembled #A31E9AFF Mbovis-24
+SAMN03300104_assembled #AE2892FF Mbovis-06
+SAMN03300106_assembled #240691FF Mbovis-23
+SAMN03300108_assembled #240691FF Mbovis-23
+SAMN03300109_assembled #CC4678FF Mbovis-03
+SAMN03300110_assembled #D45270FF Mbovis-22
+SAMN03300112_assembled #45039EFF Mbovis-16
+SAMN03300113_assembled #240691FF Mbovis-23
+SAMN03300115_assembled #9814A0FF Mbovis-01
+SAMN03300116_assembled #45039EFF Mbovis-16
+SAMN03300117_assembled #C23C81FF Mbovis-02
+SAMN03300118_assembled #AE2892FF Mbovis-06
+SAMN03300119_assembled #A31E9AFF Mbovis-24
+SAMN03300120_assembled #DB5C68FF Mbovis-17
+SAMN03300121_assembled #DB5C68FF Mbovis-17
+SAMN03300123_assembled #DB5C68FF Mbovis-17
+SAMN03300125_assembled #240691FF Mbovis-23
+SAMN03300127_assembled #240691FF Mbovis-23
+SAMN03300128_assembled #E26660FF Mbovis-19
+SAMN03300130_assembled #9814A0FF Mbovis-01
+SAMN03300133_assembled #9814A0FF Mbovis-01
+SAMN03300135_assembled #E26660FF Mbovis-19
+SAMN03300136_assembled #A31E9AFF Mbovis-24
+SAMN03300139_assembled #240691FF Mbovis-23
+SAMN03300140_assembled #240691FF Mbovis-23
+SAMN03300141_assembled #240691FF Mbovis-23
+SAMN03300142_assembled #E97158FF Mbovis-18
+SAMN03300143_assembled #D45270FF Mbovis-22
+SAMN03300144_assembled #240691FF Mbovis-23
+SAMN03300145_assembled #240691FF Mbovis-23
+SAMN03300146_assembled #DB5C68FF Mbovis-17
+SAMN03300148_assembled #45039EFF Mbovis-16
+SAMN03300149_assembled #240691FF Mbovis-23
+SAMN03300151_assembled #5402A3FF Mbovis-12
+SAMN03300152_assembled #45039EFF Mbovis-16
+SAMN03300155_assembled #7000A8FF Mbovis-13
+SAMN03300156_assembled #A31E9AFF Mbovis-24
+SAMN03300157_assembled #AE2892FF Mbovis-06
+SAMN03300158_assembled #AE2892FF Mbovis-06
+SAMN03300160_assembled #0D0887FF Mbovis-14
+SAMN03300161_assembled #9814A0FF Mbovis-01
+SAMN03300162_assembled #7000A8FF Mbovis-13
+SAMN03300164_assembled #240691FF Mbovis-23
+SAMN03300165_assembled #AE2892FF Mbovis-06
+SAMN03300166_assembled #45039EFF Mbovis-16
+SAMN03300167_assembled #DB5C68FF Mbovis-17
+SAMN03300168_assembled #9814A0FF Mbovis-01
+SAMN03300169_assembled #240691FF Mbovis-23
+SAMN03300170_assembled #9814A0FF Mbovis-01
+SAMN03300171_assembled #45039EFF Mbovis-16
+SAMN03300174_assembled #350498FF Mbovis-07
+SAMN03300175_assembled #9814A0FF Mbovis-01
+SAMN03300176_assembled #9814A0FF Mbovis-01
+SAMN03300180_assembled #DB5C68FF Mbovis-17
+SAMN03300181_assembled #350498FF Mbovis-07
+SAMN03300182_assembled #7000A8FF Mbovis-13
+SAMN03300183_assembled #9814A0FF Mbovis-01
+SAMN03300184_assembled #D45270FF Mbovis-22
+SAMN03300187_assembled #DB5C68FF Mbovis-17
+SAMN03300188_assembled #5402A3FF Mbovis-12
+SAMN03300189_assembled #240691FF Mbovis-23
+SAMN03300191_assembled #240691FF Mbovis-23
+SAMN03300192_assembled #B93289FF Mbovis-15
+SAMN03300193_assembled #240691FF Mbovis-23
+SAMN03300194_assembled #240691FF Mbovis-23
+SAMN03300195_assembled #240691FF Mbovis-23
+SAMN03300197_assembled #9814A0FF Mbovis-01
+SAMN03300198_assembled #45039EFF Mbovis-16
+SAMN03300199_assembled #5402A3FF Mbovis-12
+SAMN03300202_assembled #240691FF Mbovis-23
+SAMN03300204_assembled #240691FF Mbovis-23
+SAMN03300205_assembled #DB5C68FF Mbovis-17
+SAMN03300207_assembled #45039EFF Mbovis-16
+SAMN03300208_assembled #240691FF Mbovis-23
+SAMN03300209_assembled #240691FF Mbovis-23
+SAMN03300215_assembled #9814A0FF Mbovis-01
+SAMN03300220_assembled #240691FF Mbovis-23
+SAMN03300222_assembled #D45270FF Mbovis-22
+SAMN03300225_assembled #5402A3FF Mbovis-12
+SAMN03300229_assembled #E26660FF Mbovis-19
+SAMN03300233_assembled #5402A3FF Mbovis-12
+SAMN03300234_assembled #5402A3FF Mbovis-12
+SAMN03300235_assembled #240691FF Mbovis-23
+SAMN03300236_assembled #350498FF Mbovis-07
+SAMN03300237_assembled #240691FF Mbovis-23
+SAMN03300238_assembled #5402A3FF Mbovis-12
+SAMN03300241_assembled #7E03A8FF Mbovis-09
+SAMN03300243_assembled #D45270FF Mbovis-22
+SAMN03300244_assembled #240691FF Mbovis-23
+SAMN03300245_assembled #240691FF Mbovis-23
+SAMN03300246_assembled #EF7C51FF Mbovis-04
+SAMN03300248_assembled #240691FF Mbovis-23
+SAMN03300249_assembled #5402A3FF Mbovis-12
+SAMN03300250_assembled #240691FF Mbovis-23
+SAMN03300251_assembled #240691FF Mbovis-23
+SAMN03300252_assembled #9814A0FF Mbovis-01
+SAMN03300253_assembled #45039EFF Mbovis-16
+SAMN03300254_assembled #45039EFF Mbovis-16
+SAMN03300258_assembled #240691FF Mbovis-23
+SAMN03300259_assembled #350498FF Mbovis-07
+SAMN03300260_assembled #9814A0FF Mbovis-01
+SAMN03300261_assembled #240691FF Mbovis-23
+SAMN03300262_assembled #45039EFF Mbovis-16
+SAMN03300263_assembled #240691FF Mbovis-23
+SAMN03300264_assembled #240691FF Mbovis-23
+SAMN03300269_assembled #E26660FF Mbovis-19
+SAMN03300271_assembled #350498FF Mbovis-07
+SAMN03300272_assembled #240691FF Mbovis-23
+SAMN03300273_assembled #240691FF Mbovis-23
+SAMN03300274_assembled #A31E9AFF Mbovis-24
+SAMN03300275_assembled #240691FF Mbovis-23
+SAMN03300277_assembled #240691FF Mbovis-23
+SAMN03300278_assembled #240691FF Mbovis-23
+SAMN03300281_assembled #AE2892FF Mbovis-06
+SAMN03300282_assembled #240691FF Mbovis-23
+SAMN03300283_assembled #9814A0FF Mbovis-01
+SAMN03300284_assembled #350498FF Mbovis-07
+SAMN03300285_assembled #DB5C68FF Mbovis-17
+SAMN03300286_assembled #DB5C68FF Mbovis-17
+SAMN03300287_assembled #9814A0FF Mbovis-01
+SAMN03300288_assembled #9814A0FF Mbovis-01
+SAMN03300289_assembled #9814A0FF Mbovis-01
+SAMN03300292_assembled #240691FF Mbovis-23
+SAMN03300293_assembled #DB5C68FF Mbovis-17
+SAMN03300295_assembled #EF7C51FF Mbovis-04
+SAMN03300296_assembled #AE2892FF Mbovis-06
+SAMN03300300_assembled #B93289FF Mbovis-15
+SAMN03300302_assembled #240691FF Mbovis-23
+SAMN03300311_assembled #45039EFF Mbovis-16
+SAMN03300312_assembled #AE2892FF Mbovis-06
+SAMN03300313_assembled #AE2892FF Mbovis-06
+SAMN03300314_assembled #DB5C68FF Mbovis-17
+SAMN03300315_assembled #240691FF Mbovis-23
+SAMN03300317_assembled #7000A8FF Mbovis-13
+SAMN03300318_assembled #0D0887FF Mbovis-14
+SAMN03300320_assembled #240691FF Mbovis-23
+SAMN03300324_assembled #240691FF Mbovis-23
+SAMN03300328_assembled #7E03A8FF Mbovis-09
+SAMN03300331_assembled #45039EFF Mbovis-16
+SAMN03300337_assembled #DB5C68FF Mbovis-17
+SAMN03300338_assembled #DB5C68FF Mbovis-17
+SAMN03300339_assembled #DB5C68FF Mbovis-17
+SAMN03300341_assembled #DB5C68FF Mbovis-17
+SAMN03300342_assembled #DB5C68FF Mbovis-17
+SAMN03300343_assembled #DB5C68FF Mbovis-17
+SAMN03300352_assembled #DB5C68FF Mbovis-17
+SAMN03300354_assembled #DB5C68FF Mbovis-17
+SAMN03300355_assembled #DB5C68FF Mbovis-17
+SAMN03300356_assembled #DB5C68FF Mbovis-17
+SAMN03300359_assembled #350498FF Mbovis-07
+SAMN03300363_assembled #7000A8FF Mbovis-13
+SAMN03300364_assembled #DB5C68FF Mbovis-17
+SAMN03300365_assembled #DB5C68FF Mbovis-17
+SAMN03300366_assembled #DB5C68FF Mbovis-17
+SAMN03300371_assembled #240691FF Mbovis-23
+SAMN03300374_assembled #240691FF Mbovis-23
+SAMN03300376_assembled #9814A0FF Mbovis-01
+SAMN03300378_assembled #DB5C68FF Mbovis-17
+SAMN03300381_assembled #9814A0FF Mbovis-01
+SAMN03300384_assembled #240691FF Mbovis-23
+SAMN03300385_assembled #7000A8FF Mbovis-13
+SAMN03300387_assembled #240691FF Mbovis-23
+SAMN03300388_assembled #240691FF Mbovis-23
+SAMN03300389_assembled #240691FF Mbovis-23
+SAMN03300392_assembled #AE2892FF Mbovis-06
+SAMN03300394_assembled #DB5C68FF Mbovis-17
+SAMN03300396_assembled #DB5C68FF Mbovis-17
+SAMN03300397_assembled #240691FF Mbovis-23
+SAMN03300398_assembled #240691FF Mbovis-23
+SAMN03300399_assembled #7000A8FF Mbovis-13
+SAMN03300403_assembled #350498FF Mbovis-07
+SAMN03300404_assembled #350498FF Mbovis-07
+SAMN03300408_assembled #9814A0FF Mbovis-01
+SAMN03300409_assembled #DB5C68FF Mbovis-17
+SAMN03300418_assembled #DB5C68FF Mbovis-17
+SAMN03300421_assembled #C23C81FF Mbovis-02
+SAMN03300422_assembled #350498FF Mbovis-07
+SAMN03300423_assembled #350498FF Mbovis-07
+SAMN03300424_assembled #DB5C68FF Mbovis-17
+SAMN03300426_assembled #F89441FF Mbovis-11
+SAMN03300429_assembled #FBA139FF Mbovis-20
+SAMN03300432_assembled #240691FF Mbovis-23
+SAMN03300433_assembled #240691FF Mbovis-23
+SAMN03300437_assembled #240691FF Mbovis-23
+SAMN03300438_assembled #240691FF Mbovis-23
+SAMN03300440_assembled #240691FF Mbovis-23
+SAMN03300441_assembled #240691FF Mbovis-23
+SAMN03300442_assembled #240691FF Mbovis-23
+SAMN03300443_assembled #240691FF Mbovis-23
+SAMN03300444_assembled #240691FF Mbovis-23
+SAMN03300445_assembled #240691FF Mbovis-23
+SAMN03300446_assembled #240691FF Mbovis-23
+SAMN03300448_assembled #DB5C68FF Mbovis-17
+SAMN03300449_assembled #240691FF Mbovis-23
+SAMN03300450_assembled #240691FF Mbovis-23
+SAMN03300451_assembled #240691FF Mbovis-23
+SAMN03300456_assembled #9814A0FF Mbovis-01
+SAMN03300457_assembled #A31E9AFF Mbovis-24
+SAMN03300458_assembled #DB5C68FF Mbovis-17
+SAMN03300459_assembled #7000A8FF Mbovis-13
+SAMN03300466_assembled #7000A8FF Mbovis-13
+SAMN03300467_assembled #7000A8FF Mbovis-13
+SAMN03300468_assembled #7000A8FF Mbovis-13
+SAMN03300469_assembled #7000A8FF Mbovis-13
+SAMN03300470_assembled #9814A0FF Mbovis-01
+SAMN03300471_assembled #A31E9AFF Mbovis-24
+SAMN03300472_assembled #DB5C68FF Mbovis-17
+SAMN03300473_assembled #DB5C68FF Mbovis-17
+SAMN03300474_assembled #DB5C68FF Mbovis-17
+SAMN03300476_assembled #7000A8FF Mbovis-13
+SAMN03300479_assembled #DB5C68FF Mbovis-17
+SAMN03300480_assembled #7000A8FF Mbovis-13
+SAMN03300505_assembled #7000A8FF Mbovis-13
+SAMN03300513_assembled #0D0887FF Mbovis-14
+SAMN03300516_assembled #240691FF Mbovis-23
+SAMN03300520_assembled #350498FF Mbovis-07
+SAMN03300524_assembled #DB5C68FF Mbovis-17
+SAMN03300525_assembled #DB5C68FF Mbovis-17
+SAMN03300526_assembled #DB5C68FF Mbovis-17
+SAMN03300527_assembled #240691FF Mbovis-23
+SAMN03300529_assembled #7000A8FF Mbovis-13
+SAMN03300530_assembled #DB5C68FF Mbovis-17
+SAMN03300535_assembled #DB5C68FF Mbovis-17
+SAMN03300536_assembled #DB5C68FF Mbovis-17
+SAMN03300537_assembled #DB5C68FF Mbovis-17
+SAMN03300538_assembled #DB5C68FF Mbovis-17
+SAMN03300539_assembled #DB5C68FF Mbovis-17
+SAMN03300540_assembled #DB5C68FF Mbovis-17
+SAMN03300541_assembled #DB5C68FF Mbovis-17
+SAMN03300551_assembled #7000A8FF Mbovis-13
+SAMN03300552_assembled #DB5C68FF Mbovis-17
+SAMN03300553_assembled #DB5C68FF Mbovis-17
+SAMN03300554_assembled #DB5C68FF Mbovis-17
+SAMN03300556_assembled #DB5C68FF Mbovis-17
+SAMN03300561_assembled #7000A8FF Mbovis-13
+SAMN03300562_assembled #7000A8FF Mbovis-13
+SAMN03300598_assembled #AE2892FF Mbovis-06
+SAMN03300599_assembled #AE2892FF Mbovis-06
+SAMN03300601_assembled #9814A0FF Mbovis-01
+SAMN03300604_assembled #0D0887FF Mbovis-14
+SAMN03300608_assembled #45039EFF Mbovis-16
+SAMN03300612_assembled #350498FF Mbovis-07
+SAMN03300613_assembled #9814A0FF Mbovis-01
+SAMN03300614_assembled #9814A0FF Mbovis-01
+SAMN03300615_assembled #9814A0FF Mbovis-01
+SAMN03300618_assembled #350498FF Mbovis-07
+SAMN03300624_assembled #9814A0FF Mbovis-01
+SAMN03300626_assembled #350498FF Mbovis-07
+SAMN03300628_assembled #350498FF Mbovis-07
+SAMN03300629_assembled #9814A0FF Mbovis-01
+SAMN03300630_assembled #9814A0FF Mbovis-01
+SAMN03300631_assembled #350498FF Mbovis-07
+SAMN03300632_assembled #350498FF Mbovis-07
+SAMN03300633_assembled #350498FF Mbovis-07
+SAMN03300634_assembled #350498FF Mbovis-07
+SAMN03300636_assembled #350498FF Mbovis-07
+SAMN03300637_assembled #E97158FF Mbovis-18
+SAMN03300639_assembled #DB5C68FF Mbovis-17
+SAMN03300641_assembled #DB5C68FF Mbovis-17
+SAMN03300642_assembled #0D0887FF Mbovis-14
+SAMN03300643_assembled #0D0887FF Mbovis-14
+SAMN03300644_assembled #9814A0FF Mbovis-01
+SAMN03300646_assembled #240691FF Mbovis-23
+SAMN03300647_assembled #9814A0FF Mbovis-01
+SAMN03300648_assembled #9814A0FF Mbovis-01
+SAMN03300649_assembled #9814A0FF Mbovis-01
+SAMN03300650_assembled #0D0887FF Mbovis-14
+SAMN03300651_assembled #0D0887FF Mbovis-14
+SAMN03300652_assembled #9814A0FF Mbovis-01
+SAMN03300653_assembled #0D0887FF Mbovis-14
+SAMN03300656_assembled #AE2892FF Mbovis-06
+SAMN03300658_assembled #AE2892FF Mbovis-06
+SAMN03300659_assembled #AE2892FF Mbovis-06
+SAMN03300660_assembled #AE2892FF Mbovis-06
+SAMN03300663_assembled #DB5C68FF Mbovis-17
+SAMN03300664_assembled #9814A0FF Mbovis-01
+SAMN03300665_assembled #DB5C68FF Mbovis-17
+SAMN03300667_assembled #45039EFF Mbovis-16
+SAMN03300668_assembled #350498FF Mbovis-07
+SAMN03300669_assembled #AE2892FF Mbovis-06
+SAMN03300670_assembled #AE2892FF Mbovis-06
+SAMN03300671_assembled #240691FF Mbovis-23
+SAMN03300672_assembled #AE2892FF Mbovis-06
+SAMN03300673_assembled #AE2892FF Mbovis-06
+SAMN03300674_assembled #AE2892FF Mbovis-06
+SAMN03300675_assembled #AE2892FF Mbovis-06
+SAMN03300676_assembled #AE2892FF Mbovis-06
+SAMN03300677_assembled #240691FF Mbovis-23
+SAMN03300678_assembled #AE2892FF Mbovis-06
+SAMN03300679_assembled #240691FF Mbovis-23
+SAMN03300680_assembled #240691FF Mbovis-23
+SAMN03300683_assembled #9814A0FF Mbovis-01
+SAMN03300685_assembled #AE2892FF Mbovis-06
+SAMN03300686_assembled #DB5C68FF Mbovis-17
+SAMN03300687_assembled #350498FF Mbovis-07
+SAMN03300688_assembled #350498FF Mbovis-07
+SAMN03300690_assembled #AE2892FF Mbovis-06
+SAMN03300691_assembled #240691FF Mbovis-23
+SAMN03300695_assembled #AE2892FF Mbovis-06
+SAMN03300696_assembled #DB5C68FF Mbovis-17
+SAMN03300699_assembled #DB5C68FF Mbovis-17
+SAMN03300700_assembled #AE2892FF Mbovis-06
+SAMN03300701_assembled #350498FF Mbovis-07
+SAMN03300702_assembled #9814A0FF Mbovis-01
+SAMN03300703_assembled #240691FF Mbovis-23
+SAMN03300705_assembled #350498FF Mbovis-07
+SAMN03300706_assembled #45039EFF Mbovis-16
+SAMN03300707_assembled #45039EFF Mbovis-16
+SAMN03300709_assembled #9814A0FF Mbovis-01
+SAMN03300710_assembled #9814A0FF Mbovis-01
+SAMN03300711_assembled #240691FF Mbovis-23
+SAMN03300712_assembled #240691FF Mbovis-23
+SAMN03300713_assembled #CC4678FF Mbovis-03
+SAMN03300714_assembled #B93289FF Mbovis-15
+SAMN03300716_assembled #D45270FF Mbovis-22
+SAMN03300718_assembled #45039EFF Mbovis-16
+SAMN03300719_assembled #45039EFF Mbovis-16
+SAMN03300720_assembled #45039EFF Mbovis-16
+SAMN03300721_assembled #350498FF Mbovis-07
+SAMN03300722_assembled #45039EFF Mbovis-16
+SAMN03300723_assembled #45039EFF Mbovis-16
+SAMN03300724_assembled #45039EFF Mbovis-16
+SAMN03300725_assembled #45039EFF Mbovis-16
+SAMN03300726_assembled #45039EFF Mbovis-16
+SAMN03300727_assembled #A31E9AFF Mbovis-24
+SAMN03300728_assembled #9814A0FF Mbovis-01
+SAMN03300729_assembled #45039EFF Mbovis-16
+SAMN03300731_assembled #9814A0FF Mbovis-01
+SAMN03300732_assembled #9814A0FF Mbovis-01
+SAMN03300733_assembled #9814A0FF Mbovis-01
+SAMN03300734_assembled #9814A0FF Mbovis-01
+SAMN03300735_assembled #9814A0FF Mbovis-01
+SAMN03300737_assembled #9814A0FF Mbovis-01
+SAMN03300738_assembled #9814A0FF Mbovis-01
+SAMN03300739_assembled #9814A0FF Mbovis-01
+SAMN03300741_assembled #9814A0FF Mbovis-01
+SAMN03300742_assembled #240691FF Mbovis-23
+SAMN03300743_assembled #9814A0FF Mbovis-01
+SAMN03300744_assembled #9814A0FF Mbovis-01
+SAMN03300745_assembled #9814A0FF Mbovis-01
+SAMN03300747_assembled #9814A0FF Mbovis-01
+SAMN03300748_assembled #9814A0FF Mbovis-01
+SAMN03300749_assembled #9814A0FF Mbovis-01
+SAMN03300751_assembled #9814A0FF Mbovis-01
+SAMN03300752_assembled #9814A0FF Mbovis-01
+SAMN03300753_assembled #9814A0FF Mbovis-01
+SAMN03300754_assembled #9814A0FF Mbovis-01
+SAMN03300756_assembled #9814A0FF Mbovis-01
+SAMN03300757_assembled #9814A0FF Mbovis-01
+SAMN03300758_assembled #9814A0FF Mbovis-01
+SAMN03300759_assembled #9814A0FF Mbovis-01
+SAMN03300760_assembled #9814A0FF Mbovis-01
+SAMN03300761_assembled #9814A0FF Mbovis-01
+SAMN03300762_assembled #9814A0FF Mbovis-01
+SAMN03300763_assembled #9814A0FF Mbovis-01
+SAMN03300764_assembled #9814A0FF Mbovis-01
+SAMN03300765_assembled #9814A0FF Mbovis-01
+SAMN03300766_assembled #9814A0FF Mbovis-01
+SAMN03300767_assembled #7000A8FF Mbovis-13
+SAMN03300768_assembled #7000A8FF Mbovis-13
+SAMN03300769_assembled #C23C81FF Mbovis-02
+SAMN03300770_assembled #9814A0FF Mbovis-01
+SAMN03300771_assembled #45039EFF Mbovis-16
+SAMN03300773_assembled #45039EFF Mbovis-16
+SAMN03300774_assembled #45039EFF Mbovis-16
+SAMN03300776_assembled #9814A0FF Mbovis-01
+SAMN03300777_assembled #9814A0FF Mbovis-01
+SAMN03300780_assembled #240691FF Mbovis-23
+SAMN03300787_assembled #DB5C68FF Mbovis-17
+SAMN03300791_assembled #9814A0FF Mbovis-01
+SAMN03300792_assembled #9814A0FF Mbovis-01
+SAMN03300794_assembled #9814A0FF Mbovis-01
+SAMN03300796_assembled #350498FF Mbovis-07
+SAMN03300797_assembled #9814A0FF Mbovis-01
+SAMN03300798_assembled #9814A0FF Mbovis-01
+SAMN03300799_assembled #EF7C51FF Mbovis-04
+SAMN03300800_assembled #C23C81FF Mbovis-02
+SAMN03300801_assembled #AE2892FF Mbovis-06
+SAMN03300802_assembled #0D0887FF Mbovis-14
+SAMN03300805_assembled #DB5C68FF Mbovis-17
+SAMN03300806_assembled #FBA139FF Mbovis-20
+SAMN03300807_assembled #5402A3FF Mbovis-12
+SAMN03300808_assembled #240691FF Mbovis-23
+SAMN03300814_assembled #9814A0FF Mbovis-01
+SAMN03300816_assembled #9814A0FF Mbovis-01
+SAMN03300822_assembled #9814A0FF Mbovis-01
+SAMN03300823_assembled #9814A0FF Mbovis-01
+SAMN03300825_assembled #9814A0FF Mbovis-01
+SAMN03300826_assembled #9814A0FF Mbovis-01
+SAMN03300827_assembled #9814A0FF Mbovis-01
+SAMN03300828_assembled #9814A0FF Mbovis-01
+SAMN03300829_assembled #9814A0FF Mbovis-01
+SAMN03300835_assembled #7000A8FF Mbovis-13
+SAMN03300841_assembled #9814A0FF Mbovis-01
+SAMN03300843_assembled #FDAE31FF Mbovis-21
+SAMN03300848_assembled #7000A8FF Mbovis-13
+SAMN03300849_assembled #7000A8FF Mbovis-13
+SAMN03300852_assembled #FEBC2AFF Mbovis-05
+SAMN03300859_assembled #9814A0FF Mbovis-01
+SAMN03300861_assembled #9814A0FF Mbovis-01
+SAMN03300862_assembled #45039EFF Mbovis-16
+SAMN03300865_assembled #9814A0FF Mbovis-01
+SAMN03300866_assembled #9814A0FF Mbovis-01
+SAMN03300867_assembled #9814A0FF Mbovis-01
+SAMN03300868_assembled #9814A0FF Mbovis-01
+SAMN04386732_assembled #9814A0FF Mbovis-01
+SAMN04386733_assembled #9814A0FF Mbovis-01
+SAMN04386734_assembled #9814A0FF Mbovis-01
+SAMN04386735_assembled #9814A0FF Mbovis-01
+SAMN04386736_assembled #9814A0FF Mbovis-01
+SAMN04386737_assembled #9814A0FF Mbovis-01
+SAMN04386738_assembled #9814A0FF Mbovis-01
+SAMN04386739_assembled #9814A0FF Mbovis-01
+SAMN04386740_assembled #9814A0FF Mbovis-01
+SAMN04386741_assembled #9814A0FF Mbovis-01
+SAMN04386742_assembled #9814A0FF Mbovis-01
+SAMN04386743_assembled #9814A0FF Mbovis-01
+SAMN04386744_assembled #9814A0FF Mbovis-01
+SAMN04386745_assembled #9814A0FF Mbovis-01
+SAMN04386746_assembled #9814A0FF Mbovis-01
+SAMN04386747_assembled #9814A0FF Mbovis-01
+SAMN04386748_assembled #9814A0FF Mbovis-01
+SAMN04386749_assembled #9814A0FF Mbovis-01
+SAMN04386750_assembled #9814A0FF Mbovis-01
+SAMN04386751_assembled #9814A0FF Mbovis-01
+SAMN06252370_assembled #E26660FF Mbovis-19
+SAMN06252322_assembled #7E03A8FF Mbovis-09
+SAMN06252318_assembled #7E03A8FF Mbovis-09
+SAMN06252312_assembled #FDCB26FF Mbovis-30
+SAMN06252306_assembled #E26660FF Mbovis-19
+SAMN06252275_assembled #E26660FF Mbovis-19
+SAMN06252259_assembled #E26660FF Mbovis-19
+SAMN06252254_assembled #E26660FF Mbovis-19
+SAMN06252240_assembled #E26660FF Mbovis-19
+SAMN06252238_assembled #E26660FF Mbovis-19
+SAMN06252232_assembled #7E03A8FF Mbovis-09
+SAMN06252215_assembled #E26660FF Mbovis-19
+SAMN06252203_assembled #7E03A8FF Mbovis-09
+SAMN06252179_assembled #7E03A8FF Mbovis-09
+SAMN06252172_assembled #7E03A8FF Mbovis-09
+SAMN06252151_assembled #E26660FF Mbovis-19
+SAMN06252148_assembled #E26660FF Mbovis-19
+SAMN06252141_assembled #E26660FF Mbovis-19
+SAMN06252116_assembled #E26660FF Mbovis-19
+SAMN06252091_assembled #E26660FF Mbovis-19
+SAMN06252084_assembled #7E03A8FF Mbovis-09
+SAMN06856014_assembled #5402A3FF Mbovis-12
+SAMN06856015_assembled #5402A3FF Mbovis-12
+SAMN06856054_assembled #FBA139FF Mbovis-20
+SAMN06856055_assembled #E26660FF Mbovis-19
+SAMN06856053_assembled #C23C81FF Mbovis-02
+SAMN06856050_assembled #C23C81FF Mbovis-02
+SAMN06856051_assembled #C23C81FF Mbovis-02
+SAMN06856048_assembled #CC4678FF Mbovis-03
+SAMN06856049_assembled #EF7C51FF Mbovis-04
+SAMN06856046_assembled #FBA139FF Mbovis-20
+SAMN06856047_assembled #C23C81FF Mbovis-02
+SAMN06855968_assembled #EF7C51FF Mbovis-04
+SAMN06855969_assembled #EF7C51FF Mbovis-04
+SAMN06856010_assembled #EF7C51FF Mbovis-04
+SAMN06855996_assembled #EF7C51FF Mbovis-04
+SAMN06856011_assembled #EF7C51FF Mbovis-04
+SAMN06856045_assembled #CC4678FF Mbovis-03
+SAMN06856013_assembled #C23C81FF Mbovis-02
+SAMN06856041_assembled #CC4678FF Mbovis-03
+SAMN06856040_assembled #EF7C51FF Mbovis-04
+SAMN06856042_assembled #C23C81FF Mbovis-02
+SAMN06856037_assembled #FADA24FF Mbovis-28
+SAMN06856039_assembled #C23C81FF Mbovis-02
+SAMN06856038_assembled #C23C81FF Mbovis-02
+SAMN06856007_assembled #CC4678FF Mbovis-03
+SAMN06856008_assembled #C23C81FF Mbovis-02
+SAMN06855930_assembled #350498FF Mbovis-07
+SAMN06855931_assembled #350498FF Mbovis-07
+SAMN06855932_assembled #C23C81FF Mbovis-02
+SAMN06855933_assembled #C23C81FF Mbovis-02
+SAMN06855926_assembled #D45270FF Mbovis-22
+SAMN06855927_assembled #FBA139FF Mbovis-20
+SAMN06855929_assembled #C23C81FF Mbovis-02
+SAMN06855935_assembled #EF7C51FF Mbovis-04
+SAMN06855963_assembled #FADA24FF Mbovis-28
+SAMN06856066_assembled #EF7C51FF Mbovis-04
+SAMN06856067_assembled #EF7C51FF Mbovis-04
+SAMN06856068_assembled #FADA24FF Mbovis-28
+SAMN06856069_assembled #EF7C51FF Mbovis-04
+SAMN06856070_assembled #CC4678FF Mbovis-03
+SAMN06855961_assembled #EF7C51FF Mbovis-04
+SAMN06855960_assembled #EF7C51FF Mbovis-04
+SAMN06855959_assembled #FBA139FF Mbovis-20
+SAMN06855958_assembled #EF7C51FF Mbovis-04
+SAMN06855999_assembled #EF7C51FF Mbovis-04
+SAMN06855957_assembled #FBA139FF Mbovis-20
+SAMN06855956_assembled #C23C81FF Mbovis-02
+SAMN06855937_assembled #240691FF Mbovis-23
+SAMN06855936_assembled #FBA139FF Mbovis-20
+SAMN06855939_assembled #FBA139FF Mbovis-20
+SAMN06855938_assembled #EF7C51FF Mbovis-04
+SAMN06855941_assembled #EF7C51FF Mbovis-04
+SAMN06855940_assembled #EF7C51FF Mbovis-04
+SAMN06855942_assembled #CC4678FF Mbovis-03
+SAMN06855945_assembled #EF7C51FF Mbovis-04
+SAMN06855944_assembled #C23C81FF Mbovis-02
+SAMN06856060_assembled #EF7C51FF Mbovis-04
+SAMN06856058_assembled #FBA139FF Mbovis-20
+SAMN06856065_assembled #CC4678FF Mbovis-03
+SAMN06855965_assembled #CC4678FF Mbovis-03
+SAMN06855964_assembled #C23C81FF Mbovis-02
+SAMN06855916_assembled #AE2892FF Mbovis-06
+SAMN06855917_assembled #C23C81FF Mbovis-02
+SAMN06855918_assembled #C23C81FF Mbovis-02
+SAMN06855919_assembled #FADA24FF Mbovis-28
+SAMN06855920_assembled #FADA24FF Mbovis-28
+SAMN06855921_assembled #FADA24FF Mbovis-28
+SAMN06855922_assembled #FBA139FF Mbovis-20
+SAMN06855923_assembled #C23C81FF Mbovis-02
+SAMN06855925_assembled #EF7C51FF Mbovis-04
+SAMN06855998_assembled #EF7C51FF Mbovis-04
+SAMN06855948_assembled #C23C81FF Mbovis-02
+SAMN06855949_assembled #C23C81FF Mbovis-02
+SAMN06855946_assembled #EF7C51FF Mbovis-04
+SAMN06855947_assembled #EF7C51FF Mbovis-04
+SAMN06855952_assembled #EF7C51FF Mbovis-04
+SAMN06855953_assembled #EF7C51FF Mbovis-04
+SAMN06855950_assembled #C23C81FF Mbovis-02
+SAMN06855951_assembled #C23C81FF Mbovis-02
+SAMN06855954_assembled #C23C81FF Mbovis-02
+SAMN06855955_assembled #EF7C51FF Mbovis-04
+SAMN06856003_assembled #CC4678FF Mbovis-03
+SAMN06855966_assembled #FADA24FF Mbovis-28
+SAMN06855967_assembled #FADA24FF Mbovis-28
+SAMN06855970_assembled #C23C81FF Mbovis-02
+SAMN06855971_assembled #EF7C51FF Mbovis-04
+SAMN06855973_assembled #C23C81FF Mbovis-02
+SAMN06855975_assembled #EF7C51FF Mbovis-04
+SAMN06856005_assembled #C23C81FF Mbovis-02
+SAMN06855962_assembled #FBA139FF Mbovis-20
+SAMN06856002_assembled #CC4678FF Mbovis-03
+SAMN06856001_assembled #FBA139FF Mbovis-20
+SAMN06856030_assembled #FBA139FF Mbovis-20
+SAMN06856031_assembled #C23C81FF Mbovis-02
+SAMN06856032_assembled #C23C81FF Mbovis-02
+SAMN06856033_assembled #FBA139FF Mbovis-20
+SAMN06856026_assembled #EF7C51FF Mbovis-04
+SAMN06856027_assembled #FADA24FF Mbovis-28
+SAMN06856034_assembled #EF7C51FF Mbovis-04
+SAMN06856035_assembled #FBA139FF Mbovis-20
+SAMN06855997_assembled #EF7C51FF Mbovis-04
+SAMN06855985_assembled #EF7C51FF Mbovis-04
+SAMN06855981_assembled #EF7C51FF Mbovis-04
+SAMN06855980_assembled #EF7C51FF Mbovis-04
+SAMN06855977_assembled #FBA139FF Mbovis-20
+SAMN06855976_assembled #EF7C51FF Mbovis-04
+SAMN06855979_assembled #EF7C51FF Mbovis-04
+SAMN06855978_assembled #EF7C51FF Mbovis-04
+SAMN06856006_assembled #C23C81FF Mbovis-02
+SAMN06856019_assembled #C23C81FF Mbovis-02
+SAMN06856018_assembled #C23C81FF Mbovis-02
+SAMN06856017_assembled #5402A3FF Mbovis-12
+SAMN06856016_assembled #5402A3FF Mbovis-12
+SAMN06856021_assembled #C23C81FF Mbovis-02
+SAMN06856025_assembled #DB5C68FF Mbovis-17
+SAMN06855994_assembled #C23C81FF Mbovis-02
+SAMN06855995_assembled #E26660FF Mbovis-19
+SAMN06855992_assembled #EF7C51FF Mbovis-04
+SAMN06855993_assembled #EF7C51FF Mbovis-04
+SAMN06855990_assembled #C23C81FF Mbovis-02
+SAMN06855991_assembled #EF7C51FF Mbovis-04
+SAMN06855988_assembled #C23C81FF Mbovis-02
+SAMN06855989_assembled #C23C81FF Mbovis-02
+SAMN06855987_assembled #C23C81FF Mbovis-02
+SAMN08321046_assembled #240691FF Mbovis-23
+SAMN08321046_assembled #240691FF Mbovis-23
+SAMN08321034_assembled #0D0887FF Mbovis-14
+SAMN08321034_assembled #0D0887FF Mbovis-14
+SAMN08321029_assembled #E97158FF Mbovis-18
+SAMN08321029_assembled #E97158FF Mbovis-18
+SAMN03288261_assembled #F89441FF Mbovis-11
+SAMN09725460_assembled #E26660FF Mbovis-19
+SAMN09725382_assembled #E26660FF Mbovis-19
+SAMN09725602_assembled #7E03A8FF Mbovis-09
+SAMN09725677_assembled #E26660FF Mbovis-19
+SAMN09725819_assembled #E26660FF Mbovis-19
+SAMN09725429_assembled #E26660FF Mbovis-19
+SAMN09725833_assembled #E26660FF Mbovis-19
+SAMN09725698_assembled #FDCB26FF Mbovis-30
+SAMN09725373_assembled #7E03A8FF Mbovis-09
+SAMN09725736_assembled #7E03A8FF Mbovis-09
+SAMN09725647_assembled #7E03A8FF Mbovis-09
+SAMN09725755_assembled #7E03A8FF Mbovis-09
+SAMN09725534_assembled #E26660FF Mbovis-19
+SAMN09725533_assembled #E26660FF Mbovis-19
+SAMN09725631_assembled #E26660FF Mbovis-19
+SAMN09725638_assembled #7E03A8FF Mbovis-09
+SAMN09725633_assembled #E26660FF Mbovis-19
+SAMN09725632_assembled #E26660FF Mbovis-19
+SAMN09725786_assembled #7E03A8FF Mbovis-09
+SAMN09725477_assembled #E26660FF Mbovis-19
+SAMN09725550_assembled #E26660FF Mbovis-19
+SAMN09725645_assembled #7E03A8FF Mbovis-09
+SAMN09725654_assembled #E26660FF Mbovis-19
+SAMN09725644_assembled #7E03A8FF Mbovis-09
+SAMN09725716_assembled #7E03A8FF Mbovis-09
+SAMN09725643_assembled #7E03A8FF Mbovis-09
+SAMN09725717_assembled #7E03A8FF Mbovis-09
+SAMN09725699_assembled #E26660FF Mbovis-19
+SAMN09725597_assembled #7E03A8FF Mbovis-09
+SAMN09725524_assembled #E26660FF Mbovis-19
+SAMN09725385_assembled #E26660FF Mbovis-19
+SAMN09725815_assembled #E26660FF Mbovis-19
+SAMN09725639_assembled #DB5C68FF Mbovis-17
+SAMN09725509_assembled #E26660FF Mbovis-19
+SAMN09725814_assembled #E26660FF Mbovis-19
+SAMN09725508_assembled #E26660FF Mbovis-19
+SAMN09725812_assembled #E26660FF Mbovis-19
+SAMN09725505_assembled #E26660FF Mbovis-19
+SAMN09725782_assembled #DB5C68FF Mbovis-17
+SAMN09725792_assembled #DB5C68FF Mbovis-17
+SAMN09725358_assembled #E26660FF Mbovis-19
+SAMN09725659_assembled #DB5C68FF Mbovis-17
+SAMN09725760_assembled #7E03A8FF Mbovis-09
+SAMN09725769_assembled #E26660FF Mbovis-19
+SAMN09725392_assembled #E26660FF Mbovis-19
+SAMN09725393_assembled #E26660FF Mbovis-19
+SAMN09725637_assembled #E26660FF Mbovis-19
+SAMN09725754_assembled #7E03A8FF Mbovis-09
+SAMN09725642_assembled #E26660FF Mbovis-19
+SAMN09725658_assembled #DB5C68FF Mbovis-17
+SAMN09725579_assembled #DB5C68FF Mbovis-17
+SAMN09725473_assembled #E26660FF Mbovis-19
+SAMN09725727_assembled #DB5C68FF Mbovis-17
+SAMN09725673_assembled #E26660FF Mbovis-19
+SAMN09725528_assembled #E26660FF Mbovis-19
+SAMN09725773_assembled #7E03A8FF Mbovis-09
+SAMN09725399_assembled #E26660FF Mbovis-19
+SAMN09725398_assembled #E26660FF Mbovis-19
+SAMN09725783_assembled #DB5C68FF Mbovis-17
+SAMN09725537_assembled #E26660FF Mbovis-19
+SAMN09725397_assembled #E26660FF Mbovis-19
+SAMN09725468_assembled #E26660FF Mbovis-19
+SAMN09725566_assembled #E26660FF Mbovis-19
+SAMN09725425_assembled #E26660FF Mbovis-19
+SAMN09725827_assembled #E26660FF Mbovis-19
+SAMN09725574_assembled #E26660FF Mbovis-19
+SAMN09725349_assembled #E26660FF Mbovis-19
+SAMN09725350_assembled #E26660FF Mbovis-19
+SAMN09725516_assembled #E26660FF Mbovis-19
+SAMN09725762_assembled #7E03A8FF Mbovis-09
+SAMN09725668_assembled #E26660FF Mbovis-19
+SAMN09725387_assembled #E26660FF Mbovis-19
+SAMN09725813_assembled #E26660FF Mbovis-19
+SAMN09725409_assembled #E26660FF Mbovis-19
+SAMN09725383_assembled #E26660FF Mbovis-19
+SAMN09725384_assembled #E26660FF Mbovis-19
+SAMN09725791_assembled #DB5C68FF Mbovis-17
+SAMN09725434_assembled #E26660FF Mbovis-19
+SAMN09725527_assembled #E26660FF Mbovis-19
+SAMN09725823_assembled #E26660FF Mbovis-19
+SAMN09725560_assembled #DB5C68FF Mbovis-17
+SAMN09725636_assembled #E26660FF Mbovis-19
+SAMN09725753_assembled #7E03A8FF Mbovis-09
+SAMN09725377_assembled #DB5C68FF Mbovis-17
+SAMN09725789_assembled #7E03A8FF Mbovis-09
+SAMN09725635_assembled #E26660FF Mbovis-19
+SAMN09725571_assembled #7E03A8FF Mbovis-09
+SAMN09725719_assembled #7E03A8FF Mbovis-09
+SAMN09725788_assembled #7E03A8FF Mbovis-09
+SAMN09725836_assembled #DB5C68FF Mbovis-17
+SAMN09725766_assembled #DB5C68FF Mbovis-17
+SAMN09725539_assembled #DB5C68FF Mbovis-17
+SAMN09725611_assembled #DB5C68FF Mbovis-17
+SAMN09725436_assembled #E26660FF Mbovis-19
+SAMN09725352_assembled #E26660FF Mbovis-19
+SAMN09725661_assembled #DB5C68FF Mbovis-17
+SAMN09725671_assembled #E26660FF Mbovis-19
+SAMN09725428_assembled #E26660FF Mbovis-19
+SAMN09725536_assembled #E26660FF Mbovis-19
+SAMN09725818_assembled #E26660FF Mbovis-19
+SAMN09725676_assembled #E26660FF Mbovis-19
+SAMN09725670_assembled #E26660FF Mbovis-19
+SAMN09725669_assembled #E26660FF Mbovis-19
+SAMN09725391_assembled #E26660FF Mbovis-19
+SAMN09725502_assembled #E26660FF Mbovis-19
+SAMN09725357_assembled #FDCB26FF Mbovis-30
+SAMN09725394_assembled #E26660FF Mbovis-19
+SAMN09725479_assembled #FDCB26FF Mbovis-30
+SAMN09725664_assembled #E26660FF Mbovis-19
+SAMN09725598_assembled #7E03A8FF Mbovis-09
+SAMN09725831_assembled #E26660FF Mbovis-19
+SAMN09725535_assembled #E26660FF Mbovis-19
+SAMN09725493_assembled #E26660FF Mbovis-19
+SAMN09725388_assembled #E26660FF Mbovis-19
+SAMN09725733_assembled #E26660FF Mbovis-19
+SAMN09725761_assembled #7E03A8FF Mbovis-09
+SAMN09725506_assembled #E26660FF Mbovis-19
+SAMN09725459_assembled #E26660FF Mbovis-19
+SAMN09725615_assembled #E26660FF Mbovis-19
+SAMN09725408_assembled #E26660FF Mbovis-19
+SAMN09725497_assembled #7E03A8FF Mbovis-09
+SAMN09725764_assembled #7E03A8FF Mbovis-09
+SAMN09725474_assembled #E26660FF Mbovis-19
+SAMN09725554_assembled #7E03A8FF Mbovis-09
+SAMN09725828_assembled #E26660FF Mbovis-19
+SAMN09725648_assembled #7E03A8FF Mbovis-09
+SAMN09725722_assembled #7E03A8FF Mbovis-09
+SAMN09725830_assembled #E26660FF Mbovis-19
+SAMN09725829_assembled #E26660FF Mbovis-19
+SAMN09725718_assembled #7E03A8FF Mbovis-09
+SAMN09725787_assembled #7E03A8FF Mbovis-09
+SAMN09725634_assembled #E26660FF Mbovis-19
+SAMN09725354_assembled #E26660FF Mbovis-19
+SAMN09725355_assembled #7E03A8FF Mbovis-09
+SAMN09725400_assembled #DB5C68FF Mbovis-17
+SAMN09725757_assembled #7E03A8FF Mbovis-09
+SAMN09725756_assembled #7E03A8FF Mbovis-09
+SAMN09725696_assembled #7E03A8FF Mbovis-09
+SAMN09725832_assembled #E26660FF Mbovis-19
+SAMN09725389_assembled #E26660FF Mbovis-19
+SAMN09725426_assembled #E26660FF Mbovis-19
+SAMN09725427_assembled #E26660FF Mbovis-19
+SAMN09725816_assembled #E26660FF Mbovis-19
+SAMN09725660_assembled #DB5C68FF Mbovis-17
+SAMN09725817_assembled #E26660FF Mbovis-19
+SAMN09725510_assembled #E26660FF Mbovis-19
+SAMN09725649_assembled #7E03A8FF Mbovis-09
+SAMN09725503_assembled #E26660FF Mbovis-19
+SAMN09725665_assembled #E26660FF Mbovis-19
+SAMN09725809_assembled #E26660FF Mbovis-19
+SAMN09725653_assembled #DB5C68FF Mbovis-17
+SAMN09725488_assembled #E26660FF Mbovis-19
+SAMN09725489_assembled #E26660FF Mbovis-19
+SAMN09725369_assembled #E26660FF Mbovis-19
+SAMN09725485_assembled #E26660FF Mbovis-19
+SAMN09725484_assembled #E26660FF Mbovis-19
+SAMN09725487_assembled #E26660FF Mbovis-19
+SAMN09725486_assembled #E26660FF Mbovis-19
+SAMN09725491_assembled #E26660FF Mbovis-19
+SAMN09725837_assembled #FDCB26FF Mbovis-30
+SAMN09812433_assembled #6200A7FF Mbovis-29
+SAMN09812432_assembled #DB5C68FF Mbovis-17
+SAMN09812435_assembled #6200A7FF Mbovis-29
+SAMN09812436_assembled #FDAE31FF Mbovis-21
+SAMN09812453_assembled #E26660FF Mbovis-19
+SAMN09812412_assembled #0D0887FF Mbovis-14
+SAMN09812409_assembled #FDAE31FF Mbovis-21
+SAMN09812416_assembled #FDAE31FF Mbovis-21
+SAMN09812394_assembled #FDAE31FF Mbovis-21
+SAMN09812470_assembled #FDAE31FF Mbovis-21
+SAMN09812443_assembled #6200A7FF Mbovis-29
+SAMN09812450_assembled #6200A7FF Mbovis-29
+SAMN09812439_assembled #FDAE31FF Mbovis-21
+SAMN09812444_assembled #FDAE31FF Mbovis-21
+SAMN09812407_assembled #FDAE31FF Mbovis-21
+SAMN09812400_assembled #FDAE31FF Mbovis-21
+SAMN09812398_assembled #FDAE31FF Mbovis-21
+SAMN09812399_assembled #FDAE31FF Mbovis-21
+SAMN09812421_assembled #FDAE31FF Mbovis-21
+SAMN09812424_assembled #5402A3FF Mbovis-12
+SAMN09812426_assembled #FDAE31FF Mbovis-21
+SAMN09812427_assembled #F5E926FF Mbovis-10
+SAMN09812446_assembled #FDAE31FF Mbovis-21
+SAMN09812466_assembled #6200A7FF Mbovis-29
+SAMN09812393_assembled #FDAE31FF Mbovis-21
+SAMN09812388_assembled #FDAE31FF Mbovis-21
+SAMN09812456_assembled #6200A7FF Mbovis-29
+SAMN10966149_assembled #F0F921FF Mbovis-09R
+SAMN10966096_assembled #F0F921FF Mbovis-09R
+SAMN10966085_assembled #F0F921FF Mbovis-09R
+SAMN10966121_assembled #F0F921FF Mbovis-09R
+SAMN10966125_assembled #8B0AA5FF No_defining_SNP
+SAMN10966126_assembled #8B0AA5FF No_defining_SNP
+SAMN10966073_assembled #F0F921FF Mbovis-09R
+SAMN10966068_assembled #7E03A8FF Mbovis-09
+SAMN10966069_assembled #8B0AA5FF No_defining_SNP
+SAMN10966054_assembled #F0F921FF Mbovis-09R
+SAMN10966076_assembled #F0F921FF Mbovis-09R
+SAMN10966147_assembled #F0F921FF Mbovis-09R
+SAMN10966185_assembled #F0F921FF Mbovis-09R
+SAMN10966139_assembled #F0F921FF Mbovis-09R
+SAMN10966111_assembled #8B0AA5FF No_defining_SNP
+SAMN10966112_assembled #8B0AA5FF No_defining_SNP
+SAMN10966065_assembled #7E03A8FF Mbovis-09
+SAMN10966063_assembled #F0F921FF Mbovis-09R
+SAMN10966062_assembled #F0F921FF Mbovis-09R
+SAMN10966066_assembled #7E03A8FF Mbovis-09
+SAMN10966104_assembled #F0F921FF Mbovis-09R
+SAMN10966103_assembled #F0F921FF Mbovis-09R
+SAMN10966102_assembled #F0F921FF Mbovis-09R
+SAMN10966106_assembled #7E03A8FF Mbovis-09
+SAMN10966057_assembled #F0F921FF Mbovis-09R
+SAMN10966056_assembled #F0F921FF Mbovis-09R
+SAMN10966087_assembled #F0F921FF Mbovis-09R
+SAMN10966051_assembled #8B0AA5FF No_defining_SNP
+SAMN10966095_assembled #F0F921FF Mbovis-09R
+SAMN10966134_assembled #F0F921FF Mbovis-09R
+SAMN10966137_assembled #F0F921FF Mbovis-09R
+SAMN10966133_assembled #F0F921FF Mbovis-09R
+
+
+#assign a green, semi-transparent (alpha 0.5) strip to an internal node, without any label. If 'Show internal values' is set to 'No', this will only be displayed if the node is collapsed. 
+#9606|5664 rgba(0,255,0,0.5)
