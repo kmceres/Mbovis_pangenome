@@ -13,7 +13,7 @@
 * annotation: 
 	- prokka /path/to/fasta --proteins af2122.97.gb --outdir /path/to/fasta/prokka
 
-## QC:
+## Assembly quality control
 * Quast:
 	- quast.py path/to/spades/contigs.fasta -r af2122.97.fasta -g af2122.97.gff3 -o path/to/contig/quast_results/
 * CheckM:
@@ -43,3 +43,17 @@
 
 * blast accessory genes:
 	- blastn -db bovis_pangenome_ref -query pan_genome_reference.fa -out blast_results.out -outfmt 6 
+
+## SNP calling and annotation
+* vSNP
+	- vSNP_step1.py -r1 \*\_1.fastq.gz -r2 \*\_2.fastq.gz -r Mycobacterium_AF2122 
+	- vSNP_step2.py -n -a 
+* filtering SNPs, merge vcf files into one for annotation
+	- vcffilter -f "MQ > 30 & DP > 10" file.vcf > file.filtered.vcf
+	- bgzip file.filtered.vcf
+	- tabix file.filtered.vcf.gz 
+	- bcftools merge \*.vcf.gz -Oz -o Merged.vcf.gz 
+
+* snpEFF
+	- java -Xmx4g -jar snpEff af2122v4 Merged.vcf.vcf.gz -no-downstream -no-upstream > Merged_annotated.vcf 
+
