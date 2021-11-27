@@ -2,6 +2,7 @@
 Maintained by Kristina Ceres: kc649@cornell.edu
 
 ## Rscripts
+* genome_quality_plot.R: quast and checkM results for assembly quality in **Supplemental Figure 1"
 * world_plot_cluster.R: scripts to create geographic clusters and map plot for **Figure 1**
 * PCA.R: Core and accessory genome clustering and plots for **Figure 2**
 * ref_blast_matches.R: analyzing where M. bovis genes identifed by Panaroo map to the M. bovis reference af2122/97
@@ -14,11 +15,16 @@ Maintained by Kristina Ceres: kc649@cornell.edu
 * ITOL_colorstrip_kmeans_cluster.txt: Kmeans labels for Jaccard dendrogram
 * ITOL_mbovis_group_colorstrip.txt: M. bovis phylogenetic labels 
 * ITOL_glpK.txt: heatmap showing presence and absence of glpK 7C-->8C insertion used in **Figure 4**
+* ITOL_PhiRv1.txt: presence/absence of prophage PhiRv1 genes
+* redundantly_annotated_genes: directory for iTOL gradient files for **Supplementary Figure 3**
 
 ## tree files
 * unfiltered_acc_gene_dendrogram.nwk: Jaccard distance dendrogram used in **Figure2A**
 * concat_gblocks_aln.node_labelled.final_tree.tre: core phylogeny used in all figures that display core trees
 * hamming_tree_outbreaks.tre: SNP tree for **Figure 5** 
+
+## Parameter_file.md
+* parameters for all bioinformatics not conducted in R
 
 
 
