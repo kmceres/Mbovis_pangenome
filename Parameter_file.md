@@ -1,4 +1,4 @@
-# Parameters for non-R bioinformatics 
+# Parameters for bioinformatic analyses
 
 ## Genome assembly
 * SPAdes:
