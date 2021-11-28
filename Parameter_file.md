@@ -57,3 +57,13 @@
 * snpEFF
 	- java -Xmx4g -jar snpEff af2122v4 Merged.vcf.vcf.gz -no-downstream -no-upstream > Merged_annotated.vcf 
 
+## PANTHER over-representation test
+* gene labels for Mtb were used because PANTHER has an Mtb datatabse
+* input files:
+	- test set: acc_list_for_PANTHER.txt
+	- ref set: core_list_for_PANTHER.txt
+	- annotation dataset: PANTHER Protein Class
+* significance: 
+	- FDR p < .05, Fisher's exact test
+	- only interested in gene categories over-represented in test set 
+
