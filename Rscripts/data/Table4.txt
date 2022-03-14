@@ -1,0 +1,1868 @@
+Position_ref	ancestral	derived	PhylogeneticSNP	Start	End	Strand	Gene	Position_gene	Position_codon	snpEff_mutation	KvarQ_informative
+1001257	G	A	La3	1002415	1000808	-	Rv0897c	1159	first	nonsynonymous	False
+1009261	C	G	La3	1008944	1010062	+	Rv0906	318	third	synonymous	False
+1012060	A	G	La3	1011731	1014124	+	Rv0908	330	third	synonymous	False
+1012748	G	A	La3	1011731	1014124	+	Rv0908	1018	first	nonsynonymous	False
+1021392	G	A	La3	1021643	1021344	-	Rv0916c	252	third	synonymous	False
+1031572	G	A	La3	1031864	1030578	-	Rv0924c	293	second	nonsynonymous	False
+1037299	G	C	La3	1036999	1037925	+	Rv0930	301	first	nonsynonymous	False
+1047661	A	C	La3	1046136	1048415	+	Rv0938	1526	second	nonsynonymous	False
+1053538	A	G	La3	1053736	1052696	-	Rv0943c	199	first	nonsynonymous	False
+1067609	G	A	La3	1067561	1068208	+	Rv0956	49	first	nonsynonymous	False
+107805	G	A	La3	107600	108151	+	Rv0098	206	second	nonsynonymous	False
+108031	T	C	La3	107600	108151	+	Rv0098	432	third	synonymous	False
+1084515	G	C	La3	1085750	1083747	-	Rv0973c	1236	third	synonymous	False
+1085567	C	T	La3	1085750	1083747	-	Rv0973c	184	first	nonsynonymous	False
+1087802	A	G	La3	1088496	1087348	-	Rv0975c	695	second	nonsynonymous	False
+1096847	A	T	La3	1096816	1097508	+	Rv0981	32	second	nonsynonymous	False
+1099228	C	T	La3	1099066	1100460	+	Rv0983	163	first	nonsynonymous	False
+1139698	A	G	La3	1138967	1142671	+	Rv1020	732	third	synonymous	False
+1177000	G	A	La3	1176928	1177242	+	Rv1054	73	first	custom	False
+1183362	G	C	La3	1182391	1183455	+	Rv1059	972	third	synonymous	False
+1187902	G	A	La3	1187435	1188001	+	Rv1065	468	third	synonymous	False
+1195238	C	T	La3	1196092	1195055	-	Rv1071c	855	third	synonymous	False
+119987	A	G	La3	122173	119915	-	Rv0103c	2187	third	synonymous	False
+1200341	G	C	La3	1200370	1199426	-	Rv1075c	30	third	synonymous	False
+1202094	C	T	La3	1201717	1203111	+	Rv1077	378	third	synonymous	False
+1211274	C	T	La3	1210595	1211383	+	Rv1086	680	second	nonsynonymous	False
+1215822	G	T	La3	1215599	1216054	+	Rv1090	224	second	custom	False
+1230028	A	G	La3	1230548	1229391	-	Rv1101c	521	second	nonsynonymous	False
+1236745	G	C	La3	1236185	1237192	+	Rv1110	561	third	synonymous	False
+1237312	T	G	La3	1238192	1237209	-	Rv1111c	881	second	nonsynonymous	False
+1240481	A	C	La3	1240187	1240885	+	Rv1115	295	first	nonsynonymous	False
+1241950	C	T	La3	1241633	1241956	+	Rv1117	318	third	synonymous	False
+1250415	C	A	La3	1251404	1249932	-	Rv1127c	990	third	nonsynonymous	False
+1280747	G	C	La3	1280846	1279998	-	Rv1153c	100	first	nonsynonymous	False
+1286172	C	T	La3	1284992	1286287	+	Rv1159	1181	second	nonsynonymous	False
+1288923	A	C	La3	1287328	1291026	+	Rv1161	1596	third	synonymous	False
+1309494	A	G	La3	1309364	1310452	+	Rv1178	131	second	nonsynonymous	False
+1321202	G	C	La3	1320035	1321453	+	Rv1182	1168	first	nonsynonymous	False
+1323374	T	C	La3	1321520	1324528	+	Rv1183	1855	first	nonsynonymous	False
+1323589	G	T	La3	1321520	1324528	+	Rv1183	2070	third	nonsynonymous	False
+1325249	T	G	La3	1325611	1324532	-	Rv1184c	363	third	synonymous	False
+1330443	G	A	La3	1329390	1331021	+	Rv1187	1054	first	nonsynonymous	False
+13315	A	G	La3	13558	13133	-	Rv0010c	244	first	nonsynonymous	False
+1333051	C	G	La3	1332980	1333858	+	Rv1190	72	third	synonymous	False
+1334999	A	G	La3	1334927	1335754	+	Rv1192	73	first	nonsynonymous	False
+1341174	T	C	La3	1341006	1341290	+	Rv1198	169	first	synonymous	False
+1344807	G	A	La3	1345169	1344216	-	Rv1201c	363	third	synonymous	False
+1349002	T	C	La3	1348719	1349282	+	Rv1205	284	second	nonsynonymous	False
+1355203	G	A	La3	1355661	1354498	-	Rv1212c	459	third	synonymous	False
+1359225	C	A	La3	1359444	1357759	-	Rv1215c	220	first	nonsynonymous	False
+1365748	C	T	La3	1365344	1365808	+	Rv1222	405	third	synonymous	False
+1369060	G	T	La3	1370295	1368832	-	Rv1226c	1236	third	synonymous	False
+1375542	G	A	La3	1376168	1374861	-	Rv1232c	627	third	synonymous	False
+1377919	C	A	La3	1377524	1378930	+	Rv1235	396	third	synonymous	False
+1383800	G	A	La3	1383213	1384202	+	Rv1240	588	third	synonymous	False
+1388539	G	A	La3	1388628	1387798	-	Rv1245c	90	third	synonymous	False
+1388711	G	A	La3	1388978	1388685	-	Rv1246c	268	first	stop_gained	False
+1400830	G	T	La3	1399970	1401661	+	Rv1253	861	third	synonymous	False
+1410646	G	A	La3	1410431	1411819	+	Rv1263	216	third	synonymous	False
+1414009	T	C	La3	1415840	1413960	-	Rv1266c	1832	second	nonsynonymous	False
+1414381	T	G	La3	1415840	1413960	-	Rv1266c	1460	second	nonsynonymous	False
+1418091	A	G	La3	1418356	1417658	-	Rv1268c	266	second	nonsynonymous	False
+1425039	C	T	La3	1424751	1425293	+	Rv1275	289	first	nonsynonymous	False
+1430009	G	A	La3	1427414	1430041	+	Rv1278	2596	first	nonsynonymous	False
+1433143	G	A	La3	1433440	1431665	-	Rv1280c	298	first	nonsynonymous	False
+1433787	A	G	La3	1435271	1433433	-	Rv1281c	1485	third	synonymous	False
+1435481	C	A	La3	1436143	1435268	-	Rv1282c	663	third	synonymous	False
+144201	G	T	La3	144049	145626	+	Rv0119	153	third	synonymous	False
+1449038	C	T	La3	1448028	1449371	+	Rv1293	1011	third	synonymous	False
+1453460	C	T	La3	1453204	1455012	+	Rv1297	257	second	nonsynonymous	False
+1461451	T	C	La3	1461321	1461836	+	Rv1306	131	second	nonsynonymous	False
+1465317	C	T	La3	1464884	1465801	+	Rv1309	434	second	nonsynonymous	False
+1480813	C	T	La3	1480824	1479199	-	Rv1318c	12	third	synonymous	False
+1498691	A	C	La3	1499189	1497195	-	Rv1329c	499	first	nonsynonymous	False
+1505028	G	A	La3	1504356	1505078	+	Rv1337	673	first	nonsynonymous	False
+1517316	G	C	La3	1515623	1517362	+	Rv1349	1694	second	nonsynonymous	False
+1519924	A	C	La3	1519985	1519200	-	Rv1353c	62	second	nonsynonymous	False
+154276	T	G	La3	154232	155599	+	Rv0127	45	third	nonsynonymous	False
+1546130	A	C	La3	1546012	1546992	+	Rv1373	119	second	nonsynonymous	False
+1546596	C	T	La3	1546012	1546992	+	Rv1373	585	third	synonymous	False
+1550928	G	T	La3	1551217	1550579	-	Rv1377c	290	second	nonsynonymous	False
+1555342	C	T	La3	1554188	1555480	+	Rv1381	1155	third	synonymous	False
+1566144	A	G	La3	1565441	1566697	+	Rv1391	704	second	nonsynonymous	False
+1567479	A	G	La3	1566825	1568036	+	Rv1392	655	first	nonsynonymous	False
+1579197	C	T	La3	1577613	1579580	+	Rv1402	1585	first	synonymous	False
+1589420	A	G	La3	1589386	1589901	+	Rv1413	35	second	nonsynonymous	False
+1596656	T	C	La3	1595979	1596884	+	Rv1421	678	third	synonymous	False
+1598857	A	G	La3	1597906	1598883	+	Rv1423	952	first	nonsynonymous	False
+159941	C	T	La3	160782	159700	-	Rv0132c	842	second	stop_gained	False
+160246	C	T	La3	160782	159700	-	Rv0132c	537	third	stop_gained	False
+160910	C	T	La3	160869	161474	+	Rv0133	42	third	synonymous	False
+1612514	G	A	La3	1612950	1612342	-	Rv1435c	437	second	nonsynonymous	False
+1615163	A	G	La3	1614329	1615567	+	Rv1437	835	first	nonsynonymous	False
+1625336	G	C	La3	1625365	1624454	-	Rv1446c	30	third	synonymous	False
+1639579	A	G	La3	1638381	1639646	+	Rv1453	1199	second	nonsynonymous	False
+1652839	G	C	La3	1652768	1653256	+	Rv1465	72	third	synonymous	False
+1654736	T	C	La3	1655502	1653673	-	Rv1467c	767	second	nonsynonymous	False
+1655137	G	T	La3	1655502	1653673	-	Rv1467c	366	third	nonsynonymous	False
+1658863	T	A	La3	1656963	1658936	+	Rv1469	1901	second	nonsynonymous	False
+1661723	G	A	La3	1660656	1662284	+	Rv1473	1068	third	synonymous	False
+1665634	T	C	La3	1666046	1663215	-	Rv1475c	413	second	nonsynonymous	False
+1678778	T	C	La3	1678552	1678908	+	Rv1489	227	second	nonsynonymous	False
+1686313	C	T	La3	1686271	1686573	+	Rv1494	43	first	nonsynonymous	False
+1692670	C	G	La3	1691890	1692711	+	Rv1501	781	first	nonsynonymous	False
+1694058	G	C	La3	1694544	1693996	-	Rv1503c	487	first	custom	False
+1696370	T	C	La3	1696443	1695943	-	Rv1506c	74	second	nonsynonymous	False
+1697309	A	G	La3	1697422	1696727	-	Rv1507c	114	third	synonymous	False
+1697726	G	A	La3	1697356	1697859	+	Rv1507A	371	second	nonsynonymous	False
+1703193	C	G	La3	1703074	1704096	+	Rv1511	120	third	synonymous	False
+1708095	C	T	La3	1708539	1707529	-	Rv1516c	445	first	nonsynonymous	False
+1710243	T	C	La3	1709644	1710603	+	Rv1518	600	third	synonymous	False
+1716872	G	A	La3	1717612	1714172	-	Rv1522c	741	third	synonymous	False
+172107	A	G	La3	171215	172168	+	Rv0145	893	second	nonsynonymous	False
+1728407	C	T	La3	1728409	1722083	-	Rv1527c	3	third	start_lost	False
+1729178	C	T	La3	1729450	1728953	-	Rv1528c	273	third	nonsynonymous	False
+173096	G	C	La3	172211	173143	+	Rv0146	886	first	nonsynonymous	False
+1732305	C	T	La3	1731373	1732476	+	Rv1530	933	third	synonymous	False
+1734398	G	C	La3	1733610	1734737	+	Rv1533	789	third	nonsynonymous	False
+174602	C	T	La3	173238	174758	+	Rv0147	1365	third	synonymous	False
+1766300	C	A	La3	1767142	1765400	-	Rv1562c	843	third	synonymous	False
+1771565	C	T	La3	1771601	1769436	-	Rv1564c	37	first	nonsynonymous	False
+1778350	A	G	La3	1777859	1778539	+	Rv1570	492	third	synonymous	False
+1790815	G	A	La3	1790284	1791333	+	Rv1589	532	first	nonsynonymous	False
+1797375	T	C	La3	1795805	1797388	+	Rv1595	1571	second	nonsynonymous	False
+1806205	G	A	La3	1806181	1807263	+	Rv1607	25	first	nonsynonymous	False
+1834363	G	A	La3	1833542	1834987	+	Rv1630	822	third	synonymous	False
+1836454	T	C	La3	1836830	1836387	-	Rv1632c	377	second	nonsynonymous	False
+1838408	A	C	La3	1837075	1839171	+	Rv1633	1334	second	nonsynonymous	False
+1846080	G	A	La3	1843741	1846659	+	Rv1638	2340	third	synonymous	False
+1856578	T	G	La3	1855764	1856696	+	Rv1646	815	second	nonsynonymous	False
+1865906	G	A	La3	1865576	1866634	+	Rv1652	331	first	nonsynonymous	False
+1912317	T	C	La3	1912920	1912153	-	Rv1687c	604	first	nonsynonymous	False
+1918811	A	G	La3	1918746	1919669	+	Rv1695	66	third	synonymous	False
+1919886	T	C	La3	1919683	1921446	+	Rv1696	204	third	synonymous	False
+1935832	C	G	La3	1934882	1936342	+	Rv1707	951	third	synonymous	False
+19376	C	T	La3	20234	18759	-	Rv0016c	859	first	nonsynonymous	False
+1941228	T	C	La3	1940288	1941679	+	Rv1713	941	second	nonsynonymous	False
+1944728	T	C	La3	1944406	1944756	+	Rv1717	323	second	nonsynonymous	False
+1950172	C	T	La3	1949342	1950589	+	Rv1723	831	third	synonymous	False
+195186	C	T	La3	194993	196657	+	Rv0166	194	second	nonsynonymous	False
+1952606	C	T	La3	1951852	1953237	+	Rv1726	755	second	nonsynonymous	False
+1952724	C	G	La3	1951852	1953237	+	Rv1726	873	third	synonymous	False
+1958149	A	C	La3	1957677	1959233	+	Rv1731	473	second	nonsynonymous	False
+1964880	T	G	La3	1965370	1964183	-	Rv1737c	491	second	nonsynonymous	False
+1966825	G	T	La3	1967637	1965955	-	Rv1739c	813	third	nonsynonymous	False
+1969154	C	A	La3	1969004	1970704	+	Rv1743	151	first	nonsynonymous	False
+1969204	C	T	La3	1969004	1970704	+	Rv1743	201	third	synonymous	False
+1971609	A	G	La3	1971991	1971380	-	Rv1745c	383	second	nonsynonymous	False
+19964	A	C	La3	20234	18759	-	Rv0016c	271	first	nonsynonymous	False
+2016256	C	T	La3	2017476	2015302	-	Rv1781c	1221	third	synonymous	False
+204609	C	T	La3	204065	205237	+	Rv0173	545	second	nonsynonymous	False
+2050347	A	G	La3	2049921	2051150	+	Rv1808	427	first	nonsynonymous	False
+2054026	C	A	La3	2053443	2054147	+	Rv1811	584	second	nonsynonymous	False
+2070327	A	G	La3	2069702	2070625	+	Rv1823	626	second	nonsynonymous	False
+2089230	C	G	La3	2089518	2087971	-	Rv1840c	289	first	nonsynonymous	False
+209054	G	A	La3	208938	209672	+	Rv0178	117	third	synonymous	False
+209055	G	A	La3	208938	209672	+	Rv0178	118	first	nonsynonymous	False
+2093412	A	T	La3	2093698	2092259	-	Rv1843c	287	second	nonsynonymous	False
+2093618	C	A	La3	2093698	2092259	-	Rv1843c	81	third	nonsynonymous	False
+2093681	G	T	La3	2093698	2092259	-	Rv1843c	18	third	nonsynonymous	False
+2097066	A	G	La3	2096877	2097299	+	Rv1847	190	first	nonsynonymous	False
+2119821	C	T	La3	2120695	2119460	-	Rv1869c	875	second	nonsynonymous	False
+2125968	G	C	La3	2125904	2127967	+	Rv1877	65	second	nonsynonymous	False
+2127942	C	A	La3	2125904	2127967	+	Rv1877	2039	second	stop_gained	False
+2128540	C	G	La3	2128022	2129374	+	Rv1878	519	third	synonymous	False
+2129750	G	T	La3	2129377	2130513	+	Rv1879	374	second	nonsynonymous	False
+2134439	A	G	La3	2134872	2134273	-	Rv1885c	434	second	nonsynonymous	False
+2148068	T	C	La3	2147662	2148954	+	Rv1901	407	second	nonsynonymous	False
+2149049	G	A	La3	2150274	2149006	-	Rv1902c	1226	second	nonsynonymous	False
+2159502	T	C	La3	2159191	2159943	+	Rv1913	312	third	synonymous	False
+2161877	C	T	La3	2161566	2162762	+	Rv1916	312	third	synonymous	False
+2171499	C	G	La3	2171525	2171061	-	Rv1919c	27	third	nonsynonymous	False
+2175382	T	C	La3	2175173	2176513	+	Rv1923	210	third	synonymous	False
+2175391	T	G	La3	2175173	2176513	+	Rv1923	219	third	synonymous	False
+2176840	G	C	La3	2176930	2176550	-	Rv1924c	91	first	nonsynonymous	False
+2184017	G	C	La3	2184957	2183866	-	Rv1933c	941	second	nonsynonymous	False
+2185102	T	C	La3	2186188	2184959	-	Rv1934c	1087	first	nonsynonymous	False
+2187717	G	A	La3	2187384	2188493	+	Rv1936	334	first	nonsynonymous	False
+221561	C	A	La3	221723	219996	-	Rv0189c	163	first	nonsynonymous	False
+2227583	A	T	La3	2226244	2227920	+	Rv1983	1340	second	nonsynonymous	False
+2235472	G	A	La3	2237306	2234991	-	Rv1992c	1835	second	nonsynonymous	False
+2237023	C	G	La3	2237306	2234991	-	Rv1992c	284	second	nonsynonymous	False
+2243404	G	A	La3	2243721	2242945	-	Rv1998c	318	third	synonymous	False
+2247508	A	T	La3	2246832	2247584	+	Rv2001	677	second	nonsynonymous	False
+2257214	C	T	La3	2257942	2256617	-	Rv2008c	729	third	synonymous	False
+2267329	C	T	La3	2267724	2267119	-	Rv2022c	396	third	synonymous	False
+2282095	A	C	La3	2281614	2282102	+	Rv2035	482	second	nonsynonymous	False
+2288569	A	C	La3	2288681	2287884	-	Rv2042c	113	second	nonsynonymous	False
+2289978	A	C	La3	2291220	2289685	-	Rv2045c	1243	first	nonsynonymous	False
+2291717	C	T	La3	2291269	2291925	+	Rv2046	449	second	nonsynonymous	False
+2296634	G	T	La3	2306986	2294531	-	Rv2048c	10353	third	synonymous	False
+2297109	A	G	La3	2306986	2294531	-	Rv2048c	9878	second	nonsynonymous	False
+230101	C	T	La3	226878	230462	+	Rv0194	3224	second	nonsynonymous	False
+2305205	G	C	La3	2306986	2294531	-	Rv2048c	1782	third	nonsynonymous	False
+2309820	G	C	La3	2310755	2308131	-	Rv2051c	936	third	synonymous	False
+231284	G	A	La3	230899	231534	+	Rv0195	386	second	nonsynonymous	False
+2328273	A	G	La3	2328977	2328222	-	Rv2071c	705	third	synonymous	False
+2329106	A	C	La3	2330146	2328974	-	Rv2072c	1041	third	synonymous	False
+233314	G	A	La3	232231	234519	+	Rv0197	1084	first	nonsynonymous	False
+2333351	G	C	La3	2334294	2333323	-	Rv2077c	944	second	nonsynonymous	False
+2333724	G	A	La3	2334294	2333323	-	Rv2077c	571	first	nonsynonymous	False
+2333804	A	G	La3	2334294	2333323	-	Rv2077c	491	second	nonsynonymous	False
+2358471	T	G	La3	2358389	2360041	+	Rv2100	83	second	nonsynonymous	False
+2361455	G	A	La3	2360240	2363281	+	Rv2101	1216	first	nonsynonymous	False
+2362885	C	T	La3	2360240	2363281	+	Rv2101	2646	third	synonymous	False
+2363160	T	C	La3	2360240	2363281	+	Rv2101	2921	second	nonsynonymous	False
+2369128	G	C	La3	2369729	2368983	-	Rv2109c	602	second	nonsynonymous	False
+237265	C	G	La3	237206	237895	+	Rv0200	60	third	synonymous	False
+2378822	G	A	La3	2378386	2379222	+	Rv2119	437	second	nonsynonymous	False
+2379532	T	C	La3	2379727	2379245	-	Rv2120c	196	first	nonsynonymous	False
+2405863	T	C	La3	2405956	2405666	-	Rv2146c	94	first	nonsynonymous	False
+2427896	G	T	La3	2428238	2427084	-	Rv2164c	343	first	nonsynonymous	False
+2435954	A	G	La3	2435909	2437459	+	Rv2174	46	first	nonsynonymous	False
+2438682	C	T	La3	2437941	2439140	+	Rv2176	742	first	stop_gained	False
+244497	T	C	La3	247318	244484	-	Rv0206c	2822	second	nonsynonymous	False
+2445840	A	G	La3	2446946	2445807	-	Rv2184c	1107	third	synonymous	False
+2446827	T	C	La3	2446946	2445807	-	Rv2184c	120	third	synonymous	False
+2448407	G	A	La3	2448160	2449962	+	Rv2187	248	second	stop_gained	False
+2449412	G	A	La3	2448160	2449962	+	Rv2187	1253	second	nonsynonymous	False
+2453885	G	A	La3	2453819	2455756	+	Rv2191	67	first	nonsynonymous	False
+2459865	T	C	La3	2459678	2461327	+	Rv2196	188	second	nonsynonymous	False
+2464208	C	T	La3	2464751	2463660	-	Rv2200c	544	first	nonsynonymous	False
+2469396	C	T	La3	2470463	2469387	-	Rv2205c	1068	third	synonymous	False
+247300	G	T	La3	247318	244484	-	Rv0206c	19	first	synonymous	False
+2475305	G	A	La3	2475970	2474864	-	Rv2210c	666	third	synonymous	False
+2486576	G	A	La3	2486235	2486987	+	Rv2219	342	third	synonymous	False
+2499597	G	A	La3	2498832	2500373	+	Rv2226	766	first	nonsynonymous	False
+2519445	C	A	La3	2519396	2520712	+	Rv2246	50	second	nonsynonymous	False
+2522014	G	C	La3	2520743	2522164	+	Rv2247	1272	third	nonsynonymous	False
+2536029	T	C	La3	2535641	2536594	+	Rv2263	389	second	nonsynonymous	False
+255280	T	C	La3	255950	254637	-	Rv0213c	671	second	nonsynonymous	False
+2556298	G	C	La3	2556145	2557440	+	Rv2284	154	first	nonsynonymous	False
+2565689	G	A	La3	2565327	2566550	+	Rv2294	363	third	synonymous	False
+2565748	G	A	La3	2565327	2566550	+	Rv2294	422	second	nonsynonymous	False
+2569448	G	A	La3	2569082	2570053	+	Rv2298	367	first	nonsynonymous	False
+2577116	C	G	La3	2577108	2577701	+	Rv2306A	9	third	custom	False
+2585958	T	C	La3	2587290	2585917	-	Rv2314c	1333	first	nonsynonymous	False
+2594268	T	C	La3	2594699	2594154	-	Rv2321c	432	third	custom	False
+2609478	T	C	La3	2608796	2609728	+	Rv2334	683	second	nonsynonymous	False
+261680	G	A	La3	260924	262252	+	Rv0218	757	first	nonsynonymous	False
+2648854	T	C	La3	2648912	2648364	-	Rv2367c	59	second	nonsynonymous	False
+2656466	A	T	La3	2657703	2656408	-	Rv2378c	1238	second	nonsynonymous	False
+2662776	T	G	La3	2667115	2662067	-	Rv2380c	4340	second	nonsynonymous	False
+2675648	T	C	La3	2675837	2671593	-	Rv2383c	190	first	nonsynonymous	False
+268953	C	T	La3	268663	269817	+	Rv0225	291	third	synonymous	False
+2694479	G	A	La3	2694964	2693909	-	Rv2397c	486	third	synonymous	False
+2702921	G	A	La3	2703248	2701287	-	Rv2404c	328	first	nonsynonymous	False
+2710207	G	A	La3	2710075	2710335	+	Rv2412	133	first	nonsynonymous	False
+2717317	A	G	La3	2717799	2717128	-	Rv2419c	483	third	synonymous	False
+2729237	G	A	La3	2730560	2729115	-	Rv2434c	1324	first	synonymous	False
+2739254	C	G	La3	2739686	2738247	-	Rv2440c	433	first	nonsynonymous	False
+2746391	A	G	La3	2747598	2746135	-	Rv2447c	1208	second	nonsynonymous	False
+2754717	G	A	La3	2754746	2753625	-	Rv2454c	30	third	synonymous	False
+2756498	G	A	La3	2756704	2754743	-	Rv2455c	207	third	synonymous	False
+2772670	C	G	La3	2773035	2772367	-	Rv2469c	366	third	synonymous	False
+2772924	C	G	La3	2773035	2772367	-	Rv2469c	112	first	nonsynonymous	False
+2774534	C	T	La3	2773564	2775204	+	Rv2471	971	second	nonsynonymous	False
+2787304	C	T	La3	2789283	2786914	-	Rv2482c	1980	third	nonsynonymous	False
+2807031	G	A	La3	2806665	2807288	+	Rv2491	367	first	nonsynonymous	False
+2807945	T	G	La3	2807278	2808030	+	Rv2492	668	second	nonsynonymous	False
+2809468	G	C	La3	2809939	2808758	-	Rv2495c	472	first	nonsynonymous	False
+2813446	G	A	La3	2813730	2813173	-	Rv2499c	285	third	synonymous	False
+2815003	C	G	La3	2816880	2814916	-	Rv2501c	1878	third	nonsynonymous	False
+281526	T	C	La3	282614	281166	-	Rv0235c	1089	third	synonymous	False
+2821013	T	C	La3	2821596	2819953	-	Rv2505c	584	second	nonsynonymous	False
+2827731	T	G	La3	2827157	2827804	+	Rv2511	575	second	nonsynonymous	False
+2831140	A	G	La3	2831338	2830877	-	Rv2514c	199	first	nonsynonymous	False
+2845390	C	T	La3	2849332	2840123	-	Rv2524c	3943	first	nonsynonymous	False
+2852114	C	T	La3	2852671	2851751	-	Rv2528c	558	third	synonymous	False
+2856463	G	T	La3	2857781	2854938	-	Rv2531c	1319	second	nonsynonymous	False
+286485	C	T	La3	286851	282649	-	Rv0236c	367	first	nonsynonymous	False
+2877192	C	A	La3	2877072	2877746	+	Rv2557	121	first	nonsynonymous	False
+2884050	C	A	La3	2883342	2884334	+	Rv2564	709	first	nonsynonymous	False
+2884053	T	G	La3	2883342	2884334	+	Rv2564	712	first	nonsynonymous	False
+2887133	A	G	La3	2886373	2889795	+	Rv2566	761	second	nonsynonymous	False
+2895348	G	A	La3	2895960	2894893	-	Rv2571c	613	first	nonsynonymous	False
+2900167	C	T	La3	2899339	2900220	+	Rv2575	829	first	stop_gained	False
+291282	C	T	La3	292029	290665	-	Rv0242c	748	first	nonsynonymous	False
+2916179	A	G	La3	2916193	2915846	-	Rv2588c	15	third	synonymous	False
+2939584	C	A	La3	2939962	2939012	-	Rv2611c	379	first	nonsynonymous	False
+2946840	C	A	La3	2946434	2947111	+	Rv2618	407	second	nonsynonymous	False
+2947285	G	A	La3	2947449	2947096	-	Rv2619c	165	third	synonymous	False
+2952452	G	A	La3	2952503	2951322	-	Rv2625c	52	first	nonsynonymous	False
+2963720	G	A	La3	2963586	2964242	+	Rv2637	135	third	synonymous	False
+2999045	G	A	La3	2999968	2998052	-	Rv2682c	924	third	synonymous	False
+3006524	T	C	La3	3007062	3005845	-	Rv2689c	539	second	nonsynonymous	False
+3014746	A	C	La3	3014965	3014663	-	Rv2699c	220	first	nonsynonymous	False
+3019513	G	C	La3	3019458	3019886	+	Rv2704	56	second	nonsynonymous	False
+3022008	C	T	La3	3021839	3022285	+	Rv2709	170	second	nonsynonymous	False
+302241	C	T	La3	302652	302173	-	Rv0251c	412	first	nonsynonymous	False
+302245	C	T	La3	302652	302173	-	Rv0251c	408	third	synonymous	False
+3026468	T	C	La3	3025441	3026847	+	Rv2713	1028	second	nonsynonymous	False
+3030094	T	C	La3	3030361	3029867	-	Rv2717c	268	first	nonsynonymous	False
+3039261	T	C	La3	3039800	3038931	-	Rv2726c	540	third	synonymous	False
+3047816	A	G	La3	3048552	3047560	-	Rv2735c	737	second	nonsynonymous	False
+3048079	C	T	La3	3048552	3047560	-	Rv2735c	474	third	nonsynonymous	False
+30579	G	A	La3	29722	31068	+	Rv0026	858	third	synonymous	False
+3058989	G	T	La3	3059231	3058602	-	Rv2746c	243	third	synonymous	False
+3067009	T	C	La3	3067124	3066222	-	Rv2753c	116	second	nonsynonymous	False
+3067812	T	C	La3	3067945	3067193	-	Rv2754c	134	second	nonsynonymous	False
+3070714	G	A	La3	3070849	3070583	-	Rv2758c	136	first	synonymous	False
+307190	C	T	La3	307858	306374	-	Rv0255c	669	third	synonymous	False
+3093116	G	C	La3	3093466	3092951	-	Rv2784c	351	third	nonsynonymous	False
+3100986	G	T	La3	3101581	3100202	-	Rv2791c	596	second	nonsynonymous	False
+3109864	G	C	La3	3108416	3110065	+	Rv2800	1449	third	nonsynonymous	False
+314616	T	C	La3	314854	314309	-	Rv0262c	239	second	nonsynonymous	False
+3148454	G	A	La3	3149428	3148385	-	Rv2841c	975	third	synonymous	False
+3155260	C	A	La3	3155871	3154654	-	Rv2847c	612	third	synonymous	False
+3159466	C	T	La3	3160054	3158165	-	Rv2850c	589	first	nonsynonymous	False
+3169415	C	A	La3	3170723	3169356	-	Rv2858c	1309	first	nonsynonymous	False
+3169986	G	T	La3	3170723	3169356	-	Rv2858c	738	third	synonymous	False
+3173162	A	G	La3	3174017	3173160	-	Rv2861c	856	first	stop_lost&splice_region_variant	False
+3178523	G	A	La3	3179312	3178458	-	Rv2867c	790	first	nonsynonymous	False
+317963	G	A	La3	321154	317525	-	Rv0266c	3192	third	synonymous	False
+3187731	G	T	La3	3187663	3187977	+	Rv2876	69	third	nonsynonymous	False
+3196645	A	G	La3	3196431	3196850	+	Rv2887	215	second	nonsynonymous	False
+3198759	C	G	La3	3199107	3198292	-	Rv2889c	349	first	nonsynonymous	False
+3199583	T	C	La3	3199982	3199119	-	Rv2890c	400	first	nonsynonymous	False
+3223382	G	A	La3	3223524	3221767	-	Rv2914c	143	second	nonsynonymous	False
+3223993	G	C	La3	3224680	3223568	-	Rv2915c	688	first	nonsynonymous	False
+3229906	C	T	La3	3230680	3228254	-	Rv2918c	775	first	nonsynonymous	False
+3232112	A	G	La3	3232506	3231073	-	Rv2920c	395	second	nonsynonymous	False
+3234662	C	T	La3	3237806	3234189	-	Rv2922c	3145	first	nonsynonymous	False
+323785	G	A	La3	324531	323338	-	Rv0269c	747	third	synonymous	False
+324907	T	C	La3	324567	326249	+	Rv0270	341	second	nonsynonymous	False
+3262800	G	A	La3	3262248	3267731	+	Rv2934	553	first	nonsynonymous	False
+327232	A	C	La3	328461	326266	-	Rv0271c	1230	third	synonymous	True
+3277590	A	C	La3	3282715	3276380	-	Rv2940c	5126	second	nonsynonymous	False
+3279471	A	G	La3	3282715	3276380	-	Rv2940c	3245	second	nonsynonymous	False
+331340	T	G	La3	331658	330933	-	Rv0275c	319	first	nonsynonymous	False
+3316941	G	A	La3	3316529	3317461	+	Rv2964	413	second	nonsynonymous	False
+3332282	G	A	La3	3332754	3332071	-	Rv2976c	473	second	nonsynonymous	False
+3337480	A	G	La3	3337917	3336796	-	Rv2981c	438	third	synonymous	False
+3337675	G	A	La3	3337917	3336796	-	Rv2981c	243	third	synonymous	False
+3357966	T	C	La3	3357602	3358567	+	Rv2999	365	second	nonsynonymous	False
+3384560	G	C	La3	3385066	3383885	-	Rv3025c	507	third	synonymous	False
+3396569	G	A	La3	3397141	3396458	-	Rv3036c	573	third	synonymous	True
+3406308	C	T	La3	3406285	3407325	+	Rv3045	24	third	synonymous	False
+3409642	T	C	La3	3411083	3409509	-	Rv3049c	1442	second	nonsynonymous	False
+3416967	A	C	La3	3416705	3417745	+	Rv3056	263	second	nonsynonymous	False
+3424064	C	T	La3	3425427	3423262	-	Rv3061c	1364	second	nonsynonymous	False
+3427389	C	G	La3	3427243	3429519	+	Rv3063	147	third	synonymous	False
+3434914	T	A	La3	3434464	3435573	+	Rv3071	451	first	nonsynonymous	False
+3441797	A	G	La3	3442597	3441770	-	Rv3079c	801	third	synonymous	False
+3454792	C	T	La3	3454340	3455764	+	Rv3088	453	third	synonymous	False
+3466862	A	T	La3	3467091	3465778	-	Rv3097c	230	second	nonsynonymous	False
+3475323	T	C	La3	3474007	3475377	+	Rv3106	1317	third	synonymous	False
+3476197	C	T	La3	3476961	3475378	-	Rv3107c	765	third	synonymous	False
+3478468	G	A	La3	3477649	3478728	+	Rv3109	820	first	nonsynonymous	False
+3497240	C	G	La3	3496551	3497549	+	Rv3131	690	third	synonymous	False
+3500009	C	T	La3	3500749	3499943	-	Rv3134c	741	third	synonymous	False
+3506626	C	G	La3	3505363	3506769	+	Rv3139	1264	first	nonsynonymous	False
+3507667	A	T	La3	3506790	3507995	+	Rv3140	878	second	nonsynonymous	False
+3510165	A	C	La3	3511317	3510088	-	Rv3144c	1153	first	nonsynonymous	False
+3518168	G	C	La3	3516746	3519166	+	Rv3151	1423	first	nonsynonymous	False
+3520710	T	C	La3	3520507	3521142	+	Rv3153	204	third	synonymous	False
+3524803	G	A	La3	3524132	3525793	+	Rv3157	672	third	synonymous	False
+3525977	C	T	La3	3525790	3527385	+	Rv3158	188	second	nonsynonymous	False
+3556419	G	T	La3	3556687	3555422	-	Rv3190c	269	second	nonsynonymous	False
+3559820	G	A	La3	3559563	3560024	+	Rv3192	258	third	synonymous	False
+3572853	G	T	La3	3573669	3572602	-	Rv3200c	817	first	synonymous	False
+357311	G	C	La3	358064	356862	-	Rv0293c	754	first	nonsynonymous	False
+3577779	G	A	La3	3580200	3577033	-	Rv3202c	2422	first	nonsynonymous	True
+3579466	T	C	La3	3580200	3577033	-	Rv3202c	735	third	synonymous	False
+3584203	G	C	La3	3584658	3583801	-	Rv3207c	456	third	nonsynonymous	False
+3587357	G	C	La3	3587539	3586844	-	Rv3210c	183	third	synonymous	False
+3591413	G	A	La3	3591492	3590692	-	Rv3213c	80	second	nonsynonymous	False
+3598221	G	A	La3	3598356	3598051	-	Rv3221A	136	first	synonymous	False
+3610416	C	T	La3	3611189	3610374	-	Rv3234c	774	third	synonymous	False
+3612694	A	G	La3	3613116	3611959	-	Rv3236c	423	third	synonymous	False
+3613600	C	T	La3	3613603	3613121	-	Rv3237c	4	first	nonsynonymous	False
+3633758	C	T	La3	3633675	3635063	+	Rv3254	84	third	synonymous	False
+3641584	T	C	La3	3641535	3642881	+	Rv3262	50	second	nonsynonymous	False
+3643467	G	A	La3	3643177	3644838	+	Rv3263	291	third	synonymous	False
+3655482	G	A	La3	3654637	3656931	+	Rv3273	846	third	synonymous	False
+3667352	C	T	La3	3666357	3668159	+	Rv3285	996	third	synonymous	False
+3670629	C	A	La3	3671794	3670445	-	Rv3290c	1166	second	nonsynonymous	False
+3677013	G	A	La3	3676775	3681316	+	Rv3296	239	second	nonsynonymous	False
+3689479	T	G	La3	3690938	3689457	-	Rv3303c	1460	second	nonsynonymous	False
+3692821	C	A	La3	3693989	3692805	-	Rv3306c	1169	second	nonsynonymous	False
+370963	T	C	La3	372764	366150	-	Rv0304c	1802	second	nonsynonymous	False
+3727055	A	G	La3	3726127	3727476	+	Rv3340	929	second	nonsynonymous	False
+3748259	G	A	La3	3753184	3743711	-	Rv3347c	4926	third	synonymous	False
+3763410	G	C	La3	3767102	3755952	-	Rv3350c	3693	third	synonymous	False
+3770449	G	A	La3	3770649	3769804	-	Rv3356c	201	third	synonymous	True
+3798231	C	A	La3	3798489	3797437	-	Rv3383c	259	first	nonsynonymous	False
+380314	A	C	La3	379172	380401	+	Rv0311	1143	third	nonsynonymous	False
+3806895	C	T	La3	3805621	3807573	+	Rv3391	1275	third	synonymous	False
+381278	T	C	La3	380556	382418	+	Rv0312	723	third	synonymous	False
+3820115	G	C	La3	3818042	3820402	+	Rv3401	2074	first	nonsynonymous	False
+3820301	A	G	La3	3818042	3820402	+	Rv3401	2260	first	nonsynonymous	False
+3821271	G	A	La3	3821891	3820653	-	Rv3402c	621	third	synonymous	False
+3824486	G	A	La3	3824584	3823880	-	Rv3404c	99	third	synonymous	False
+3825405	G	A	La3	3825330	3826217	+	Rv3406	76	first	nonsynonymous	False
+3825974	A	G	La3	3825330	3826217	+	Rv3406	645	third	synonymous	False
+3826718	C	G	La3	3826548	3826958	+	Rv3408	171	third	synonymous	False
+3830348	G	C	La3	3831519	3829930	-	Rv3411c	1172	second	nonsynonymous	True
+3834511	G	C	La3	3834521	3833694	-	Rv3415c	11	second	nonsynonymous	False
+3838155	C	A	La3	3838589	3837555	-	Rv3419c	435	third	nonsynonymous	False
+3839398	A	G	La3	3839694	3839059	-	Rv3421c	297	third	synonymous	False
+3845915	G	A	La3	3845970	3844738	-	Rv3428c	56	second	nonsynonymous	False
+3854387	T	C	La3	3854793	3853939	-	Rv3435c	407	second	nonsynonymous	False
+3857275	T	G	La3	3856911	3857387	+	Rv3437	365	second	nonsynonymous	False
+3857277	C	G	La3	3856911	3857387	+	Rv3437	367	first	nonsynonymous	False
+3858268	C	G	La3	3859662	3858259	-	Rv3439c	1395	third	synonymous	False
+387911	G	A	La3	387888	388550	+	Rv0320	24	third	synonymous	False
+3885466	G	A	La3	3886069	3884975	-	Rv3468c	604	first	stop_gained	False
+3886511	A	G	La3	3887083	3886073	-	Rv3469c	573	third	synonymous	False
+3896158	A	G	La3	3895820	3898885	+	Rv3479	339	third	synonymous	False
+3898794	T	G	La3	3895820	3898885	+	Rv3479	2975	second	nonsynonymous	False
+389880	G	C	La3	389260	390591	+	Rv0322	621	third	nonsynonymous	False
+3904329	T	C	La3	3903078	3904616	+	Rv3484	1252	first	nonsynonymous	False
+3910879	A	G	La3	3910947	3910465	-	Rv3492c	69	third	synonymous	False
+3916378	G	A	La3	3916956	3915883	-	Rv3497c	579	third	synonymous	False
+392423	C	A	La3	392273	392728	+	Rv0326	151	first	nonsynonymous	False
+3926238	C	A	La3	3924890	3926398	+	Rv3506	1349	second	nonsynonymous	False
+3938305	C	A	La3	3938424	3936877	-	Rv3509c	120	third	nonsynonymous	False
+3954009	T	C	La3	3953431	3954270	+	Rv3517	579	third	synonymous	False
+3964862	G	A	La3	3965192	3964479	-	Rv3528c	331	first	stop_gained	False
+3968535	A	G	La3	3968944	3967817	-	Rv3531c	410	second	nonsynonymous	False
+3970185	G	A	La3	3969343	3970563	+	Rv3532	843	third	synonymous	False
+397203	A	G	La3	396201	397367	+	Rv0331	1003	first	nonsynonymous	False
+3987779	T	C	La3	3988296	3987382	-	Rv3548c	518	second	nonsynonymous	False
+4001221	C	G	La3	4001589	4000432	-	Rv3560c	369	third	synonymous	False
+4012434	A	G	La3	4012417	4013493	+	Rv3571	18	third	synonymous	False
+4012894	C	G	La3	4012417	4013493	+	Rv3571	478	first	nonsynonymous	False
+4018552	A	G	La3	4018358	4019071	+	Rv3576	195	third	synonymous	False
+4022890	A	T	La3	4023803	4022394	-	Rv3580c	914	second	nonsynonymous	False
+4026236	A	T	La3	4025830	4026378	+	Rv3584	407	second	nonsynonymous	False
+4026635	G	A	La3	4026444	4027886	+	Rv3585	192	third	synonymous	False
+4034533	A	G	La3	4034352	4035710	+	Rv3593	182	second	nonsynonymous	False
+4039853	C	T	La3	4040704	4038158	-	Rv3596c	852	third	synonymous	False
+4055050	T	C	La3	4055123	4054812	-	Rv3615c	74	second	nonsynonymous	False
+4067010	G	A	La3	4067285	4065900	-	Rv3627c	276	third	synonymous	False
+4076955	G	A	La3	4076484	4076984	+	Rv3637	472	first	custom	False
+4077725	C	T	La3	4076984	4077730	+	Rv3638	742	first	stop_gained	False
+4103168	T	A	La3	4103678	4102032	-	Rv3663c	511	first	nonsynonymous	False
+4107977	G	A	La3	4107792	4109747	+	Rv3667	186	third	synonymous	False
+4108708	A	G	La3	4107792	4109747	+	Rv3667	917	second	nonsynonymous	False
+4137103	G	A	La3	4137114	4136122	-	Rv3694c	12	third	synonymous	False
+4170570	T	C	La3	4170214	4171143	+	Rv3725	357	third	synonymous	False
+4172322	G	A	La3	4171421	4172614	+	Rv3726	902	second	nonsynonymous	False
+4174253	C	T	La3	4172955	4174763	+	Rv3727	1299	third	synonymous	False
+4180969	A	T	La3	4181720	4180680	-	Rv3730c	752	second	nonsynonymous	False
+4205750	C	T	La3	4205538	4205840	+	Rv3760	213	third	synonymous	False
+4218499	G	A	La3	4218825	4218241	-	Rv3773c	327	third	synonymous	False
+4244154	A	G	La3	4243233	4246517	+	Rv3794	922	first	nonsynonymous	False
+4251932	C	A	La3	4251085	4252866	+	Rv3797	848	second	nonsynonymous	False
+4261415	T	C	La3	4263066	4261153	-	Rv3801c	1652	second	nonsynonymous	False
+4266174	C	G	La3	4266658	4265642	-	Rv3804c	485	second	nonsynonymous	False
+4287466	C	T	La3	4286721	4287935	+	Rv3822	746	second	nonsynonymous	False
+4290331	T	A	La3	4291529	4288260	-	Rv3823c	1199	second	nonsynonymous	False
+4291142	C	A	La3	4291529	4288260	-	Rv3823c	388	first	nonsynonymous	False
+4296296	G	C	La3	4299605	4293225	-	Rv3825c	3310	first	nonsynonymous	False
+4303791	C	A	La3	4305008	4303398	-	Rv3829c	1218	third	nonsynonymous	False
+430896	C	A	La3	434679	424777	-	Rv0355c	3784	first	nonsynonymous	False
+4311384	C	T	La3	4311707	4311009	-	Rv3837c	324	third	stop_gained	False
+4311950	T	C	La3	4312669	4311704	-	Rv3838c	720	third	synonymous	False
+4327042	G	A	La3	4327473	4326004	-	Rv3854c	432	third	synonymous	False
+4327044	C	T	La3	4327473	4326004	-	Rv3854c	430	first	nonsynonymous	False
+4339116	A	G	La3	4338849	4340027	+	Rv3863	268	first	nonsynonymous	False
+4341639	A	G	La3	4341566	4341877	+	Rv3865	74	second	nonsynonymous	False
+4347219	G	A	La3	4346481	4348724	+	Rv3870	739	first	nonsynonymous	False
+4356857	T	G	La3	4356693	4357535	+	Rv3878	165	third	nonsynonymous	False
+4367747	T	C	La3	4368521	4366908	-	Rv3885c	775	first	nonsynonymous	False
+4370399	A	G	La3	4371684	4370155	-	Rv3887c	1286	second	nonsynonymous	False
+4371926	G	A	La3	4372706	4371681	-	Rv3888c	781	first	nonsynonymous	False
+4372201	G	A	La3	4372706	4371681	-	Rv3888c	506	second	nonsynonymous	False
+4375547	A	G	La3	4375683	4374484	-	Rv3892c	137	second	nonsynonymous	False
+4388359	G	A	La3	4390432	4387892	-	Rv3903c	2074	first	nonsynonymous	False
+4400109	T	C	La3	4396597	4400151	+	Rv3910	3513	third	synonymous	False
+440018	C	T	La3	439871	441253	+	Rv0362	148	first	nonsynonymous	False
+4409725	C	T	La3	4410069	4408969	-	Rv3921c	345	third	synonymous	False
+4409754	T	C	La3	4410069	4408969	-	Rv3921c	316	first	nonsynonymous	False
+4409775	G	A	La3	4410069	4408969	-	Rv3921c	295	first	nonsynonymous	False
+4410091	G	A	La3	4410415	4410053	-	Rv3922c	325	first	nonsynonymous	False
+44625	A	T	La3	43562	46471	+	Rv0041	1064	second	nonsynonymous	False
+44812	G	T	La3	43562	46471	+	Rv0041	1251	third	synonymous	False
+449936	C	G	La3	451803	449404	-	Rv0373c	1868	second	nonsynonymous	False
+459600	C	A	La3	462002	459456	-	Rv0384c	2403	third	synonymous	False
+47881	A	T	La3	48100	47366	-	Rv0043c	220	first	nonsynonymous	False
+47950	C	T	La3	48100	47366	-	Rv0043c	151	first	nonsynonymous	False
+491749	C	T	La3	490783	491793	+	Rv0407	967	first	nonsynonymous	False
+498771	G	A	La3	499619	498300	-	Rv0412c	849	third	synonymous	False
+500710	G	A	La3	501018	500350	-	Rv0414c	309	third	synonymous	False
+510015	G	A	La3	510225	508582	-	Rv0423c	211	first	nonsynonymous	False
+511040	T	C	La3	515321	510702	-	Rv0425c	4282	first	nonsynonymous	False
+53899	G	A	La3	53663	55699	+	Rv0050	237	third	synonymous	False
+546602	A	C	La3	546803	545889	-	Rv0456c	202	first	nonsynonymous	False
+551249	G	C	La3	551198	551689	+	Rv0459	52	first	nonsynonymous	False
+5516	A	G	La3	5123	7267	+	Rv0005	394	first	nonsynonymous	False
+559970	C	T	La3	559888	560748	+	Rv0469	83	second	nonsynonymous	False
+560231	T	C	La3	559888	560748	+	Rv0469	344	second	nonsynonymous	False
+568708	G	A	La3	568967	567921	-	Rv0479c	260	second	nonsynonymous	False
+584104	T	G	La3	584690	583701	-	Rv0493c	587	second	nonsynonymous	False
+586206	G	C	La3	586314	585424	-	Rv0495c	109	first	nonsynonymous	False
+587601	G	A	La3	587377	588309	+	Rv0497	225	third	synonymous	False
+59181	C	T	La3	59122	59376	+	Rv0055	60	third	synonymous	False
+604716	T	C	La3	604602	605591	+	Rv0512	115	first	nonsynonymous	False
+6109	G	A	La3	5123	7267	+	Rv0005	987	third	synonymous	False
+621160	T	C	La3	620907	622124	+	Rv0530	254	second	nonsynonymous	False
+634348	G	A	La3	634404	633055	-	Rv0541c	57	third	synonymous	False
+637014	T	C	La3	637463	636210	-	Rv0545c	450	third	synonymous	False
+649047	A	G	La3	648536	649672	+	Rv0557	512	second	nonsynonymous	False
+65632	T	C	La3	65552	66694	+	Rv0062	81	third	synonymous	False
+665220	T	C	La3	665383	665042	-	Rv0572c	164	second	nonsynonymous	False
+6717	T	C	La3	5123	7267	+	Rv0005	1595	second	nonsynonymous	False
+676773	A	G	La3	676238	676996	+	Rv0579	536	second	nonsynonymous	False
+68129	C	T	La3	66923	68362	+	Rv0063	1207	first	stop_gained	False
+684214	C	T	La3	684272	681885	-	Rv0585c	59	second	nonsynonymous	False
+696118	C	T	La3	696903	695668	-	Rv0597c	786	third	synonymous	False
+709952	C	G	La3	709356	710348	+	Rv0614	597	third	synonymous	False
+714884	G	A	La3	714202	715266	+	Rv0621	683	second	nonsynonymous	False
+722751	C	G	La3	725013	721729	-	Rv0630c	2263	first	nonsynonymous	False
+748320	G	A	La3	748276	748812	+	Rv0651	45	third	synonymous	False
+75319	G	A	La3	75301	76212	+	Rv0068	19	first	nonsynonymous	False
+767910	C	T	La3	769597	767684	-	Rv0669c	1688	second	nonsynonymous	False
+783826	T	C	La3	782485	784590	+	Rv0684	1342	first	nonsynonymous	False
+789117	C	T	La3	787940	789160	+	Rv0688	1178	second	nonsynonymous	False
+794122	A	G	La3	793335	794525	+	Rv0694	788	second	nonsynonymous	False
+808432	A	T	La3	806335	808698	+	Rv0711	2098	first	nonsynonymous	False
+816409	G	T	La3	815663	817534	+	Rv0724	747	third	synonymous	False
+82085	T	A	La3	81676	82668	+	Rv0073	410	second	nonsynonymous	False
+831525	A	C	La3	830855	831661	+	Rv0739	671	second	nonsynonymous	False
+849182	C	T	La3	850040	848103	-	Rv0755c	859	first	nonsynonymous	False
+858137	C	T	La3	858864	858037	-	Rv0765c	728	second	nonsynonymous	False
+86023	C	G	La3	86466	85636	-	Rv0077c	444	third	synonymous	False
+862747	G	T	La3	862412	863158	+	Rv0769	336	third	nonsynonymous	False
+872261	A	T	La3	871431	872675	+	Rv0778	831	third	nonsynonymous	False
+880856	A	G	La3	879340	881040	+	Rv0785	1517	second	nonsynonymous	False
+898612	C	T	La3	898081	898710	+	Rv0804	532	first	synonymous	False
+901102	G	T	La3	901330	899732	-	Rv0806c	229	first	nonsynonymous	False
+909819	C	T	La3	910033	909611	-	Rv0816c	215	second	nonsynonymous	False
+93123	G	C	La3	92328	93278	+	Rv0084	796	first	nonsynonymous	False
+942322	G	A	La3	941190	942467	+	Rv0845	1133	second	nonsynonymous	False
+949892	T	G	La3	951118	949436	-	Rv0853c	1227	third	synonymous	False
+950010	G	A	La3	951118	949436	-	Rv0853c	1109	second	nonsynonymous	False
+971699	G	T	La3	970505	972457	+	Rv0873	1195	first	nonsynonymous	False
+972070	G	C	La3	970505	972457	+	Rv0873	1566	third	nonsynonymous	False
+974431	T	C	La3	975937	974291	-	Rv0876c	1507	first	nonsynonymous	False
+980399	C	T	La3	980225	980509	+	Rv0882	175	first	synonymous	False
+1149128	C	T	La1	1151686	1149104	-	Rv1028c	2559	third	synonymous	False
+1423826	C	T	La1	1424050	1422302	-	Rv1273c	225	third	synonymous	False
+1496158	A	G	La1	1494564	1497155	+	Rv1328	1595	second	nonsynonymous	False
+1499291	C	T	La1	1500559	1499213	-	Rv1330c	1269	third	synonymous	False
+1596734	C	T	La1	1595979	1596884	+	Rv1421	756	third	synonymous	False
+1724095	A	G	La1	1728409	1722083	-	Rv1527c	4315	first	nonsynonymous	False
+184727	A	G	La1	184723	185055	+	Rv0156	5	second	nonsynonymous	False
+1971461	G	T	La1	1971991	1971380	-	Rv1745c	531	third	stop_gained	False
+2197669	C	T	La1	2197960	2197508	-	Rv1946c	292	first	nonsynonymous	False
+2201296	T	C	La1	2201744	2201223	-	Rv1954c	449	second	nonsynonymous	False
+2301394	C	T	La1	2306986	2294531	-	Rv2048c	5593	first	nonsynonymous	False
+2362193	G	T	La1	2360240	2363281	+	Rv2101	1954	first	nonsynonymous	False
+2475888	T	G	La1	2475970	2474864	-	Rv2210c	83	second	nonsynonymous	True
+2484801	A	G	La1	2484584	2485276	+	Rv2217	218	second	nonsynonymous	False
+2612300	G	T	La1	2612987	2611869	-	Rv2337c	688	first	synonymous	True
+267329	G	A	La1	267764	266301	-	Rv0223c	436	first	nonsynonymous	False
+2682593	C	T	La1	2683142	2682015	-	Rv2388c	550	first	nonsynonymous	False
+272753	G	C	La1	272839	271574	-	Rv0227c	87	third	nonsynonymous	False
+2912516	G	A	La1	2912677	2911004	-	Rv2585c	162	third	synonymous	True
+294453	T	C	La1	295633	293798	-	Rv0244c	1181	second	nonsynonymous	False
+3229201	G	A	La1	3230680	3228254	-	Rv2918c	1480	first	nonsynonymous	False
+3467315	G	C	La1	3467662	3467210	-	Rv3098c	348	third	nonsynonymous	False
+3534980	C	G	La1	3535351	3534392	-	Rv3166c	372	third	synonymous	False
+3606627	G	A	La1	3607034	3605751	-	Rv3229c	408	third	synonymous	False
+3706876	C	G	La1	3706772	3707563	+	Rv3319	105	third	nonsynonymous	False
+382991	A	G	La1	383541	382879	-	Rv0314c	551	second	nonsynonymous	False
+3877256	C	T	La1	3877432	3876890	-	Rv3456c	177	third	synonymous	True
+4028925	G	T	La1	4027891	4028967	+	Rv3586	1035	third	nonsynonymous	False
+4171113	T	C	La1	4170214	4171143	+	Rv3725	900	third	synonymous	False
+732552	A	G	La1	732393	732821	+	Rv0636	160	first	nonsynonymous	False
+769162	A	G	La1	769597	767684	-	Rv0669c	436	first	nonsynonymous	False
+772896	G	A	La1	771484	773112	+	Rv0672	1413	third	synonymous	False
+80133	C	T	La1	79486	80193	+	Rv0071	648	third	synonymous	False
+1017292	A	G	La2	1018725	1017217	-	Rv0913c	1434	third	synonymous	False
+1043493	C	T	La2	1043299	1044315	+	Rv0935	195	third	synonymous	False
+1055663	G	A	La2	1056685	1055024	-	Rv0946c	1023	third	synonymous	False
+1074902	C	T	La2	1075114	1074440	-	Rv0962c	213	third	synonymous	False
+1113267	T	A	La2	1112384	1113460	+	Rv0996	884	second	nonsynonymous	False
+1203046	C	T	La2	1201717	1203111	+	Rv1077	1330	first	nonsynonymous	False
+1205308	G	C	La2	1205798	1205304	-	Rv1080c	491	second	nonsynonymous	False
+1352604	C	T	La2	1352144	1353118	+	Rv1208	461	second	nonsynonymous	False
+1478850	A	G	La2	1479118	1477628	-	Rv1317c	269	second	nonsynonymous	False
+1518463	T	A	La2	1518231	1518560	+	Rv1351	233	second	stop_gained	False
+1538651	C	G	La2	1538390	1539211	+	Rv1366	262	first	nonsynonymous	False
+1550755	G	A	La2	1551217	1550579	-	Rv1377c	463	first	nonsynonymous	False
+1562918	G	C	La2	1561769	1563388	+	Rv1387	1150	first	nonsynonymous	False
+165487	C	T	La2	165323	165826	+	Rv0138	165	third	synonymous	False
+1673766	C	T	La2	1673440	1674183	+	Rv1483	327	third	synonymous	False
+1751346	A	G	La2	1753333	1751297	-	Rv1548c	1988	second	nonsynonymous	False
+1854367	T	C	La2	1853606	1854388	+	Rv1644	762	third	synonymous	False
+1888893	A	C	La2	1888026	1891079	+	Rv1664	868	first	nonsynonymous	False
+1892420	C	T	La2	1893562	1892270	-	Rv1666c	1143	third	synonymous	False
+1908084	G	A	La2	1907594	1910593	+	Rv1683	491	second	nonsynonymous	False
+1945801	A	G	La2	1945641	1946420	+	Rv1719	161	second	nonsynonymous	False
+2108164	C	T	La2	2107736	2108713	+	Rv1860	429	third	synonymous	False
+2148153	C	T	La2	2147662	2148954	+	Rv1901	492	third	synonymous	False
+2165663	A	G	La2	2167311	2162932	-	Rv1917c	1649	second	nonsynonymous	False
+2180535	C	T	La2	2181217	2180450	-	Rv1928c	683	second	nonsynonymous	False
+2181558	C	A	La2	2181906	2181262	-	Rv1929c	349	first	nonsynonymous	False
+2194204	A	G	La2	2193664	2194434	+	Rv1941	541	first	nonsynonymous	True
+2271939	C	T	La2	2272747	2271863	-	Rv2026c	809	second	nonsynonymous	False
+2286000	C	T	La2	2286530	2285628	-	Rv2040c	531	third	synonymous	False
+2382830	C	A	La2	2386067	2382489	-	Rv2124c	3238	first	nonsynonymous	True
+2392387	C	T	La2	2392459	2391215	-	Rv2130c	73	first	nonsynonymous	False
+24421	G	A	La2	25444	23861	-	Rv0020c	1024	first	nonsynonymous	False
+249146	C	T	La2	249038	250123	+	Rv0209	109	first	nonsynonymous	False
+2548813	A	G	La2	2547749	2548939	+	Rv2276	1065	third	synonymous	False
+2700142	C	A	La2	2698529	2700457	+	Rv2402	1614	third	stop_gained	False
+2701538	G	A	La2	2703248	2701287	-	Rv2404c	1711	first	nonsynonymous	True
+2701977	C	T	La2	2703248	2701287	-	Rv2404c	1272	third	synonymous	False
+2713270	T	C	La2	2713784	2712891	-	Rv2415c	515	second	nonsynonymous	False
+2731555	A	C	La2	2732749	2730557	-	Rv2435c	1195	first	nonsynonymous	True
+300317	C	G	La2	300803	298863	-	Rv0248c	487	first	nonsynonymous	False
+3206759	G	A	La2	3207942	3206431	-	Rv2897c	1184	second	nonsynonymous	False
+3215803	G	T	La2	3216357	3215665	-	Rv2906c	555	third	synonymous	False
+3239098	G	A	La2	3239470	3238601	-	Rv2924c	373	first	synonymous	False
+3291797	C	T	La2	3296353	3291503	-	Rv2946c	4557	third	synonymous	False
+3437813	C	T	La2	3436779	3438053	+	Rv3074	1035	third	synonymous	False
+3609511	T	C	La2	3609757	3608870	-	Rv3232c	247	first	nonsynonymous	False
+3636471	C	T	La2	3637315	3636275	-	Rv3256c	845	second	nonsynonymous	False
+3702606	C	T	La2	3703467	3702184	-	Rv3314c	862	first	nonsynonymous	False
+3742626	G	A	La2	3742774	3738158	-	Rv3345c	149	second	nonsynonymous	False
+386574	C	T	La2	387099	386305	-	Rv0318c	526	first	nonsynonymous	False
+3894732	A	G	La2	3894426	3895607	+	Rv3478	307	first	nonsynonymous	False
+3896671	A	G	La2	3895820	3898885	+	Rv3479	852	third	synonymous	False
+3943	G	A	La2	3280	4437	+	Rv0003	664	first	nonsynonymous	False
+4146129	G	T	La2	4146891	4145614	-	Rv3703c	763	first	synonymous	False
+4200868	A	C	La2	4200421	4201326	+	Rv3754	448	first	nonsynonymous	False
+422182	G	A	La2	421709	422416	+	Rv0351	474	third	synonymous	False
+4252479	C	T	La2	4251085	4252866	+	Rv3797	1395	third	synonymous	False
+4408985	T	C	La2	4410069	4408969	-	Rv3921c	1085	second	nonsynonymous	False
+44823	A	C	La2	43562	46471	+	Rv0041	1262	second	nonsynonymous	False
+47976	C	T	La2	48100	47366	-	Rv0043c	125	second	nonsynonymous	False
+506553	G	T	La2	505086	506582	+	Rv0419	1468	first	nonsynonymous	False
+533328	C	A	La2	533789	533091	-	Rv0444c	462	third	synonymous	True
+552367	C	T	La2	552026	552550	+	Rv0461	342	third	synonymous	False
+649585	G	A	La2	648536	649672	+	Rv0557	1050	third	synonymous	False
+668245	C	T	La2	668394	667252	-	Rv0574c	150	third	synonymous	False
+684411	T	C	La2	684410	685132	+	Rv0586	2	second	start_lost	False
+793082	C	G	La2	792157	793332	+	Rv0693	926	second	nonsynonymous	False
+875682	G	A	La2	874732	876390	+	Rv0782	951	third	custom	False
+904090	T	C	La2	903725	904819	+	Rv0809	366	third	synonymous	False
+118468	C	T	La1.7	117714	119699	+	Rv0102	755	second	nonsynonymous	True
+2963597	G	A	La1.7	2963586	2964242	+	Rv2637	12	third	synonymous	True
+540940	T	C	La1.7	541491	538588	-	Rv0450c	552	third	synonymous	True
+772740	C	T	La1.7	771484	773112	+	Rv0672	1257	third	synonymous	True
+10727	A	G	La1.8	9914	10828	+	Rv0007	814	first	nonsynonymous	True
+1294398	C	T	La1.8	1294168	1296054	+	Rv1165	231	third	synonymous	False
+1344741	A	G	La1.8	1345169	1344216	-	Rv1201c	429	third	synonymous	False
+2049495	C	T	La1.8	2048398	2049597	+	Rv1807	1098	third	custom	False
+2715125	T	C	La1.8	2715332	2714124	-	Rv2416c	208	first	nonsynonymous	True
+2853155	G	A	La1.8	2852875	2854266	+	Rv2529	281	second	nonsynonymous	True
+288952	C	T	La1.8	288428	289042	+	Rv0238	525	third	synonymous	True
+3629083	C	T	La1.8	3629647	3628160	-	Rv3248c	565	first	nonsynonymous	False
+1075326	C	T	La1.2_La1.2 BCG	1076097	1075297	-	Rv0963c	772	first	nonsynonymous	False
+1108769	C	T	La1.2_La1.2 BCG	1109171	1108578	-	Rv0992c	403	first	nonsynonymous	False
+1161948	G	T	La1.2_La1.2 BCG	1162472	1161297	-	Rv1039c	525	third	nonsynonymous	False
+1172044	T	G	La1.2_La1.2 BCG	1172153	1171038	-	Rv1048c	110	second	nonsynonymous	False
+1192832	G	A	La1.2_La1.2 BCG	1194273	1192510	-	Rv1069c	1442	second	nonsynonymous	False
+1364961	A	C	La1.2_La1.2 BCG	1364413	1365186	+	Rv1221	549	third	synonymous	False
+1616069	T	C	La1.2_La1.2 BCG	1615564	1616349	+	Rv1438	506	second	nonsynonymous	False
+1664286	G	A	La1.2_La1.2 BCG	1666046	1663215	-	Rv1475c	1761	third	synonymous	False
+1690984	C	G	La1.2_La1.2 BCG	1690850	1691878	+	Rv1500	135	third	nonsynonymous	False
+1732361	C	T	La1.2_La1.2 BCG	1731373	1732476	+	Rv1530	989	second	nonsynonymous	False
+193014	T	C	La1.2_La1.2 BCG	193135	191984	-	Rv0162c	122	second	nonsynonymous	False
+1950484	G	A	La1.2_La1.2 BCG	1949342	1950589	+	Rv1723	1143	third	synonymous	False
+1953335	A	T	La1.2_La1.2 BCG	1953270	1953839	+	Rv1727	66	third	nonsynonymous	False
+1980935	G	C	La1.2_La1.2 BCG	1979621	1981003	+	Rv1751	1315	first	nonsynonymous	False
+1985034	T	C	La1.2_La1.2 BCG	1986670	1984979	-	Rv1754c	1637	second	nonsynonymous	True
+2102106	C	G	La1.2_La1.2 BCG	2103042	2101651	-	Rv1854c	937	first	nonsynonymous	False
+2114738	T	C	La1.2_La1.2 BCG	2113140	2115476	+	Rv1866	1599	third	synonymous	False
+233979	C	T	La1.2_La1.2 BCG	232231	234519	+	Rv0197	1749	third	synonymous	False
+2398822	C	T	La1.2_La1.2 BCG	2398720	2399793	+	Rv2139	103	first	nonsynonymous	False
+2478997	T	C	La1.2_La1.2 BCG	2478338	2479885	+	Rv2213	660	third	synonymous	False
+2494481	C	A	La1.2_La1.2 BCG	2495399	2493837	-	Rv2223c	919	first	nonsynonymous	False
+264021	T	C	La1.2_La1.2 BCG	262812	264023	+	Rv0220	1210	first	stop_lost&splice_region_variant	False
+2644031	G	A	La1.2_La1.2 BCG	2644258	2643461	-	Rv2362c	228	third	synonymous	False
+2672081	T	G	La1.2_La1.2 BCG	2675837	2671593	-	Rv2383c	3757	first	nonsynonymous	False
+27714	C	T	La1.2_La1.2 BCG	27595	28365	+	Rv0023	120	third	synonymous	False
+2852391	G	A	La1.2_La1.2 BCG	2852671	2851751	-	Rv2528c	281	second	nonsynonymous	False
+2887315	G	T	La1.2_La1.2 BCG	2886373	2889795	+	Rv2566	943	first	nonsynonymous	False
+3033644	T	C	La1.2_La1.2 BCG	3034619	3032520	-	Rv2721c	976	first	nonsynonymous	True
+3075022	G	T	La1.2_La1.2 BCG	3074636	3075373	+	Rv2765	387	third	nonsynonymous	False
+3079630	A	C	La1.2_La1.2 BCG	3080457	3079309	-	Rv2770c	828	third	synonymous	False
+316566	T	C	La1.2_La1.2 BCG	317503	316511	-	Rv0265c	938	second	nonsynonymous	False
+318068	C	T	La1.2_La1.2 BCG	321154	317525	-	Rv0266c	3087	third	synonymous	True
+3187964	G	A	La1.2_La1.2 BCG	3187663	3187977	+	Rv2876	302	second	nonsynonymous	False
+3221579	A	G	La1.2_La1.2 BCG	3221698	3219863	-	Rv2913c	120	third	synonymous	False
+3329930	T	G	La1.2_La1.2 BCG	3329946	3327733	-	Rv2973c	17	second	nonsynonymous	False
+3448745	T	G	La1.2_La1.2 BCG	3448504	3449991	+	Rv3083	242	second	nonsynonymous	False
+3534748	A	C	La1.2_La1.2 BCG	3535351	3534392	-	Rv3166c	604	first	nonsynonymous	False
+3590067	A	G	La1.2_La1.2 BCG	3589394	3590617	+	Rv3212	674	second	nonsynonymous	False
+3621946	A	G	La1.2_La1.2 BCG	3622211	3621570	-	Rv3242c	266	second	nonsynonymous	False
+3654222	G	A	La1.2_La1.2 BCG	3653448	3654632	+	Rv3272	775	first	nonsynonymous	False
+3751484	T	C	La1.2_La1.2 BCG	3753184	3743711	-	Rv3347c	1701	third	synonymous	False
+3774810	G	A	La1.2_La1.2 BCG	3774874	3774482	-	Rv3364c	65	second	nonsynonymous	False
+3783161	T	C	La1.2_La1.2 BCG	3784776	3781501	-	Rv3370c	1616	second	nonsynonymous	False
+3916821	T	G	La1.2_La1.2 BCG	3916956	3915883	-	Rv3497c	136	first	nonsynonymous	False
+399660	T	G	La1.2_La1.2 BCG	400050	399535	-	Rv0335c	391	first	nonsynonymous	False
+4063574	T	C	La1.2_La1.2 BCG	4063904	4063254	-	Rv3624c	331	first	nonsynonymous	False
+4247173	G	A	La1.2_La1.2 BCG	4246514	4249810	+	Rv3795	660	third	synonymous	False
+4309281	A	T	La1.2_La1.2 BCG	4309047	4310396	+	Rv3835	235	first	nonsynonymous	True
+4375066	C	T	La1.2_La1.2 BCG	4375683	4374484	-	Rv3892c	618	third	nonsynonymous	False
+592059	C	A	La1.2_La1.2 BCG	591654	592784	+	Rv0501	406	first	synonymous	False
+682712	G	T	La1.2_La1.2 BCG	684272	681885	-	Rv0585c	1561	first	synonymous	False
+849633	G	A	La1.2_La1.2 BCG	850040	848103	-	Rv0755c	408	third	synonymous	False
+1083043	C	A	La1_La2	1083750	1082584	-	Rv0972c	708	third	nonsynonymous	False
+1128935	G	A	La1_La2	1128091	1129179	+	Rv1009	845	second	nonsynonymous	False
+1226077	G	A	La1_La2	1226144	1225263	-	Rv1097c	68	second	nonsynonymous	False
+1280689	T	C	La1_La2	1280846	1279998	-	Rv1153c	158	second	nonsynonymous	False
+1280741	C	T	La1_La2	1280846	1279998	-	Rv1153c	106	first	nonsynonymous	False
+1289789	A	G	La1_La2	1287328	1291026	+	Rv1161	2462	second	nonsynonymous	False
+1373909	A	G	La1_La2	1374197	1372962	-	Rv1230c	289	first	nonsynonymous	False
+1661870	G	A	La1_La2	1660656	1662284	+	Rv1473	1215	third	synonymous	False
+1750921	C	A	La1_La2	1747694	1751248	+	Rv1547	3228	third	synonymous	False
+1754572	T	C	La1_La2	1753716	1755431	+	Rv1550	857	second	nonsynonymous	False
+1766620	C	T	La1_La2	1767142	1765400	-	Rv1562c	523	first	nonsynonymous	False
+1804790	C	T	La1_La2	1804039	1804851	+	Rv1604	752	second	nonsynonymous	False
+181672	T	C	La1_La2	181985	181155	-	Rv0153c	314	second	nonsynonymous	True
+1936194	G	A	La1_La2	1934882	1936342	+	Rv1707	1313	second	nonsynonymous	False
+195566	T	G	La1_La2	194993	196657	+	Rv0166	574	first	nonsynonymous	True
+2011627	C	G	La1_La2	2010656	2011960	+	Rv1777	972	third	nonsynonymous	False
+2097128	C	T	La1_La2	2096877	2097299	+	Rv1847	252	third	synonymous	False
+2163060	G	A	La1_La2	2167311	2162932	-	Rv1917c	4252	first	synonymous	False
+217863	C	G	La1_La2	216269	218344	+	Rv0186	1595	second	nonsynonymous	False
+2247169	G	A	La1_La2	2246832	2247584	+	Rv2001	338	second	nonsynonymous	False
+2280081	C	T	La1_La2	2279129	2280124	+	Rv2032	953	second	nonsynonymous	False
+2336001	C	T	La1_La2	2335355	2337325	+	Rv2079	647	second	nonsynonymous	False
+23714	C	T	La1_La2	23737	23270	-	Rv0019c	24	third	synonymous	False
+2381633	G	T	La1_La2	2381071	2382492	+	Rv2123	563	second	nonsynonymous	False
+2459234	G	C	La1_La2	2458392	2459681	+	Rv2195	843	third	nonsynonymous	False
+2529798	G	C	La1_La2	2529874	2529341	-	Rv2256c	77	second	nonsynonymous	False
+2559170	G	A	La1_La2	2559569	2558877	-	Rv2286c	400	first	stop_gained	False
+2595933	C	T	La1_La2	2596269	2595361	-	Rv2323c	337	first	nonsynonymous	False
+2606813	G	T	La1_La2	2608321	2606708	-	Rv2333c	1509	third	nonsynonymous	False
+2646542	G	A	La1_La2	2646673	2645771	-	Rv2364c	132	third	synonymous	False
+2659542	T	C	La1_La2	2662085	2657700	-	Rv2379c	2544	third	synonymous	False
+2760147	C	T	La1_La2	2759779	2760687	+	Rv2458	369	third	synonymous	False
+2812742	A	G	La1_La2	2813176	2812355	-	Rv2498c	435	third	synonymous	False
+2918796	T	A	La1_La2	2917871	2921377	+	Rv2590	926	second	nonsynonymous	False
+2932890	A	G	La1_La2	2933142	2932297	-	Rv2605c	253	first	nonsynonymous	True
+2997325	C	T	La1_La2	2996739	2998055	+	Rv2681	587	second	nonsynonymous	False
+3013119	C	T	La1_La2	3013608	3012829	-	Rv2696c	490	first	nonsynonymous	False
+3027955	G	A	La1_La2	3027065	3028039	+	Rv2714	891	third	synonymous	False
+3032137	T	C	La1_La2	3031845	3032498	+	Rv2720	293	second	nonsynonymous	False
+3041679	G	A	La1_La2	3042475	3041570	-	Rv2729c	797	second	nonsynonymous	False
+3097368	A	C	La1_La2	3096959	3097645	+	Rv2788	410	second	nonsynonymous	False
+312851	G	A	La1_La2	314168	312759	-	Rv0261c	1318	first	synonymous	False
+313869	G	A	La1_La2	314168	312759	-	Rv0261c	300	third	synonymous	False
+3164790	C	T	La1_La2	3164152	3165192	+	Rv2854	639	third	synonymous	False
+3189664	T	C	La1_La2	3190152	3189583	-	Rv2879c	489	third	custom	False
+3213089	C	T	La1_La2	3213854	3212970	-	Rv2903c	766	first	nonsynonymous	False
+3261006	C	A	La1_La2	3255685	3262251	+	Rv2933	5322	third	synonymous	False
+3282079	T	A	La1_La2	3282715	3276380	-	Rv2940c	637	first	nonsynonymous	False
+3293483	G	A	La1_La2	3296353	3291503	-	Rv2946c	2871	third	synonymous	False
+3301252	C	T	La1_La2	3302344	3300596	-	Rv2950c	1093	first	nonsynonymous	True
+3308466	C	T	La1_La2	3308545	3307580	-	Rv2955c	80	second	nonsynonymous	False
+3312728	C	T	La1_La2	3312838	3312101	-	Rv2959c	111	third	synonymous	False
+3388682	T	C	La1_La2	3388870	3388070	-	Rv3029c	189	third	synonymous	False
+3402955	C	A	La1_La2	3403162	3401933	-	Rv3042c	208	first	nonsynonymous	False
+3470168	T	C	La1_La2	3470679	3469786	-	Rv3101c	512	second	nonsynonymous	False
+3474427	G	A	La1_La2	3474007	3475377	+	Rv3106	421	first	nonsynonymous	False
+3515025	C	T	La1_La2	3514657	3515415	+	Rv3149	369	third	synonymous	False
+3525557	G	A	La1_La2	3524132	3525793	+	Rv3157	1426	first	nonsynonymous	False
+3597396	C	T	La1_La2	3597534	3596029	-	Rv3220c	139	first	nonsynonymous	False
+3663404	T	C	La1_La2	3662062	3663708	+	Rv3280	1343	second	nonsynonymous	False
+3664615	G	T	La1_La2	3664219	3664887	+	Rv3282	397	first	nonsynonymous	False
+3715681	C	T	La1_La2	3714392	3715708	+	Rv3329	1290	third	synonymous	False
+3769445	T	C	La1_La2	3769111	3769500	+	Rv3354	335	second	nonsynonymous	False
+3770588	T	G	La1_La2	3770649	3769804	-	Rv3356c	62	second	nonsynonymous	False
+3814058	G	A	La1_La2	3814078	3812501	-	Rv3396c	21	third	synonymous	False
+392506	A	G	La1_La2	392273	392728	+	Rv0326	234	third	synonymous	False
+3968252	C	T	La1_La2	3968944	3967817	-	Rv3531c	693	third	synonymous	False
+4047443	A	C	La1_La2	4047496	4046303	-	Rv3604c	54	third	synonymous	False
+4054869	C	T	La1_La2	4055123	4054812	-	Rv3615c	255	third	synonymous	False
+4083511	C	T	La1_La2	4082807	4084456	+	Rv3645	705	third	synonymous	False
+4204847	G	A	La1_La2	4205373	4204426	-	Rv3759c	527	second	nonsynonymous	False
+4207844	A	G	La1_La2	4208876	4206996	-	Rv3762c	1033	first	nonsynonymous	False
+422379	C	T	La1_La2	421709	422416	+	Rv0351	671	second	nonsynonymous	False
+4250836	C	T	La1_La2	4249878	4251005	+	Rv3796	959	second	nonsynonymous	False
+4265726	G	C	La1_La2	4266658	4265642	-	Rv3804c	933	third	synonymous	True
+4405105	T	C	La1_La2	4405167	4404433	-	Rv3916c	63	third	synonymous	False
+442971	A	C	La1_La2	442395	443078	+	Rv0364	577	first	nonsynonymous	False
+443559	C	A	La1_La2	444197	443067	-	Rv0365c	639	third	synonymous	False
+451439	A	G	La1_La2	451803	449404	-	Rv0373c	365	second	nonsynonymous	False
+52028	C	T	La1_La2	52697	51828	-	Rv0048c	670	first	nonsynonymous	False
+533239	C	T	La1_La2	533789	533091	-	Rv0444c	551	second	nonsynonymous	False
+5752	G	A	La1_La2	5123	7267	+	Rv0005	630	third	synonymous	False
+581821	G	A	La1_La2	583378	581489	-	Rv0492c	1558	first	nonsynonymous	False
+583818	C	T	La1_La2	584690	583701	-	Rv0493c	873	third	synonymous	False
+605338	A	G	La1_La2	604602	605591	+	Rv0512	737	second	nonsynonymous	False
+74092	C	T	La1_La2	74511	72274	-	Rv0066c	420	third	synonymous	False
+815103	C	T	La1_La2	814993	815190	+	Rv0722	111	third	synonymous	False
+831566	A	G	La1_La2	830855	831661	+	Rv0739	712	first	nonsynonymous	False
+900215	C	G	La1_La2	901330	899732	-	Rv0806c	1116	third	synonymous	False
+912830	C	G	La1_La2	912726	913502	+	Rv0820	105	third	nonsynonymous	False
+971902	G	A	La1_La2	970505	972457	+	Rv0873	1398	third	synonymous	False
+1017729	A	G	La1.3	1018725	1017217	-	Rv0913c	997	first	nonsynonymous	False
+1123727	G	T	La1.3	1123714	1125417	+	Rv1006	14	second	nonsynonymous	False
+1250404	C	T	La1.3	1251404	1249932	-	Rv1127c	1001	second	nonsynonymous	False
+1341120	A	G	La1.3	1341006	1341290	+	Rv1198	115	first	nonsynonymous	False
+1551253	G	C	La1.3	1552655	1551228	-	Rv1378c	1403	second	nonsynonymous	False
+1621055	G	A	La1.3	1619791	1622091	+	Rv1442	1265	second	stop_gained	False
+1712814	C	T	La1.3	1712302	1714053	+	Rv1521	513	third	synonymous	False
+1766769	A	C	La1.3	1767142	1765400	-	Rv1562c	374	second	nonsynonymous	False
+183666	C	T	La1.3	183622	184722	+	Rv0155	45	third	synonymous	False
+1947980	G	A	La1.3	1947861	1949345	+	Rv1722	120	third	synonymous	False
+2034052	C	T	La1.3	2033729	2035486	+	Rv1796	324	third	synonymous	False
+2048815	T	G	La1.3	2048398	2049597	+	Rv1807	418	first	custom	False
+2281745	G	A	La1.3	2281614	2282102	+	Rv2035	132	third	synonymous	False
+2304428	G	A	La1.3	2306986	2294531	-	Rv2048c	2559	third	synonymous	False
+23297	G	T	La1.3	23737	23270	-	Rv0019c	441	third	synonymous	True
+23545	C	T	La1.3	23737	23270	-	Rv0019c	193	first	nonsynonymous	False
+2461955	A	G	La1.3	2462148	2461504	-	Rv2197c	194	second	nonsynonymous	False
+2544779	G	A	La1.3	2544698	2545225	+	Rv2270	82	first	nonsynonymous	False
+2591699	T	C	La1.3	2590518	2591840	+	Rv2318	1182	third	synonymous	False
+26593	C	T	La1.3	26881	25913	-	Rv0021c	289	first	nonsynonymous	False
+2734791	G	A	La1.3	2734376	2734795	+	Rv2437	416	second	nonsynonymous	False
+2810009	C	T	La1.3	2810982	2809936	-	Rv2496c	974	second	nonsynonymous	False
+2853815	C	T	La1.3	2852875	2854266	+	Rv2529	941	second	nonsynonymous	False
+2936614	T	C	La1.3	2935046	2936788	+	Rv2608	1569	third	synonymous	False
+2962416	T	C	La1.3	2962441	2960105	-	Rv2634c	26	second	nonsynonymous	False
+3063084	C	T	La1.3	3062816	3063634	+	Rv2750	269	second	nonsynonymous	False
+3244324	A	G	La1.3	3243697	3245448	+	Rv2930	628	first	nonsynonymous	True
+3289244	C	T	La1.3	3288464	3289705	+	Rv2943	781	first	synonymous	False
+3510529	A	G	La1.3	3511317	3510088	-	Rv3144c	789	third	synonymous	False
+3530024	A	C	La1.3	3531138	3529990	-	Rv3161c	1115	second	nonsynonymous	False
+3656583	G	A	La1.3	3654637	3656931	+	Rv3273	1947	third	synonymous	False
+3771420	T	C	La1.3	3771344	3772534	+	Rv3359	77	second	nonsynonymous	False
+3900964	A	G	La1.3	3901182	3900493	-	Rv3481c	219	third	synonymous	False
+3901387	G	A	La1.3	3902106	3901324	-	Rv3482c	720	third	synonymous	False
+3978444	A	G	La1.3	3978059	3979498	+	Rv3539	386	second	nonsynonymous	False
+4055313	T	C	La1.3	4056375	4055197	-	Rv3616c	1063	first	nonsynonymous	False
+4066032	T	C	La1.3	4067285	4065900	-	Rv3627c	1254	third	synonymous	False
+4091342	C	T	La1.3	4091233	4091517	+	Rv3650	110	second	nonsynonymous	False
+4142010	C	T	La1.3	4140493	4142022	+	Rv3698	1518	third	synonymous	False
+4193069	G	A	La1.3	4193245	4192850	-	Rv3742c	177	third	synonymous	True
+4199075	G	A	La1.3	4198874	4199089	+	Rv3751	202	first	custom	False
+4316091	A	C	La1.3	4316596	4315568	-	Rv3843c	506	second	nonsynonymous	False
+4375245	C	T	La1.3	4375683	4374484	-	Rv3892c	439	first	nonsynonymous	False
+442986	C	T	La1.3	442395	443078	+	Rv0364	592	first	synonymous	False
+454782	T	G	La1.3	454421	455386	+	Rv0377	362	second	nonsynonymous	False
+45	G	A	La1.3	1	1524	+	Rv0001	45	third	synonymous	False
+496592	T	C	La1.3	497314	495062	-	Rv0410c	723	third	synonymous	False
+54631	T	C	La1.3	53663	55699	+	Rv0050	969	third	synonymous	False
+554366	C	T	La1.3	554885	554313	-	Rv0464c	520	first	nonsynonymous	False
+57504	A	G	La1.3	57410	57973	+	Rv0052	95	second	nonsynonymous	False
+587203	A	G	La1.3	586394	587380	+	Rv0496	810	third	synonymous	False
+650432	A	G	La1.3	650745	650407	-	Rv0559c	314	second	nonsynonymous	False
+67076	C	T	La1.3	66923	68362	+	Rv0063	154	first	nonsynonymous	True
+68894	T	C	La1.3	68620	71559	+	Rv0064	275	second	nonsynonymous	False
+860627	C	T	La1.3	860710	860069	-	Rv0767c	84	third	synonymous	False
+988416	A	G	La1.3	987233	988705	+	Rv0888	1184	second	nonsynonymous	False
+1049923	C	G	La1.6	1048412	1050346	+	Rv0939	1512	third	synonymous	False
+1053104	C	A	La1.6	1053736	1052696	-	Rv0943c	633	third	synonymous	False
+1076907	G	A	La1.6	1077197	1076778	-	Rv0965c	291	third	synonymous	False
+1105177	G	A	La1.6	1105116	1106276	+	Rv0988	62	second	stop_gained	False
+1144032	C	T	La1.6	1143736	1144467	+	Rv1022	297	third	synonymous	False
+1247494	C	T	La1.6	1247127	1248077	+	Rv1124	368	second	nonsynonymous	False
+1281055	C	T	La1.6	1281484	1280843	-	Rv1154c	430	first	nonsynonymous	False
+135645	C	T	La1.6	133950	136007	+	Rv0111	1696	first	nonsynonymous	False
+1392054	C	G	La1.6	1393052	1389357	-	Rv1248c	999	third	nonsynonymous	False
+140784	T	C	La1.6	141022	140267	-	Rv0116c	239	second	nonsynonymous	False
+1529179	G	A	La1.6	1526612	1530091	+	Rv1358	2568	third	synonymous	False
+1593264	C	T	La1.6	1592639	1593325	+	Rv1418	626	second	nonsynonymous	False
+1600648	G	C	La1.6	1599658	1601037	+	Rv1425	991	first	nonsynonymous	False
+1647800	A	G	La1.6	1646989	1649529	+	Rv1461	812	second	nonsynonymous	False
+1712655	T	G	La1.6	1712302	1714053	+	Rv1521	354	third	synonymous	False
+1742284	C	T	La1.6	1742244	1742852	+	Rv1539	41	second	nonsynonymous	False
+1806196	C	A	La1.6	1806181	1807263	+	Rv1607	16	first	nonsynonymous	False
+180689	C	T	La1.6	180896	179319	-	Rv0152c	208	first	nonsynonymous	False
+181325	T	C	La1.6	181985	181155	-	Rv0153c	661	first	nonsynonymous	False
+1929786	T	C	La1.6	1931456	1929786	-	Rv1704c	1671	third	stop_lost&splice_region_variant	False
+1939192	G	C	La1.6	1938838	1939602	+	Rv1711	355	first	nonsynonymous	False
+1956397	C	T	La1.6	1957245	1955692	-	Rv1730c	849	third	synonymous	False
+1959159	A	C	La1.6	1957677	1959233	+	Rv1731	1483	first	nonsynonymous	False
+201321	C	T	La1.6	200932	202479	+	Rv0171	390	third	synonymous	False
+2054002	G	A	La1.6	2053443	2054147	+	Rv1811	560	second	nonsynonymous	False
+2101565	G	A	La1.6	2101022	2101648	+	Rv1853	544	first	nonsynonymous	False
+2150738	T	G	La1.6	2150364	2150768	+	Rv1903	375	third	synonymous	False
+216619	G	A	La1.6	216269	218344	+	Rv0186	351	third	synonymous	False
+2207906	G	A	La1.6	2207700	2208497	+	Rv1964	207	third	stop_gained	False
+2223062	T	C	La1.6	2223164	2221719	-	Rv1979c	103	first	nonsynonymous	False
+2248123	C	A	La1.6	2247660	2248442	+	Rv2002	464	second	nonsynonymous	False
+2317327	G	A	La1.6	2320753	2317169	-	Rv2062c	3427	first	nonsynonymous	False
+2360846	G	A	La1.6	2360240	2363281	+	Rv2101	607	first	nonsynonymous	False
+2384504	A	G	La1.6	2386067	2382489	-	Rv2124c	1564	first	nonsynonymous	False
+2425512	G	C	La1.6	2427087	2425048	-	Rv2163c	1576	first	nonsynonymous	False
+2479220	T	G	La1.6	2478338	2479885	+	Rv2213	883	first	nonsynonymous	False
+250368	C	T	La1.6	250120	251598	+	Rv0210	249	third	synonymous	False
+2561466	A	C	La1.6	2561328	2561705	+	Rv2288	139	first	synonymous	False
+2562419	A	C	La1.6	2561675	2562457	+	Rv2289	745	first	nonsynonymous	False
+2595703	C	G	La1.6	2596269	2595361	-	Rv2323c	567	third	synonymous	False
+2602303	A	C	La1.6	2603461	2601914	-	Rv2329c	1159	first	nonsynonymous	False
+2607246	C	A	La1.6	2608321	2606708	-	Rv2333c	1076	second	nonsynonymous	False
+2609788	C	G	La1.6	2609732	2610421	+	Rv2335	57	third	synonymous	False
+26341	G	A	La1.6	26881	25913	-	Rv0021c	541	first	nonsynonymous	False
+2655824	T	C	La1.6	2656115	2655609	-	Rv2376c	292	first	nonsynonymous	True
+2656798	C	A	La1.6	2657703	2656408	-	Rv2378c	906	third	nonsynonymous	False
+2681964	G	A	La1.6	2680765	2682018	+	Rv2387	1200	third	synonymous	False
+2689100	G	T	La1.6	2688010	2689941	+	Rv2394	1091	second	nonsynonymous	False
+2721038	T	C	La1.6	2721777	2720776	-	Rv2424c	740	second	nonsynonymous	False
+2746245	C	T	La1.6	2747598	2746135	-	Rv2447c	1354	first	nonsynonymous	False
+2766506	G	A	La1.6	2765655	2766839	+	Rv2463	852	third	synonymous	False
+2816288	A	G	La1.6	2816880	2814916	-	Rv2501c	593	second	nonsynonymous	False
+2844374	C	T	La1.6	2849332	2840123	-	Rv2524c	4959	third	synonymous	False
+2848135	G	A	La1.6	2849332	2840123	-	Rv2524c	1198	first	nonsynonymous	True
+2938291	C	G	La1.6	2939001	2937865	-	Rv2610c	711	third	nonsynonymous	False
+2948758	C	G	La1.6	2948636	2949457	+	Rv2622	123	third	synonymous	False
+2987615	A	G	La1.6	2986839	2987615	+	Rv2671	777	third	stop_lost&splice_region_variant	False
+3005154	T	C	La1.6	3005650	3004745	-	Rv2688c	497	second	nonsynonymous	False
+3007928	T	C	La1.6	3009209	3007236	-	Rv2690c	1282	first	nonsynonymous	False
+3022949	G	A	La1.6	3022461	3023432	+	Rv2710	489	third	synonymous	False
+3072872	G	A	La1.6	3073056	3072637	-	Rv2762c	185	second	nonsynonymous	True
+3115536	G	A	La1.6	3115408	3115719	+	Rv2809	129	third	synonymous	False
+3115620	T	C	La1.6	3115408	3115719	+	Rv2809	213	third	synonymous	False
+3229968	A	G	La1.6	3230680	3228254	-	Rv2918c	713	second	nonsynonymous	False
+3347437	C	T	La1.6	3347719	3346859	-	Rv2990c	283	first	nonsynonymous	False
+3436496	G	A	La1.6	3436685	3436329	-	Rv3073c	190	first	nonsynonymous	False
+3446685	A	G	La1.6	3446040	3447278	+	Rv3081	646	first	nonsynonymous	False
+3490847	T	C	La1.6	3491651	3490476	-	Rv3125c	805	first	nonsynonymous	False
+3516068	C	T	La1.6	3515412	3516749	+	Rv3150	657	third	synonymous	False
+3531238	G	A	La1.6	3531645	3531208	-	Rv3162c	408	third	synonymous	False
+3588367	G	T	La1.6	3587798	3589381	+	Rv3211	570	third	synonymous	False
+3608714	G	T	La1.6	3608873	3608364	-	Rv3231c	160	first	nonsynonymous	False
+3616632	C	G	La1.6	3617603	3614457	-	Rv3239c	972	third	synonymous	False
+3639999	T	C	La1.6	3640141	3639872	-	Rv3260c	143	second	nonsynonymous	False
+3672783	G	A	La1.6	3672328	3673575	+	Rv3292	456	third	synonymous	False
+3708190	G	A	La1.6	3708316	3708074	-	Rv3321c	127	first	nonsynonymous	False
+3788653	A	C	La1.6	3788621	3790048	+	Rv3375	33	third	synonymous	False
+3848027	A	C	La1.6	3848805	3847642	-	Rv3430c	779	second	nonsynonymous	False
+3874724	T	C	La1.6	3874404	3874736	+	Rv3453	321	third	custom	False
+3884906	G	A	La1.6	3883964	3884917	+	Rv3467	943	first	nonsynonymous	False
+3900146	T	G	La1.6	3900402	3898909	-	Rv3480c	257	second	nonsynonymous	False
+3900730	G	A	La1.6	3901182	3900493	-	Rv3481c	453	third	synonymous	False
+3927012	G	A	La1.6	3926569	3930714	+	Rv3507	444	third	synonymous	False
+3989754	T	C	La1.6	3989153	3989896	+	Rv3550	602	second	nonsynonymous	False
+4002290	G	A	La1.6	4001637	4003160	+	Rv3561	654	third	synonymous	False
+4017151	G	A	La1.6	4018168	4017089	-	Rv3575c	1018	first	nonsynonymous	False
+4033480	T	C	La1.6	4034042	4033269	-	Rv3591c	563	second	nonsynonymous	False
+4138019	G	A	La1.6	4137206	4138138	+	Rv3695	814	first	nonsynonymous	False
+4172997	G	C	La1.6	4172955	4174763	+	Rv3727	43	first	nonsynonymous	False
+418195	G	A	La1.6	417304	418290	+	Rv0347	892	first	nonsynonymous	False
+4233022	C	T	La1.6	4233597	4232374	-	Rv3786c	576	third	synonymous	False
+4247791	C	T	La1.6	4246514	4249810	+	Rv3795	1278	third	synonymous	False
+4272795	G	A	La1.6	4273475	4272276	-	Rv3809c	681	third	synonymous	False
+4292006	T	G	La1.6	4293174	4291639	-	Rv3824c	1169	second	nonsynonymous	False
+4307640	C	T	La1.6	4306867	4307658	+	Rv3833	774	third	synonymous	False
+4345000	G	A	La1.6	4343314	4345035	+	Rv3868	1687	first	nonsynonymous	False
+438444	T	C	La1.6	438739	438302	-	Rv0360c	296	second	nonsynonymous	True
+4402705	T	C	La1.6	4401728	4402735	+	Rv3913	978	third	synonymous	False
+480532	G	A	La1.6	483231	480355	-	Rv0402c	2700	third	synonymous	False
+501407	A	G	La1.6	501148	502170	+	Rv0415	260	second	nonsynonymous	False
+577798	C	T	La1.6	577664	578269	+	Rv0488	135	third	synonymous	False
+57947	T	G	La1.6	57410	57973	+	Rv0052	538	first	nonsynonymous	False
+592130	C	T	La1.6	591654	592784	+	Rv0501	477	third	synonymous	False
+651474	C	T	La1.6	651504	650779	-	Rv0560c	31	first	nonsynonymous	False
+7042	C	T	La1.6	5123	7267	+	Rv0005	1920	third	synonymous	False
+790160	T	C	La1.6	791073	790024	-	Rv0690c	914	second	nonsynonymous	False
+846311	C	T	La1.6	846159	847913	+	Rv0754	153	third	synonymous	False
+847825	C	T	La1.6	846159	847913	+	Rv0754	1667	second	nonsynonymous	False
+878016	C	T	La1.6	878440	876818	-	Rv0783c	425	second	nonsynonymous	False
+884744	G	A	La1.6	884800	884072	-	Rv0790c	57	third	synonymous	False
+923164	T	C	La1.6	923709	922894	-	Rv0831c	546	third	synonymous	False
+944433	C	T	La1.6	944343	944735	+	Rv0847	91	first	nonsynonymous	False
+962668	C	A	La1.6	962599	962880	+	Rv0863	70	first	custom	False
+1016154	T	C	La1.1	1015398	1016171	+	Rv0911	757	first	nonsynonymous	False
+1343189	T	G	La1.1	1342942	1344219	+	Rv1200	248	second	nonsynonymous	False
+1355616	C	T	La1.1	1355661	1354498	-	Rv1212c	46	first	nonsynonymous	False
+1400646	A	C	La1.1	1399970	1401661	+	Rv1253	677	second	nonsynonymous	False
+1525437	G	A	La1.1	1526216	1525293	-	Rv1357c	780	third	synonymous	False
+1639006	A	G	La1.1	1638381	1639646	+	Rv1453	626	second	nonsynonymous	False
+1644657	C	T	La1.1	1646138	1644363	-	Rv1459c	1482	third	synonymous	False
+1673254	A	C	La1.1	1673299	1672457	-	Rv1482c	46	first	nonsynonymous	False
+1744722	C	T	La1.1	1744836	1744426	-	Rv1542c	115	first	nonsynonymous	False
+1778883	C	G	La1.1	1778539	1779048	+	Rv1571	345	third	nonsynonymous	False
+1778902	G	A	La1.1	1778539	1779048	+	Rv1571	364	first	nonsynonymous	False
+1786584	C	T	La1.1	1787099	1786584	-	Rv1585c	516	third	splice_region_variant&stop_retained_variant	False
+1851520	G	C	La1.1	1852035	1848517	-	Rv1640c	516	third	synonymous	False
+1881553	G	A	La1.1	1875304	1881684	+	Rv1661	6250	first	nonsynonymous	False
+1900405	C	T	La1.1	1900975	1900241	-	Rv1675c	571	first	nonsynonymous	False
+2095876	A	G	La1.1	2096168	2095218	-	Rv1845c	293	second	nonsynonymous	False
+2117191	G	A	La1.1	2115764	2117248	+	Rv1867	1428	third	synonymous	False
+2161743	A	G	La1.1	2161566	2162762	+	Rv1916	178	first	nonsynonymous	False
+2229343	G	A	La1.1	2229902	2228991	-	Rv1985c	560	second	nonsynonymous	False
+2236612	G	A	La1.1	2237306	2234991	-	Rv1992c	695	second	nonsynonymous	False
+2271555	G	A	La1.1	2271748	2270750	-	Rv2025c	194	second	nonsynonymous	True
+229756	C	T	La1.1	226878	230462	+	Rv0194	2879	second	nonsynonymous	False
+231411	G	C	La1.1	230899	231534	+	Rv0195	513	third	synonymous	False
+2323199	G	A	La1.1	2323175	2324701	+	Rv2066	25	first	nonsynonymous	False
+2339255	G	A	La1.1	2338709	2340874	+	Rv2082	547	first	nonsynonymous	True
+2418930	G	A	La1.1	2419004	2417472	-	Rv2157c	75	third	synonymous	False
+243607	C	A	La1.1	243384	244487	+	Rv0205	224	second	nonsynonymous	False
+2478525	G	T	La1.1	2478338	2479885	+	Rv2213	188	second	nonsynonymous	False
+2534152	G	T	La1.1	2534464	2534042	-	Rv2261c	313	first	custom	False
+2535273	C	T	La1.1	2535552	2534470	-	Rv2262c	280	first	custom	False
+2560161	G	A	La1.1	2559703	2561331	+	Rv2287	459	third	synonymous	False
+2596454	G	A	La1.1	2596334	2596780	+	Rv2324	121	first	nonsynonymous	False
+2722336	G	A	La1.1	2723308	2721866	-	Rv2425c	973	first	nonsynonymous	False
+2728682	G	A	La1.1	2728847	2728437	-	Rv2432c	166	first	synonymous	False
+2738284	G	A	La1.1	2739686	2738247	-	Rv2440c	1403	second	nonsynonymous	False
+2757339	C	T	La1.1	2758192	2756936	-	Rv2456c	854	second	stop_gained	False
+2807809	G	T	La1.1	2807278	2808030	+	Rv2492	532	first	nonsynonymous	False
+2836408	C	T	La1.1	2835785	2837263	+	Rv2519	624	third	synonymous	False
+2853820	G	A	La1.1	2852875	2854266	+	Rv2529	946	first	nonsynonymous	False
+2855340	G	T	La1.1	2857781	2854938	-	Rv2531c	2442	third	nonsynonymous	False
+2896989	G	A	La1.1	2897803	2896013	-	Rv2572c	815	second	nonsynonymous	False
+2901086	C	A	La1.1	2900918	2902507	+	Rv2577	169	first	nonsynonymous	False
+2948200	C	T	La1.1	2948558	2947884	-	Rv2621c	359	second	nonsynonymous	False
+2950669	C	T	La1.1	2951307	2950489	-	Rv2624c	639	third	synonymous	False
+3008961	A	G	La1.1	3009209	3007236	-	Rv2690c	249	third	synonymous	False
+3031074	G	C	La1.1	3031537	3031040	-	Rv2719c	464	second	nonsynonymous	False
+3124311	C	A	La1.1	3124983	3123967	-	Rv2817c	673	first	nonsynonymous	False
+3129151	C	T	La1.1	3129347	3128973	-	Rv2822c	197	second	nonsynonymous	False
+3154879	G	A	La1.1	3155871	3154654	-	Rv2847c	993	third	synonymous	False
+320356	T	G	La1.1	321154	317525	-	Rv0266c	799	first	nonsynonymous	False
+3273640	C	T	La1.1	3273206	3274075	+	Rv2937	435	third	synonymous	False
+330560	C	T	La1.1	330422	331003	+	Rv0274	139	first	synonymous	False
+3308485	T	C	La1.1	3308545	3307580	-	Rv2955c	61	first	nonsynonymous	False
+3337581	C	T	La1.1	3337917	3336796	-	Rv2981c	337	first	nonsynonymous	False
+3400068	A	G	La1.1	3400183	3399419	-	Rv3039c	116	second	nonsynonymous	False
+342191	C	T	La1.1	342130	344025	+	Rv0282	62	second	nonsynonymous	False
+3471476	T	C	La1.1	3471850	3471413	-	Rv3103c	375	third	synonymous	False
+3478791	A	G	La1.1	3478779	3479174	+	Rv3110	13	first	nonsynonymous	False
+3581187	G	A	La1.1	3580638	3581312	+	Rv3203	550	first	nonsynonymous	True
+3692075	G	A	La1.1	3692808	3691639	-	Rv3305c	734	second	nonsynonymous	False
+3762084	G	A	La1.1	3767102	3755952	-	Rv3350c	5019	third	synonymous	False
+3777775	C	T	La1.1	3777737	3778201	+	Rv3366	39	third	synonymous	False
+3895260	A	G	La1.1	3894426	3895607	+	Rv3478	835	first	nonsynonymous	False
+3909321	T	C	La1.1	3908236	3909738	+	Rv3490	1086	third	synonymous	False
+3955855	T	C	La1.1	3955550	3956260	+	Rv3519	306	third	synonymous	False
+4033082	T	C	La1.1	4033158	4031404	-	Rv3590c	77	second	nonsynonymous	False
+4077239	T	C	La1.1	4076984	4077730	+	Rv3638	256	first	nonsynonymous	False
+4140008	G	A	La1.1	4140242	4139805	-	Rv3697c	235	first	nonsynonymous	False
+4140125	G	A	La1.1	4140242	4139805	-	Rv3697c	118	first	synonymous	False
+4155799	C	A	La1.1	4156729	4155740	-	Rv3711c	931	first	nonsynonymous	True
+416008	G	A	La1.1	416965	415502	-	Rv0346c	958	first	nonsynonymous	False
+4192846	C	G	La1.1	4192853	4192179	-	Rv3741c	8	second	nonsynonymous	False
+4241975	C	G	La1.1	4239863	4243147	+	Rv3793	2113	first	nonsynonymous	False
+4261097	T	C	La1.1	4261146	4255945	-	Rv3800c	50	second	nonsynonymous	False
+4262638	G	A	La1.1	4263066	4261153	-	Rv3801c	429	third	synonymous	False
+4299871	C	T	La1.1	4299812	4301566	+	Rv3826	60	third	synonymous	False
+4300500	G	T	La1.1	4299812	4301566	+	Rv3826	689	second	nonsynonymous	False
+4300501	T	C	La1.1	4299812	4301566	+	Rv3826	690	third	synonymous	False
+4334678	C	T	La1.1	4336081	4331498	-	Rv3859c	1404	third	synonymous	False
+4346208	C	T	La1.1	4345039	4346481	+	Rv3869	1170	third	synonymous	False
+4357503	A	G	La1.1	4356693	4357535	+	Rv3878	811	first	nonsynonymous	True
+4363838	A	G	La1.1	4364757	4363417	-	Rv3883c	920	second	nonsynonymous	False
+4370595	C	T	La1.1	4371684	4370155	-	Rv3887c	1090	first	nonsynonymous	False
+437247	A	G	La1.1	436860	437507	+	Rv0358	388	first	nonsynonymous	False
+4377913	T	C	La1.1	4380452	4376262	-	Rv3894c	2540	second	nonsynonymous	False
+442278	C	G	La1.1	442299	441265	-	Rv0363c	22	first	nonsynonymous	False
+445768	G	A	La1.1	446525	445314	-	Rv0368c	758	second	nonsynonymous	False
+486141	T	C	La1.1	485731	489939	+	Rv0405	411	third	synonymous	False
+553868	C	T	La1.1	552614	554008	+	Rv0462	1255	first	synonymous	False
+602831	C	T	La1.1	602819	604516	+	Rv0511	13	first	nonsynonymous	False
+604674	G	A	La1.1	604602	605591	+	Rv0512	73	first	nonsynonymous	False
+62126	G	A	La1.1	60396	63020	+	Rv0058	1731	third	synonymous	False
+625912	T	C	La1.1	626440	625562	-	Rv0534c	529	first	nonsynonymous	False
+629680	C	G	La1.1	629731	628298	-	Rv0537c	52	first	nonsynonymous	False
+651501	A	G	La1.1	651504	650779	-	Rv0560c	4	first	nonsynonymous	False
+712958	G	A	La1.1	712716	713807	+	Rv0620	243	third	synonymous	False
+774924	G	A	La1.1	774783	775574	+	Rv0675	142	first	nonsynonymous	False
+788167	C	A	La1.1	787940	789160	+	Rv0688	228	third	synonymous	False
+788433	T	G	La1.1	787940	789160	+	Rv0688	494	second	nonsynonymous	False
+794047	A	G	La1.1	793335	794525	+	Rv0694	713	second	nonsynonymous	False
+813628	C	T	La1.1	813398	813937	+	Rv0719	231	third	synonymous	False
+884233	A	C	La1.1	884800	884072	-	Rv0790c	568	first	nonsynonymous	False
+923310	C	T	La1.1	923709	922894	-	Rv0831c	400	first	nonsynonymous	False
+989121	C	A	La1.1	989861	988740	-	Rv0889c	741	third	synonymous	False
+1065611	C	A	La1.4	1065127	1066038	+	Rv0954	485	second	nonsynonymous	True
+1306209	C	T	La1.4	1308226	1306202	-	Rv1175c	2018	second	nonsynonymous	False
+1364112	G	C	La1.4	1364150	1363503	-	Rv1220c	39	third	synonymous	False
+167108	G	A	La1.4	166910	167290	+	Rv0140	199	first	nonsynonymous	False
+209582	C	T	La1.4	208938	209672	+	Rv0178	645	third	synonymous	False
+2183681	G	A	La1.4	2183372	2183869	+	Rv1932	310	first	nonsynonymous	True
+2354909	C	G	La1.4	2355310	2354312	-	Rv2096c	402	third	synonymous	False
+2428078	C	G	La1.4	2428238	2427084	-	Rv2164c	161	second	nonsynonymous	True
+2576461	A	G	La1.4	2575809	2577098	+	Rv2305	653	second	nonsynonymous	False
+274210	C	T	La1.4	273055	274278	+	Rv0228	1156	first	nonsynonymous	False
+2790149	G	A	La1.4	2791022	2789280	-	Rv2483c	874	first	nonsynonymous	False
+2991205	C	G	La1.4	2991936	2991184	-	Rv2675c	732	third	synonymous	False
+3207593	C	A	La1.4	3207942	3206431	-	Rv2897c	350	second	nonsynonymous	False
+3489531	T	C	La1.4	3489506	3490375	+	Rv3124	26	second	nonsynonymous	False
+3694331	A	G	La1.4	3694054	3694860	+	Rv3307	278	second	nonsynonymous	False
+3717797	C	T	La1.4	3717090	3718598	+	Rv3331	708	third	synonymous	False
+3849394	G	A	La1.4	3850139	3849294	-	Rv3431c	746	second	custom	True
+3852011	G	A	La1.4	3853213	3851792	-	Rv3433c	1203	third	synonymous	False
+471576	T	C	La1.4	472639	471227	-	Rv0392c	1064	second	nonsynonymous	True
+597689	A	T	La1.4	597199	600105	+	Rv0507	491	second	nonsynonymous	False
+642018	C	T	La1.4	642811	641096	-	Rv0551c	794	second	nonsynonymous	False
+793907	G	A	La1.4	793335	794525	+	Rv0694	573	third	synonymous	False
+950872	T	C	La1.4	951118	949436	-	Rv0853c	247	first	nonsynonymous	False
+1018028	G	A	La1.8.1	1018725	1017217	-	Rv0913c	698	second	nonsynonymous	False
+1137582	T	C	La1.8.1	1138060	1136573	-	Rv1018c	479	second	nonsynonymous	False
+1462220	G	C	La1.8.1	1461843	1463183	+	Rv1307	378	third	synonymous	False
+1534929	G	T	La1.8.1	1535392	1534607	-	Rv1363c	464	second	nonsynonymous	True
+1552630	C	T	La1.8.1	1552655	1551228	-	Rv1378c	26	second	nonsynonymous	False
+1597137	C	T	La1.8.1	1596881	1597909	+	Rv1422	257	second	nonsynonymous	False
+1717003	T	C	La1.8.1	1717612	1714172	-	Rv1522c	610	first	nonsynonymous	False
+172901	C	A	La1.8.1	172211	173143	+	Rv0146	691	first	synonymous	False
+2029189	A	G	La1.8.1	2028425	2029477	+	Rv1790	765	third	synonymous	False
+227022	A	G	La1.8.1	226878	230462	+	Rv0194	145	first	nonsynonymous	False
+2298193	C	T	La1.8.1	2306986	2294531	-	Rv2048c	8794	first	nonsynonymous	False
+2498923	G	A	La1.8.1	2498832	2500373	+	Rv2226	92	second	nonsynonymous	False
+25306	C	G	La1.8.1	25444	23861	-	Rv0020c	139	first	nonsynonymous	True
+266859	G	A	La1.8.1	267764	266301	-	Rv0223c	906	third	synonymous	False
+2761018	G	A	La1.8.1	2760854	2762380	+	Rv2459	165	third	nonsynonymous	False
+2767842	T	C	La1.8.1	2768159	2767671	-	Rv2465c	318	third	synonymous	False
+2857635	G	A	La1.8.1	2857781	2854938	-	Rv2531c	147	third	synonymous	False
+2890668	C	T	La1.8.1	2889795	2892449	+	Rv2567	874	first	synonymous	True
+2919670	G	A	La1.8.1	2917871	2921377	+	Rv2590	1800	third	synonymous	False
+3037195	G	C	La1.8.1	3037291	3036131	-	Rv2724c	97	first	nonsynonymous	False
+3101925	T	C	La1.8.1	3102162	3101581	-	Rv2792c	238	first	nonsynonymous	False
+3283339	G	T	La1.8.1	3283335	3285077	+	Rv2941	5	second	nonsynonymous	False
+3347070	G	T	La1.8.1	3347719	3346859	-	Rv2990c	650	second	nonsynonymous	True
+3512082	A	C	La1.8.1	3512077	3512631	+	Rv3146	6	third	synonymous	False
+3623372	C	G	La1.8.1	3624910	3623159	-	Rv3244c	1539	third	synonymous	False
+3804277	G	A	La1.8.1	3804791	3803919	-	Rv3389c	515	second	nonsynonymous	False
+3921504	C	G	La1.8.1	3922040	3921087	-	Rv3502c	537	third	synonymous	False
+4030259	A	G	La1.8.1	4030494	4029871	-	Rv3588c	236	second	nonsynonymous	True
+4034981	G	A	La1.8.1	4034352	4035710	+	Rv3593	630	third	synonymous	False
+4107973	G	A	La1.8.1	4107792	4109747	+	Rv3667	182	second	nonsynonymous	False
+4140498	A	C	La1.8.1	4140493	4142022	+	Rv3698	6	third	synonymous	False
+501620	C	T	La1.8.1	501148	502170	+	Rv0415	473	second	nonsynonymous	False
+519806	G	A	La1.8.1	519600	520322	+	Rv0432	207	third	synonymous	False
+844629	A	C	La1.8.1	845953	844421	-	Rv0753c	1325	second	nonsynonymous	False
+1158434	G	A	unk4	1158736	1157963	-	Rv1033c	303	third	synonymous	True
+1401050	C	T	unk4	1399970	1401661	+	Rv1253	1081	first	synonymous	True
+1765767	T	C	unk4	1767142	1765400	-	Rv1562c	1376	second	nonsynonymous	True
+2807764	G	A	unk4	2807278	2808030	+	Rv2492	487	first	nonsynonymous	True
+636624	C	T	unk4	637463	636210	-	Rv0545c	840	third	synonymous	True
+795844	T	C	unk4	795519	796931	+	Rv0696	326	second	nonsynonymous	False
+1141526	C	T	La1.7.1	1138967	1142671	+	Rv1020	2560	first	synonymous	False
+1270175	C	T	La1.7.1	1270062	1271144	+	Rv1143	114	third	synonymous	False
+1622373	T	C	La1.7.1	1622692	1622207	-	Rv1443c	320	second	nonsynonymous	False
+1909789	C	T	La1.7.1	1907594	1910593	+	Rv1683	2196	third	synonymous	False
+2098574	A	G	La1.7.1	2097961	2099694	+	Rv1850	614	second	nonsynonymous	False
+2137267	C	T	La1.7.1	2136258	2137400	+	Rv1887	1010	second	nonsynonymous	False
+2344529	A	G	La1.7.1	2344411	2346180	+	Rv2088	119	second	nonsynonymous	False
+2406122	T	C	La1.7.1	2406843	2406118	-	Rv2147c	722	second	nonsynonymous	False
+2553395	G	A	La1.7.1	2553173	2554831	+	Rv2281	223	first	nonsynonymous	True
+2616539	A	G	La1.7.1	2614693	2617581	+	Rv2339	1847	second	nonsynonymous	False
+2702178	G	A	La1.7.1	2703248	2701287	-	Rv2404c	1071	third	synonymous	True
+2848872	G	A	La1.7.1	2849332	2840123	-	Rv2524c	461	second	nonsynonymous	False
+2891386	C	T	La1.7.1	2889795	2892449	+	Rv2567	1592	second	nonsynonymous	False
+3022182	G	A	La1.7.1	3021839	3022285	+	Rv2709	344	second	nonsynonymous	False
+3044300	C	T	La1.7.1	3043026	3044378	+	Rv2731	1275	third	synonymous	False
+3129276	G	A	La1.7.1	3129347	3128973	-	Rv2822c	72	third	synonymous	False
+313605	C	A	La1.7.1	314168	312759	-	Rv0261c	564	third	nonsynonymous	True
+3180528	T	C	La1.7.1	3180531	3179368	-	Rv2868c	4	first	nonsynonymous	False
+3214122	G	A	La1.7.1	3214253	3213912	-	Rv2904c	132	third	synonymous	False
+3224527	C	T	La1.7.1	3224680	3223568	-	Rv2915c	154	first	nonsynonymous	False
+3330957	G	A	La1.7.1	3331361	3329949	-	Rv2974c	405	third	synonymous	False
+3380795	C	T	La1.7.1	3380993	3380679	-	Rv3022A	199	first	nonsynonymous	False
+3642478	A	C	La1.7.1	3641535	3642881	+	Rv3262	944	second	nonsynonymous	False
+3720207	C	T	La1.7.1	3720782	3719937	-	Rv3333c	576	third	synonymous	True
+37929	G	C	La1.7.1	37259	38947	+	Rv0035	671	second	nonsynonymous	False
+3881699	C	T	La1.7.1	3880907	3881764	+	Rv3463	793	first	nonsynonymous	False
+4099806	C	A	La1.7.1	4099647	4100510	+	Rv3661	160	first	nonsynonymous	False
+4114819	G	C	La1.7.1	4115157	4114474	-	Rv3673c	339	third	synonymous	True
+4364324	T	C	La1.7.1	4364757	4363417	-	Rv3883c	434	second	nonsynonymous	False
+444856	C	T	La1.7.1	445233	444844	-	Rv0367c	378	third	synonymous	False
+615077	G	A	La1.7.1	614835	616223	+	Rv0524	243	third	synonymous	False
+912175	C	T	La1.7.1	911736	912683	+	Rv0819	440	second	nonsynonymous	False
+98762	T	G	La1.7.1	98480	99250	+	Rv0090	283	first	nonsynonymous	False
+1323639	A	T	La1.8.2	1321520	1324528	+	Rv1183	2120	second	nonsynonymous	False
+1358422	C	T	La1.8.2	1359444	1357759	-	Rv1215c	1023	third	synonymous	True
+1358885	T	C	La1.8.2	1359444	1357759	-	Rv1215c	560	second	nonsynonymous	False
+1448092	G	A	La1.8.2	1448028	1449371	+	Rv1293	65	second	nonsynonymous	False
+1461173	C	T	La1.8.2	1461045	1461290	+	Rv1305	129	third	synonymous	False
+1740050	G	T	La1.8.2	1739841	1741247	+	Rv1537	210	third	synonymous	False
+176378	C	G	La1.8.2	175700	176668	+	Rv0149	679	first	nonsynonymous	False
+1840945	G	A	La1.8.2	1842242	1840572	-	Rv1635c	1298	second	nonsynonymous	False
+1934944	G	A	La1.8.2	1934882	1936342	+	Rv1707	63	third	synonymous	False
+19773	G	A	La1.8.2	20234	18759	-	Rv0016c	462	third	synonymous	False
+1979969	C	T	La1.8.2	1979621	1981003	+	Rv1751	349	first	nonsynonymous	False
+2029436	T	G	La1.8.2	2028425	2029477	+	Rv1790	1012	first	nonsynonymous	False
+2271406	A	C	La1.8.2	2271748	2270750	-	Rv2025c	343	first	nonsynonymous	False
+2498876	G	A	La1.8.2	2498832	2500373	+	Rv2226	45	third	synonymous	False
+2594632	C	A	La1.8.2	2594699	2594154	-	Rv2321c	68	second	custom	True
+2699744	T	C	La1.8.2	2698529	2700457	+	Rv2402	1216	first	nonsynonymous	False
+2747631	G	A	La1.8.2	2750225	2747595	-	Rv2448c	2595	third	synonymous	False
+2989191	T	C	La1.8.2	2987682	2989268	+	Rv2672	1510	first	nonsynonymous	True
+3034849	T	G	La1.8.2	3034635	3034883	+	Rv2722	215	second	nonsynonymous	False
+3379856	G	A	La1.8.2	3380452	3379376	-	Rv3021c	597	third	custom	False
+3685331	T	C	La1.8.2	3685963	3683051	-	Rv3299c	633	third	synonymous	False
+4204696	G	A	La1.8.2	4205373	4204426	-	Rv3759c	678	third	synonymous	True
+4297210	A	G	La1.8.2	4299605	4293225	-	Rv3825c	2396	second	nonsynonymous	True
+53694	C	T	La1.8.2	53663	55699	+	Rv0050	32	second	nonsynonymous	False
+814213	A	G	La1.8.2	813940	814308	+	Rv0720	274	first	nonsynonymous	False
+1011349	T	C	unk5	1010136	1011734	+	Rv0907	1214	second	nonsynonymous	False
+1020732	T	C	unk5	1021329	1020058	-	Rv0915c	598	first	nonsynonymous	True
+1050900	G	A	unk5	1051459	1050593	-	Rv0940c	560	second	nonsynonymous	False
+1079834	C	T	unk5	1078743	1081055	+	Rv0969	1092	third	synonymous	False
+1106571	G	A	unk5	1107382	1106405	-	Rv0989c	812	second	nonsynonymous	False
+114373	A	G	unk5	110001	117539	+	Rv0101	4373	second	nonsynonymous	False
+1152481	T	C	unk5	1152012	1153727	+	Rv1029	470	second	nonsynonymous	False
+115331	T	C	unk5	110001	117539	+	Rv0101	5331	third	synonymous	False
+1197302	G	A	unk5	1197231	1198082	+	Rv1073	72	third	synonymous	False
+1225785	G	C	unk5	1226144	1225263	-	Rv1097c	360	third	synonymous	False
+12820	C	T	unk5	12468	13016	+	Rv0009	353	second	nonsynonymous	False
+1328913	G	A	unk5	1329305	1327689	-	Rv1186c	393	third	synonymous	False
+137660	C	T	unk5	137319	137909	+	Rv0113	342	third	synonymous	False
+1379777	T	C	unk5	1378927	1379850	+	Rv1236	851	second	nonsynonymous	False
+1395331	A	T	unk5	1394179	1395918	+	Rv1250	1153	first	nonsynonymous	False
+1411712	T	C	unk5	1410431	1411819	+	Rv1263	1282	first	nonsynonymous	False
+1427067	C	G	unk5	1426164	1427417	+	Rv1277	904	first	nonsynonymous	True
+144791	A	G	unk5	144049	145626	+	Rv0119	743	second	nonsynonymous	False
+1462183	C	T	unk5	1461843	1463183	+	Rv1307	341	second	nonsynonymous	False
+1467208	C	A	unk5	1465841	1467301	+	Rv1310	1368	third	synonymous	False
+1532902	C	T	unk5	1533633	1532443	-	Rv1361c	732	third	nonsynonymous	False
+1533623	A	G	unk5	1533633	1532443	-	Rv1361c	11	second	nonsynonymous	False
+1601551	G	A	unk5	1602321	1601059	-	Rv1426c	771	third	synonymous	False
+1667548	G	A	unk5	1666990	1668408	+	Rv1477	559	first	nonsynonymous	False
+1678035	G	C	unk5	1677397	1678542	+	Rv1488	639	third	nonsynonymous	False
+1681722	G	A	unk5	1681966	1681208	-	Rv1491c	245	second	nonsynonymous	False
+1708893	T	C	unk5	1708871	1709635	+	Rv1517	23	second	nonsynonymous	False
+17294	C	T	unk5	17470	15590	-	Rv0014c	177	third	synonymous	False
+1738446	G	T	unk5	1736519	1739644	+	Rv1536	1928	second	nonsynonymous	False
+1752003	C	T	unk5	1753333	1751297	-	Rv1548c	1331	second	nonsynonymous	False
+1757741	A	G	unk5	1757681	1759432	+	Rv1552	61	first	nonsynonymous	False
+175861	G	C	unk5	175700	176668	+	Rv0149	162	third	nonsynonymous	False
+1758732	T	C	unk5	1757681	1759432	+	Rv1552	1052	second	nonsynonymous	False
+1879905	C	T	unk5	1875304	1881684	+	Rv1661	4602	third	synonymous	False
+1886677	A	G	unk5	1886512	1888020	+	Rv1663	166	first	nonsynonymous	False
+1904811	C	G	unk5	1904429	1905253	+	Rv1680	383	second	nonsynonymous	False
+1923320	C	T	unk5	1922745	1923689	+	Rv1698	576	third	synonymous	False
+1930428	T	C	unk5	1931456	1929786	-	Rv1704c	1029	third	synonymous	False
+1935554	G	A	unk5	1934882	1936342	+	Rv1707	673	first	nonsynonymous	False
+1960912	G	T	unk5	1961016	1960774	-	Rv1734c	105	third	synonymous	False
+1978431	G	T	unk5	1979567	1977969	-	Rv1750c	1137	third	synonymous	True
+1995688	A	G	unk5	1995842	1995054	-	Rv1762c	155	second	nonsynonymous	False
+2033124	G	A	unk5	2032240	2033751	+	Rv1795	885	third	synonymous	False
+2064597	C	A	unk5	2064728	2062809	-	Rv1819c	132	third	nonsynonymous	False
+2123696	C	G	unk5	2123684	2124370	+	Rv1874	13	first	nonsynonymous	False
+2134512	C	T	unk5	2134872	2134273	-	Rv1885c	361	first	nonsynonymous	False
+2135010	G	A	unk5	2135867	2134890	-	Rv1886c	858	third	synonymous	False
+2139941	T	C	unk5	2139741	2140148	+	Rv1891	201	third	synonymous	False
+2147844	T	C	unk5	2147662	2148954	+	Rv1901	183	third	synonymous	False
+2181579	G	C	unk5	2181906	2181262	-	Rv1929c	328	first	nonsynonymous	False
+222965	T	C	unk5	222289	223530	+	Rv0191	677	second	nonsynonymous	False
+2272314	G	C	unk5	2272747	2271863	-	Rv2026c	434	second	nonsynonymous	False
+2291557	A	G	unk5	2291269	2291925	+	Rv2046	289	first	nonsynonymous	True
+2302555	T	C	unk5	2306986	2294531	-	Rv2048c	4432	first	nonsynonymous	False
+2327864	T	C	unk5	2328225	2327491	-	Rv2070c	362	second	nonsynonymous	False
+2572079	G	C	unk5	2573008	2572076	-	Rv2300c	930	third	synonymous	False
+2689178	A	G	unk5	2688010	2689941	+	Rv2394	1169	second	nonsynonymous	False
+2751994	G	A	unk5	2752180	2751662	-	Rv2450c	187	first	nonsynonymous	False
+275327	C	T	unk5	275963	274983	-	Rv0230c	637	first	nonsynonymous	False
+2807956	A	G	unk5	2807278	2808030	+	Rv2492	679	first	nonsynonymous	False
+2813937	G	A	unk5	2814911	2813727	-	Rv2500c	975	third	synonymous	False
+2818762	G	A	unk5	2819127	2818471	-	Rv2503c	366	third	synonymous	False
+2819217	A	G	unk5	2819870	2819124	-	Rv2504c	654	third	synonymous	False
+2848631	A	G	unk5	2849332	2840123	-	Rv2524c	702	third	synonymous	False
+2853993	C	T	unk5	2852875	2854266	+	Rv2529	1119	third	synonymous	False
+285970	C	T	unk5	286851	282649	-	Rv0236c	882	third	synonymous	False
+2882904	G	A	unk5	2882290	2883339	+	Rv2563	615	third	synonymous	False
+2947057	A	C	unk5	2946434	2947111	+	Rv2618	624	third	synonymous	False
+2948297	T	C	unk5	2948558	2947884	-	Rv2621c	262	first	nonsynonymous	True
+3012920	G	T	unk5	3013608	3012829	-	Rv2696c	689	second	nonsynonymous	False
+3022466	C	T	unk5	3022461	3023432	+	Rv2710	6	third	synonymous	False
+3024356	C	T	unk5	3025328	3024270	-	Rv2712c	973	first	nonsynonymous	False
+3024661	T	C	unk5	3025328	3024270	-	Rv2712c	668	second	nonsynonymous	False
+3044637	G	A	unk5	3044989	3044375	-	Rv2732c	353	second	nonsynonymous	False
+3083260	G	A	unk5	3082909	3083370	+	Rv2775	352	first	nonsynonymous	False
+3104527	T	C	unk5	3104911	3103937	-	Rv2795c	385	first	nonsynonymous	False
+311094	A	G	unk5	311517	310774	-	Rv0259c	424	first	nonsynonymous	False
+3137749	C	A	unk5	3137271	3138020	+	Rv2831	479	second	nonsynonymous	False
+3139748	T	C	unk5	3140484	3139174	-	Rv2833c	737	second	nonsynonymous	False
+3166350	C	T	unk5	3165205	3166584	+	Rv2855	1146	third	synonymous	False
+3183636	C	T	unk5	3183382	3183825	+	Rv2872	255	third	synonymous	False
+3197031	C	T	unk5	3198285	3196864	-	Rv2888c	1255	first	nonsynonymous	False
+3204067	G	A	unk5	3204290	3203394	-	Rv2894c	224	second	nonsynonymous	False
+3229916	G	A	unk5	3230680	3228254	-	Rv2918c	765	third	synonymous	False
+3256680	G	A	unk5	3255685	3262251	+	Rv2933	996	third	synonymous	False
+3326096	A	C	unk5	3325934	3326104	+	Rv2970A	163	first	nonsynonymous	False
+3365177	G	A	unk5	3364709	3365830	+	Rv3006	469	first	nonsynonymous	False
+3383920	G	T	unk5	3385066	3383885	-	Rv3025c	1147	first	synonymous	False
+3403416	G	C	unk5	3404921	3403200	-	Rv3043c	1506	third	synonymous	False
+3443121	G	T	unk5	3445988	3442656	-	Rv3080c	2868	third	synonymous	False
+3461760	T	C	unk5	3462764	3461760	-	Rv3093c	1005	third	splice_region_variant&stop_retained_variant	False
+3472223	A	G	unk5	3472778	3471852	-	Rv3104c	556	first	nonsynonymous	False
+3478936	G	T	unk5	3478779	3479174	+	Rv3110	158	second	nonsynonymous	False
+348431	T	C	unk5	345635	349627	+	Rv0284	2797	first	nonsynonymous	False
+3500224	G	A	unk5	3500749	3499943	-	Rv3134c	526	first	synonymous	False
+351064	C	T	unk5	349935	351476	+	Rv0286	1130	second	nonsynonymous	False
+3580777	T	C	unk5	3580638	3581312	+	Rv3203	140	second	nonsynonymous	False
+3604135	C	T	unk5	3603377	3604729	+	Rv3227	759	third	synonymous	False
+3615780	C	T	unk5	3617603	3614457	-	Rv3239c	1824	third	synonymous	False
+3631272	C	G	unk5	3631988	3630738	-	Rv3252c	717	third	synonymous	False
+3676893	A	G	unk5	3676775	3681316	+	Rv3296	119	second	nonsynonymous	False
+3757255	G	T	unk5	3767102	3755952	-	Rv3350c	9848	second	nonsynonymous	False
+37864	C	T	unk5	37259	38947	+	Rv0035	606	third	synonymous	False
+3799692	G	C	unk5	3799943	3799635	-	Rv3385c	252	third	nonsynonymous	False
+3805211	C	T	unk5	3804865	3805575	+	Rv3390	347	second	nonsynonymous	False
+3816561	G	A	unk5	3816129	3817175	+	Rv3399	433	first	nonsynonymous	False
+3851231	T	C	unk5	3851754	3850372	-	Rv3432c	524	second	nonsynonymous	False
+3855825	C	T	unk5	3856889	3855015	-	Rv3436c	1065	third	synonymous	False
+3887519	A	G	unk5	3888802	3887144	-	Rv3470c	1284	third	synonymous	False
+397026	A	G	unk5	396201	397367	+	Rv0331	826	first	nonsynonymous	False
+3992600	A	G	unk5	3991621	3992688	+	Rv3553	980	second	nonsynonymous	False
+4010058	G	A	unk5	4010199	4009297	-	Rv3568c	142	first	nonsynonymous	False
+4013244	C	G	unk5	4012417	4013493	+	Rv3571	828	third	nonsynonymous	False
+4023403	A	C	unk5	4023803	4022394	-	Rv3580c	401	second	nonsynonymous	False
+4088164	C	T	unk5	4088188	4087610	-	Rv3647c	25	first	nonsynonymous	False
+4089875	C	A	unk5	4088781	4091096	+	Rv3649	1095	third	nonsynonymous	False
+4091484	G	A	unk5	4091233	4091517	+	Rv3650	252	third	synonymous	False
+4103949	G	A	unk5	4104475	4103675	-	Rv3664c	527	second	nonsynonymous	False
+4129506	C	A	unk5	4129691	4129323	-	Rv3687c	186	third	synonymous	False
+413411	C	T	unk5	412757	414238	+	Rv0343	655	first	nonsynonymous	False
+4137618	T	C	unk5	4137206	4138138	+	Rv3695	413	second	nonsynonymous	False
+4139115	T	C	unk5	4139755	4138202	-	Rv3696c	641	second	nonsynonymous	False
+4141516	G	T	unk5	4140493	4142022	+	Rv3698	1024	first	nonsynonymous	False
+41465	G	A	unk5	41304	41912	+	Rv0038	162	third	synonymous	False
+4167369	A	C	unk5	4168128	4166821	-	Rv3722c	760	first	nonsynonymous	False
+4195022	C	T	unk5	4195373	4193391	-	Rv3743c	352	first	nonsynonymous	False
+4207337	C	T	unk5	4208876	4206996	-	Rv3762c	1540	first	nonsynonymous	False
+4218595	G	A	unk5	4218825	4218241	-	Rv3773c	231	third	synonymous	False
+4261461	T	C	unk5	4263066	4261153	-	Rv3801c	1606	first	nonsynonymous	False
+4311076	T	G	unk5	4311707	4311009	-	Rv3837c	632	second	nonsynonymous	False
+4314848	C	T	unk5	4315562	4314738	-	Rv3842c	715	first	nonsynonymous	False
+4321897	G	T	unk5	4321538	4322071	+	Rv3847	360	third	synonymous	False
+4354669	T	C	unk5	4353010	4355010	+	Rv3876	1660	first	nonsynonymous	False
+4366173	G	A	unk5	4366838	4364979	-	Rv3884c	666	third	synonymous	False
+4373925	T	C	unk5	4374013	4373726	-	Rv3890c	89	second	nonsynonymous	False
+4380481	A	C	unk5	4381940	4380453	-	Rv3895c	1460	second	nonsynonymous	False
+4385439	G	A	unk5	4386308	4385373	-	Rv3900c	870	third	synonymous	False
+4389812	G	A	unk5	4390432	4387892	-	Rv3903c	621	third	synonymous	False
+4390240	G	A	unk5	4390432	4387892	-	Rv3903c	193	first	stop_gained	False
+4390894	C	A	unk5	4391031	4390720	-	Rv3905c	138	third	nonsynonymous	False
+4406397	G	A	unk5	4406491	4405457	-	Rv3917c	95	second	nonsynonymous	False
+442613	C	T	unk5	442395	443078	+	Rv0364	219	third	synonymous	False
+481140	A	G	unk5	483231	480355	-	Rv0402c	2092	first	nonsynonymous	False
+484039	G	T	unk5	483977	485734	+	Rv0404	63	third	synonymous	False
+508723	G	A	unk5	510225	508582	-	Rv0423c	1503	third	synonymous	False
+545960	C	T	unk5	546803	545889	-	Rv0456c	844	first	nonsynonymous	False
+550657	C	A	unk5	549675	551198	+	Rv0458	983	second	nonsynonymous	False
+580063	T	G	unk5	579349	580581	+	Rv0490	715	first	nonsynonymous	False
+590905	G	A	unk5	590083	590970	+	Rv0500	823	first	nonsynonymous	False
+644263	C	T	unk5	642889	644493	+	Rv0552	1375	first	nonsynonymous	False
+680728	T	C	unk5	679229	681862	+	Rv0584	1500	third	synonymous	False
+72063	A	G	unk5	71821	72222	+	Rv0065	243	third	synonymous	False
+763094	G	T	unk5	759807	763325	+	Rv0667	3288	third	synonymous	False
+774771	C	T	unk5	774064	774786	+	Rv0674	708	third	synonymous	False
+793428	A	G	unk5	793335	794525	+	Rv0694	94	first	nonsynonymous	False
+808099	A	G	unk5	806335	808698	+	Rv0711	1765	first	nonsynonymous	False
+854080	T	C	unk5	854157	853825	-	Rv0759c	78	third	synonymous	False
+884266	C	G	unk5	884800	884072	-	Rv0790c	535	first	nonsynonymous	False
+906217	C	T	unk5	906340	905234	-	Rv0811c	124	first	nonsynonymous	False
+918562	A	G	unk5	918750	917734	-	Rv0824c	189	third	synonymous	False
+932753	G	C	unk5	932932	932279	-	Rv0836c	180	third	nonsynonymous	False
+938146	A	G	unk5	938112	939404	+	Rv0842	35	second	nonsynonymous	False
+9783	G	T	unk5	7302	9818	+	Rv0006	2482	first	nonsynonymous	False
+1020758	G	C	unk6	1021329	1020058	-	Rv0915c	572	second	nonsynonymous	False
+1032764	C	T	unk6	1033786	1032710	-	Rv0926c	1023	third	synonymous	False
+1044618	G	T	unk6	1044317	1045222	+	Rv0936	302	second	nonsynonymous	False
+1077524	C	T	unk6	1077835	1077233	-	Rv0966c	312	third	synonymous	False
+1082989	G	A	unk6	1083750	1082584	-	Rv0972c	762	third	synonymous	False
+1124337	C	T	unk6	1123714	1125417	+	Rv1006	624	third	synonymous	False
+114626	C	A	unk6	110001	117539	+	Rv0101	4626	third	synonymous	False
+1169179	A	G	unk6	1169228	1168704	-	Rv1046c	50	second	custom	False
+1179870	G	A	unk6	1179396	1180577	+	Rv1057	475	first	nonsynonymous	False
+1238598	T	C	unk6	1238255	1239328	+	Rv1112	344	second	nonsynonymous	False
+1272855	C	T	unk6	1272423	1273334	+	Rv1145	433	first	synonymous	False
+1276683	T	G	unk6	1277748	1276300	-	Rv1148c	1066	first	nonsynonymous	False
+1276684	G	C	unk6	1277748	1276300	-	Rv1148c	1065	third	synonymous	False
+1276689	G	T	unk6	1277748	1276300	-	Rv1148c	1060	first	nonsynonymous	False
+1288126	G	C	unk6	1287328	1291026	+	Rv1161	799	first	nonsynonymous	True
+1288833	C	T	unk6	1287328	1291026	+	Rv1161	1506	third	synonymous	False
+1313055	T	C	unk6	1313299	1310480	-	Rv1179c	245	second	nonsynonymous	False
+1355424	T	C	unk6	1355661	1354498	-	Rv1212c	238	first	nonsynonymous	False
+1359271	C	G	unk6	1359444	1357759	-	Rv1215c	174	third	synonymous	False
+1423083	T	C	unk6	1424050	1422302	-	Rv1273c	968	second	nonsynonymous	False
+1466408	C	T	unk6	1465841	1467301	+	Rv1310	568	first	nonsynonymous	False
+1493562	C	T	unk6	1494425	1492320	-	Rv1327c	864	third	synonymous	False
+1537075	C	T	unk6	1537644	1535683	-	Rv1364c	570	third	synonymous	False
+154687	G	A	unk6	154232	155599	+	Rv0127	456	third	synonymous	False
+1549182	G	T	unk6	1549148	1550641	+	Rv1376	35	second	nonsynonymous	False
+1562390	A	G	unk6	1561769	1563388	+	Rv1387	622	first	nonsynonymous	False
+1564490	C	G	unk6	1564401	1565027	+	Rv1389	90	third	synonymous	False
+1566665	A	C	unk6	1565441	1566697	+	Rv1391	1225	first	nonsynonymous	False
+1580116	C	T	unk6	1580422	1579598	-	Rv1403c	307	first	nonsynonymous	False
+1598218	C	G	unk6	1597906	1598883	+	Rv1423	313	first	nonsynonymous	False
+1629038	G	A	unk6	1630199	1628097	-	Rv1449c	1162	first	nonsynonymous	False
+1636770	C	T	unk6	1638229	1636004	-	Rv1452c	1460	second	nonsynonymous	False
+1653347	C	G	unk6	1653231	1653578	+	Rv1466	117	third	synonymous	False
+1683916	A	G	unk6	1682157	1684004	+	Rv1492	1760	second	nonsynonymous	False
+168401	A	G	unk6	167711	168637	+	Rv0142	691	first	nonsynonymous	False
+1692531	G	A	unk6	1691890	1692711	+	Rv1501	642	third	synonymous	False
+1720134	A	G	unk6	1720017	1720802	+	Rv1525	118	first	nonsynonymous	False
+1725375	C	T	unk6	1728409	1722083	-	Rv1527c	3035	second	nonsynonymous	False
+1730524	G	A	unk6	1729502	1731256	+	Rv1529	1023	third	synonymous	False
+1757265	A	C	unk6	1755445	1757310	+	Rv1551	1821	third	synonymous	False
+1761081	A	G	unk6	1760997	1761605	+	Rv1556	85	first	nonsynonymous	False
+177712	T	G	unk6	179309	177543	-	Rv0151c	1598	second	nonsynonymous	False
+1836199	C	T	unk6	1835013	1836236	+	Rv1631	1187	second	nonsynonymous	False
+1841175	G	A	unk6	1842242	1840572	-	Rv1635c	1068	third	synonymous	False
+1863084	G	A	unk6	1865382	1862347	-	Rv1651c	2299	first	synonymous	False
+1878555	G	T	unk6	1875304	1881684	+	Rv1661	3252	third	synonymous	False
+1912842	G	C	unk6	1912920	1912153	-	Rv1687c	79	first	nonsynonymous	False
+1916982	C	G	unk6	1916698	1917759	+	Rv1692	285	third	synonymous	False
+1917542	C	T	unk6	1916698	1917759	+	Rv1692	845	second	nonsynonymous	False
+1927637	G	A	unk6	1928575	1927211	-	Rv1702c	939	third	synonymous	False
+1952999	C	T	unk6	1951852	1953237	+	Rv1726	1148	second	nonsynonymous	False
+1971291	C	T	unk6	1971390	1970989	-	Rv1744c	100	first	nonsynonymous	False
+1993786	C	T	unk6	1993153	1994661	+	Rv1760	634	first	stop_gained	False
+199950	T	C	unk6	199895	200935	+	Rv0170	56	second	nonsynonymous	False
+1999763	C	T	unk6	1999737	2000006	+	Rv1766	27	third	synonymous	False
+2002379	G	A	unk6	2000614	2002470	+	Rv1768	1766	second	nonsynonymous	False
+202027	T	C	unk6	200932	202479	+	Rv0171	1096	first	synonymous	False
+208004	G	A	unk6	207452	208420	+	Rv0176	553	first	nonsynonymous	False
+2081714	A	G	unk6	2082587	2080701	-	Rv1835c	874	first	nonsynonymous	False
+2089349	G	A	unk6	2089518	2087971	-	Rv1840c	170	second	nonsynonymous	False
+2137009	G	A	unk6	2136258	2137400	+	Rv1887	752	second	nonsynonymous	False
+2168941	A	G	unk6	2170612	2167649	-	Rv1918c	1672	first	synonymous	False
+219489	A	C	unk6	219486	219917	+	Rv0188	4	first	nonsynonymous	False
+220104	C	T	unk6	221723	219996	-	Rv0189c	1620	third	synonymous	True
+2221491	T	C	unk6	2220908	2221756	+	Rv1978	584	second	nonsynonymous	False
+2228527	A	G	unk6	2228561	2227908	-	Rv1984c	35	second	nonsynonymous	False
+2243435	G	A	unk6	2243721	2242945	-	Rv1998c	287	second	nonsynonymous	True
+2244881	G	A	unk6	2245138	2243816	-	Rv1999c	258	third	synonymous	False
+2257375	A	C	unk6	2257942	2256617	-	Rv2008c	568	first	nonsynonymous	False
+2257813	A	G	unk6	2257942	2256617	-	Rv2008c	130	first	nonsynonymous	False
+2258164	G	A	unk6	2258030	2258272	+	Rv2009	135	third	synonymous	False
+2274857	C	T	unk6	2275408	2274569	-	Rv2028c	552	third	synonymous	False
+2275369	T	C	unk6	2275408	2274569	-	Rv2028c	40	first	nonsynonymous	False
+2285303	G	A	unk6	2285641	2284799	-	Rv2039c	339	third	synonymous	False
+2293265	G	A	unk6	2294526	2291962	-	Rv2047c	1262	second	nonsynonymous	False
+2306306	A	G	unk6	2306986	2294531	-	Rv2048c	681	third	synonymous	False
+2370107	G	A	unk6	2370601	2369726	-	Rv2110c	495	third	synonymous	False
+2403074	T	C	unk6	2402977	2404035	+	Rv2143	98	second	nonsynonymous	False
+2413545	T	A	unk6	2414922	2413348	-	Rv2154c	1378	first	nonsynonymous	False
+24301	A	G	unk6	25444	23861	-	Rv0020c	1144	first	nonsynonymous	False
+2453115	T	C	unk6	2453272	2452115	-	Rv2190c	158	second	nonsynonymous	False
+2473670	G	A	unk6	2473400	2474938	+	Rv2209	271	first	nonsynonymous	False
+2504166	G	C	unk6	2504608	2503469	-	Rv2230c	443	second	nonsynonymous	False
+25182	T	C	unk6	25444	23861	-	Rv0020c	263	second	nonsynonymous	False
+25286	T	C	unk6	25444	23861	-	Rv0020c	159	third	synonymous	False
+2586521	G	A	unk6	2587290	2585917	-	Rv2314c	770	second	nonsynonymous	False
+2588070	C	T	unk6	2588804	2587287	-	Rv2315c	735	third	synonymous	False
+2609178	A	G	unk6	2608796	2609728	+	Rv2334	383	second	nonsynonymous	False
+2637961	C	G	unk6	2639535	2637688	-	Rv2356c	1575	third	custom	False
+2682520	C	T	unk6	2683142	2682015	-	Rv2388c	623	second	nonsynonymous	False
+2707874	T	C	unk6	2708310	2707333	-	Rv2410c	437	second	nonsynonymous	False
+2727505	T	C	unk6	2727920	2727336	-	Rv2430c	416	second	nonsynonymous	False
+2749340	G	C	unk6	2750225	2747595	-	Rv2448c	886	first	nonsynonymous	False
+2750714	G	A	unk6	2751572	2750313	-	Rv2449c	859	first	nonsynonymous	False
+2763309	C	T	unk6	2763774	2763172	-	Rv2461c	466	first	nonsynonymous	False
+2770901	A	C	unk6	2768986	2771571	+	Rv2467	1916	second	nonsynonymous	False
+2787329	A	C	unk6	2789283	2786914	-	Rv2482c	1955	second	nonsynonymous	False
+2793746	G	A	unk6	2793988	2792723	-	Rv2485c	243	third	synonymous	False
+2806945	G	A	unk6	2806665	2807288	+	Rv2491	281	second	nonsynonymous	False
+2807828	A	G	unk6	2807278	2808030	+	Rv2492	551	second	nonsynonymous	False
+2815620	C	T	unk6	2816880	2814916	-	Rv2501c	1261	first	nonsynonymous	False
+2821895	A	G	unk6	2821712	2822359	+	Rv2506	184	first	nonsynonymous	False
+2859674	T	C	unk6	2860418	2859300	-	Rv2535c	745	first	nonsynonymous	False
+2867538	G	A	unk6	2867124	2867786	+	Rv2544	415	first	nonsynonymous	False
+2881643	G	A	unk6	2881409	2881702	+	Rv2561	235	first	custom	False
+2887531	G	A	unk6	2886373	2889795	+	Rv2566	1159	first	nonsynonymous	False
+2907308	C	G	unk6	2906814	2907740	+	Rv2582	495	third	synonymous	False
+2913727	G	A	unk6	2914011	2912683	-	Rv2586c	285	third	synonymous	False
+2915050	G	A	unk6	2915736	2914015	-	Rv2587c	687	third	synonymous	False
+2927887	C	T	unk6	2927477	2927908	+	Rv2599	411	third	synonymous	False
+2932835	G	A	unk6	2933142	2932297	-	Rv2605c	308	second	nonsynonymous	False
+2991439	G	A	unk6	2991936	2991184	-	Rv2675c	498	third	synonymous	False
+3017846	C	T	unk6	3017835	3019421	+	Rv2703	12	third	synonymous	False
+3022162	C	T	unk6	3021839	3022285	+	Rv2709	324	third	synonymous	False
+3025242	T	G	unk6	3025328	3024270	-	Rv2712c	87	third	nonsynonymous	False
+3037760	A	G	unk6	3038914	3037427	-	Rv2725c	1155	third	synonymous	False
+3045456	C	T	unk6	3046524	3044986	-	Rv2733c	1069	first	nonsynonymous	False
+3062866	G	A	unk6	3062816	3063634	+	Rv2750	51	third	synonymous	False
+3077351	A	G	unk6	3078078	3076894	-	Rv2768c	728	second	nonsynonymous	False
+308716	C	T	unk6	309547	307877	-	Rv0256c	832	first	nonsynonymous	False
+3102424	G	A	unk6	3103260	3102364	-	Rv2793c	837	third	synonymous	False
+3102850	C	T	unk6	3103260	3102364	-	Rv2793c	411	third	synonymous	False
+3114127	T	C	unk6	3113658	3114812	+	Rv2807	470	second	nonsynonymous	False
+3117031	G	C	unk6	3116818	3118227	+	Rv2812	214	first	nonsynonymous	False
+313927	C	T	unk6	314168	312759	-	Rv0261c	242	second	nonsynonymous	False
+3160821	G	A	unk6	3162061	3160580	-	Rv2852c	1241	second	nonsynonymous	False
+3174341	A	C	unk6	3174643	3174059	-	Rv2862c	303	third	synonymous	False
+3175194	G	A	unk6	3174992	3175372	+	Rv2863	203	second	nonsynonymous	False
+3205834	C	G	unk6	3206434	3205265	-	Rv2896c	601	first	nonsynonymous	False
+3225991	G	A	unk6	3226285	3224708	-	Rv2916c	295	first	nonsynonymous	False
+3230546	G	A	unk6	3230680	3228254	-	Rv2918c	135	third	synonymous	False
+3242641	T	C	unk6	3242198	3242983	+	Rv2928	444	third	synonymous	False
+3278278	A	G	unk6	3282715	3276380	-	Rv2940c	4438	first	synonymous	False
+3287083	G	A	unk6	3285070	3287832	+	Rv2942	2014	first	nonsynonymous	False
+3307036	C	T	unk6	3307391	3306666	-	Rv2954c	356	second	nonsynonymous	False
+3351497	G	C	unk6	3351269	3352606	+	Rv2994	229	first	nonsynonymous	False
+3351498	A	T	unk6	3351269	3352606	+	Rv2994	230	second	nonsynonymous	False
+3351952	G	A	unk6	3351269	3352606	+	Rv2994	684	third	synonymous	False
+3354266	C	A	unk6	3355069	3353483	-	Rv2996c	804	third	synonymous	False
+3383742	A	G	unk6	3383888	3382785	-	Rv3024c	147	third	synonymous	False
+3385290	A	G	unk6	3386077	3385163	-	Rv3026c	788	second	nonsynonymous	False
+3461122	G	A	unk6	3461734	3460814	-	Rv3092c	613	first	stop_gained	False
+3466777	G	A	unk6	3467091	3465778	-	Rv3097c	315	third	synonymous	False
+3494900	T	C	unk6	3494660	3494992	+	Rv3129	241	first	custom	False
+3498489	G	C	unk6	3499265	3497529	-	Rv3132c	777	third	nonsynonymous	False
+3502018	G	C	unk6	3501794	3502936	+	Rv3136	225	third	nonsynonymous	False
+3520404	G	A	unk6	3519282	3520514	+	Rv3152	1123	first	nonsynonymous	False
+3542143	T	C	unk6	3542138	3542845	+	Rv3174	6	third	synonymous	False
+3660396	A	G	unk6	3659878	3660696	+	Rv3277	519	third	synonymous	False
+3667343	A	T	unk6	3666357	3668159	+	Rv3285	987	third	nonsynonymous	False
+3676093	C	T	unk6	3676066	3676731	+	Rv3295	28	first	nonsynonymous	True
+3693929	G	A	unk6	3693989	3692805	-	Rv3306c	61	first	synonymous	False
+3719479	G	A	unk6	3718595	3719746	+	Rv3332	885	third	synonymous	False
+3764892	C	T	unk6	3767102	3755952	-	Rv3350c	2211	third	synonymous	False
+3817934	G	A	unk6	3817239	3818027	+	Rv3400	696	third	synonymous	False
+3863702	G	T	unk6	3864531	3863317	-	Rv3446c	830	second	nonsynonymous	False
+3864547	G	C	unk6	3868238	3864528	-	Rv3447c	3692	second	nonsynonymous	False
+3867853	G	A	unk6	3868238	3864528	-	Rv3447c	386	second	nonsynonymous	False
+3874076	G	C	unk6	3873452	3874132	+	Rv3452	625	first	nonsynonymous	False
+3879384	G	A	unk6	3879692	3879273	-	Rv3459c	309	third	synonymous	False
+391465	G	A	unk6	391352	392032	+	Rv0324	114	third	synonymous	False
+3954962	C	G	unk6	3955521	3954325	-	Rv3518c	560	second	nonsynonymous	False
+399102	G	A	unk6	398658	399524	+	Rv0334	445	first	nonsynonymous	False
+4007524	T	C	unk6	4008182	4007331	-	Rv3566c	659	second	nonsynonymous	False
+402959	C	T	unk6	403162	401873	-	Rv0337c	204	third	synonymous	False
+4049379	G	T	unk6	4049980	4049138	-	Rv3608c	602	second	nonsynonymous	False
+4063280	T	C	unk6	4063904	4063254	-	Rv3624c	625	first	nonsynonymous	False
+41003	G	A	unk6	41202	39877	-	Rv0037c	200	second	nonsynonymous	False
+4106563	G	A	unk6	4107084	4105459	-	Rv3666c	522	third	synonymous	False
+4142178	C	A	unk6	4142044	4142745	+	Rv3699	135	third	nonsynonymous	False
+4179655	A	C	unk6	4178285	4180615	+	Rv3729	1371	third	synonymous	False
+4181763	G	A	unk6	4181758	4182834	+	Rv3731	6	third	synonymous	False
+4199292	G	A	unk6	4199705	4199247	-	Rv3752c	414	third	synonymous	False
+4221111	A	G	unk6	4221089	4222648	+	Rv3776	23	second	nonsynonymous	False
+4238588	G	A	unk6	4237932	4239863	+	Rv3792	657	third	nonsynonymous	False
+4248127	G	A	unk6	4246514	4249810	+	Rv3795	1614	third	synonymous	False
+4262344	A	C	unk6	4263066	4261153	-	Rv3801c	723	third	synonymous	False
+4266440	A	G	unk6	4266658	4265642	-	Rv3804c	219	third	synonymous	False
+4276818	G	A	unk6	4276571	4278085	+	Rv3812	248	second	nonsynonymous	False
+4285296	A	G	unk6	4285825	4284419	-	Rv3820c	530	second	nonsynonymous	False
+4288488	G	A	unk6	4291529	4288260	-	Rv3823c	3042	third	synonymous	False
+4291938	T	G	unk6	4293174	4291639	-	Rv3824c	1237	first	synonymous	False
+4312983	G	A	unk6	4312765	4313541	+	Rv3839	219	third	synonymous	False
+4321976	G	A	unk6	4321538	4322071	+	Rv3847	439	first	nonsynonymous	False
+4385360	G	A	unk6	4385379	4384147	-	Rv3899c	20	second	nonsynonymous	False
+4392342	C	T	unk6	4393073	4391631	-	Rv3907c	732	third	nonsynonymous	False
+4408040	T	C	unk6	4408202	4407528	-	Rv3919c	163	first	nonsynonymous	False
+450595	C	A	unk6	451803	449404	-	Rv0373c	1209	third	synonymous	False
+488359	C	T	unk6	485731	489939	+	Rv0405	2629	first	nonsynonymous	False
+494360	C	T	unk6	493851	495008	+	Rv0409	510	third	synonymous	False
+505314	T	G	unk6	505086	506582	+	Rv0419	229	first	nonsynonymous	False
+545403	C	T	unk6	545821	545375	-	Rv0455c	419	second	nonsynonymous	True
+554093	C	G	unk6	554016	554309	+	Rv0463	78	third	synonymous	False
+58648	C	T	unk6	58586	59080	+	Rv0054	63	third	synonymous	False
+586597	C	T	unk6	586394	587380	+	Rv0496	204	third	synonymous	False
+592013	C	T	unk6	591654	592784	+	Rv0501	360	third	synonymous	False
+611733	G	C	unk6	612074	611172	-	Rv0519c	342	third	synonymous	False
+654490	G	A	unk6	653879	654739	+	Rv0563	612	third	synonymous	False
+680521	C	T	unk6	679229	681862	+	Rv0584	1293	third	synonymous	False
+726765	C	T	unk6	728306	725013	-	Rv0631c	1542	third	synonymous	False
+728248	G	C	unk6	728306	725013	-	Rv0631c	59	second	nonsynonymous	False
+74971	T	G	unk6	75198	74629	-	Rv0067c	228	third	synonymous	False
+773776	G	A	unk6	773123	774061	+	Rv0673	654	third	synonymous	False
+774072	C	T	unk6	774064	774786	+	Rv0674	9	third	synonymous	False
+815713	G	A	unk6	815663	817534	+	Rv0724	51	third	synonymous	False
+820822	T	C	unk6	821476	820496	-	Rv0728c	655	first	nonsynonymous	False
+828706	C	T	unk6	828140	828892	+	Rv0736	567	third	synonymous	False
+858670	G	A	unk6	858864	858037	-	Rv0765c	195	third	synonymous	False
+858753	C	T	unk6	858864	858037	-	Rv0765c	112	first	nonsynonymous	False
+861931	A	G	unk6	860912	862381	+	Rv0768	1020	third	synonymous	False
+892488	G	A	unk6	893273	892266	-	Rv0799c	786	third	synonymous	False
+93707	T	C	unk6	93289	93951	+	Rv0085	419	second	nonsynonymous	False
+960369	C	T	unk6	962612	960342	-	Rv0862c	2244	third	synonymous	False
+964363	G	C	unk6	965535	964312	-	Rv0867c	1173	third	synonymous	False
+972247	C	T	unk6	970505	972457	+	Rv0873	1743	third	synonymous	False
+1039180	G	C	La1.5	1039914	1037920	-	Rv0931c	735	third	synonymous	False
+1046259	G	A	La1.5	1046136	1048415	+	Rv0938	124	first	nonsynonymous	False
+1079897	C	T	La1.5	1078743	1081055	+	Rv0969	1155	third	synonymous	False
+1081608	T	C	La1.5	1081052	1081684	+	Rv0970	557	second	nonsynonymous	False
+1088446	G	C	La1.5	1088496	1087348	-	Rv0975c	51	third	synonymous	False
+111234	G	A	La1.5	110001	117539	+	Rv0101	1234	first	nonsynonymous	False
+1173222	G	A	La1.5	1172881	1173786	+	Rv1050	342	third	synonymous	False
+1191976	T	C	La1.5	1192148	1190757	-	Rv1068c	173	second	nonsynonymous	False
+1212681	G	A	La1.5	1211560	1213863	+	Rv1087	1122	third	stop_gained	False
+1221164	G	A	La1.5	1220574	1221854	+	Rv1093	591	third	synonymous	False
+1239845	G	A	La1.5	1239610	1239984	+	Rv1114	236	second	nonsynonymous	False
+1248232	T	C	La1.5	1248082	1249326	+	Rv1125	151	first	nonsynonymous	False
+1259573	C	A	La1.5	1261346	1259067	-	Rv1133c	1774	first	nonsynonymous	False
+1286203	C	T	La1.5	1284992	1286287	+	Rv1159	1212	third	synonymous	False
+1305866	C	T	La1.5	1306001	1305669	-	Rv1174c	136	first	nonsynonymous	False
+1318106	G	T	La1.5	1315234	1319982	+	Rv1181	2873	second	nonsynonymous	False
+1340207	C	T	La1.5	1339349	1340524	+	Rv1196	859	first	nonsynonymous	False
+1363151	C	T	La1.5	1363361	1362723	-	Rv1219c	211	first	nonsynonymous	False
+142705	C	T	La1.5	143876	142128	-	Rv0118c	1172	second	nonsynonymous	False
+1552837	C	T	La1.5	1552654	1553235	+	Rv1379	184	first	synonymous	True
+1589496	G	A	La1.5	1589386	1589901	+	Rv1413	111	third	synonymous	False
+1601428	G	T	La1.5	1602321	1601059	-	Rv1426c	894	third	stop_gained	False
+1727875	T	C	La1.5	1728409	1722083	-	Rv1527c	535	first	nonsynonymous	False
+1731459	C	A	La1.5	1731373	1732476	+	Rv1530	87	third	synonymous	False
+1775117	G	A	La1.5	1775144	1774860	-	Rv1567c	28	first	nonsynonymous	False
+1781880	G	T	La1.5	1782064	1780643	-	Rv1576c	185	second	nonsynonymous	False
+178360	T	C	La1.5	179309	177543	-	Rv0151c	950	second	nonsynonymous	False
+1783650	G	A	La1.5	1783892	1783620	-	Rv1580c	243	third	synonymous	False
+1787018	G	A	La1.5	1787099	1786584	-	Rv1585c	82	first	nonsynonymous	False
+1844071	C	T	La1.5	1843741	1846659	+	Rv1638	331	first	synonymous	False
+1846627	C	T	La1.5	1843741	1846659	+	Rv1638	2887	first	nonsynonymous	False
+188325	A	G	La1.5	188839	187433	-	Rv0159c	515	second	nonsynonymous	False
+1893431	A	G	La1.5	1893562	1892270	-	Rv1666c	132	third	synonymous	False
+1900958	C	T	La1.5	1900975	1900241	-	Rv1675c	18	third	synonymous	False
+1905429	C	G	La1.5	1905250	1906242	+	Rv1681	180	third	synonymous	False
+1955755	G	A	La1.5	1957245	1955692	-	Rv1730c	1491	third	synonymous	False
+2001494	A	G	La1.5	2000614	2002470	+	Rv1768	881	second	nonsynonymous	False
+2055040	C	G	La1.5	2055359	2054157	-	Rv1812c	320	second	nonsynonymous	False
+2069929	G	A	La1.5	2069702	2070625	+	Rv1823	228	third	synonymous	False
+2088878	G	T	La1.5	2089518	2087971	-	Rv1840c	641	second	nonsynonymous	False
+2090579	A	C	La1.5	2090718	2089681	-	Rv1841c	140	second	nonsynonymous	False
+2127800	C	G	La1.5	2125904	2127967	+	Rv1877	1897	first	nonsynonymous	False
+2176209	G	A	La1.5	2175173	2176513	+	Rv1923	1037	second	nonsynonymous	False
+2223347	G	C	La1.5	2224029	2223343	-	Rv1980c	683	second	nonsynonymous	False
+2235729	G	A	La1.5	2237306	2234991	-	Rv1992c	1578	third	synonymous	False
+2236254	G	C	La1.5	2237306	2234991	-	Rv1992c	1053	third	nonsynonymous	False
+227367	C	G	La1.5	226878	230462	+	Rv0194	490	first	nonsynonymous	False
+228257	T	G	La1.5	226878	230462	+	Rv0194	1380	third	stop_gained	False
+2385980	T	C	La1.5	2386067	2382489	-	Rv2124c	88	first	nonsynonymous	False
+240791	C	T	La1.5	241292	238392	-	Rv0202c	502	first	nonsynonymous	False
+2460859	C	G	La1.5	2459678	2461327	+	Rv2196	1182	third	synonymous	False
+249468	T	C	La1.5	249038	250123	+	Rv0209	431	second	nonsynonymous	False
+2530692	G	A	La1.5	2530822	2530004	-	Rv2257c	131	second	nonsynonymous	False
+2537908	G	A	La1.5	2538350	2536572	-	Rv2264c	443	second	nonsynonymous	False
+2592100	C	A	La1.5	2592726	2591848	-	Rv2319c	627	third	nonsynonymous	False
+2601399	C	T	La1.5	2600731	2601879	+	Rv2328	669	third	synonymous	False
+2669115	G	A	La1.5	2670269	2667255	-	Rv2381c	1155	third	synonymous	True
+2726196	C	T	La1.5	2726193	2726780	+	Rv2428	4	first	nonsynonymous	False
+2756390	G	A	La1.5	2756704	2754743	-	Rv2455c	315	third	synonymous	False
+2769783	A	G	La1.5	2768986	2771571	+	Rv2467	798	third	synonymous	False
+277266	T	C	La1.5	276058	277764	+	Rv0231	1209	third	synonymous	False
+2774377	A	C	La1.5	2773564	2775204	+	Rv2471	814	first	nonsynonymous	False
+2825376	C	T	La1.5	2824678	2825484	+	Rv2509	699	third	synonymous	False
+2838300	G	A	La1.5	2839541	2838129	-	Rv2522c	1242	third	synonymous	False
+2857577	G	A	La1.5	2857781	2854938	-	Rv2531c	205	first	nonsynonymous	False
+2862151	G	A	La1.5	2862676	2861588	-	Rv2538c	526	first	nonsynonymous	False
+2875121	G	A	La1.5	2876485	2873771	-	Rv2555c	1365	third	synonymous	False
+2877876	G	A	La1.5	2877831	2878541	+	Rv2558	46	first	nonsynonymous	False
+2911839	C	T	La1.5	2912677	2911004	-	Rv2585c	839	second	nonsynonymous	False
+2926523	G	A	La1.5	2926355	2926975	+	Rv2597	169	first	nonsynonymous	False
+2936699	C	T	La1.5	2935046	2936788	+	Rv2608	1654	first	stop_gained	False
+2936983	T	A	La1.5	2937865	2936810	-	Rv2609c	883	first	nonsynonymous	False
+295403	C	T	La1.5	295633	293798	-	Rv0244c	231	third	synonymous	False
+2990332	C	T	La1.5	2989291	2990592	+	Rv2673	1042	first	synonymous	False
+2994214	G	A	La1.5	2995062	2993989	-	Rv2678c	849	third	synonymous	False
+2995786	C	T	La1.5	2995115	2995945	+	Rv2679	672	third	synonymous	False
+3012031	T	C	La1.5	3011916	3012623	+	Rv2695	116	second	nonsynonymous	False
+3024590	C	T	La1.5	3025328	3024270	-	Rv2712c	739	first	nonsynonymous	False
+3038566	G	A	La1.5	3038914	3037427	-	Rv2725c	349	first	nonsynonymous	True
+3083224	T	C	La1.5	3082909	3083370	+	Rv2775	316	first	nonsynonymous	False
+313154	T	G	La1.5	314168	312759	-	Rv0261c	1015	first	nonsynonymous	False
+3164904	C	G	La1.5	3164152	3165192	+	Rv2854	753	third	synonymous	False
+3171461	G	T	La1.5	3171646	3170720	-	Rv2859c	186	third	synonymous	False
+3176765	C	T	La1.5	3177265	3175454	-	Rv2864c	501	third	synonymous	False
+3179308	G	A	La1.5	3179312	3178458	-	Rv2867c	5	second	nonsynonymous	False
+3243008	A	G	La1.5	3242970	3243281	+	Rv2929	39	third	synonymous	False
+326857	G	T	La1.5	328461	326266	-	Rv0271c	1605	third	nonsynonymous	False
+3320758	C	G	La1.5	3323046	3319663	-	Rv2967c	2289	third	synonymous	False
+332639	C	A	La1.5	331748	332668	+	Rv0276	892	first	synonymous	False
+3350159	G	A	La1.5	3350277	3348805	-	Rv2992c	119	second	nonsynonymous	False
+3397285	C	G	La1.5	3398290	3397214	-	Rv3037c	1006	first	nonsynonymous	False
+3423973	G	A	La1.5	3425427	3423262	-	Rv3061c	1455	third	synonymous	False
+3441399	G	C	La1.5	3441353	3441754	+	Rv3078	47	second	nonsynonymous	False
+3507046	T	C	La1.5	3506790	3507995	+	Rv3140	257	second	nonsynonymous	False
+351167	G	A	La1.5	349935	351476	+	Rv0286	1233	third	synonymous	False
+3537030	A	C	La1.5	3536102	3537238	+	Rv3168	929	second	nonsynonymous	False
+3563469	T	C	La1.5	3564286	3563264	-	Rv3194c	818	second	nonsynonymous	False
+3571643	T	C	La1.5	3572543	3571602	-	Rv3199c	901	first	nonsynonymous	False
+3590500	T	C	La1.5	3589394	3590617	+	Rv3212	1107	third	synonymous	False
+3614569	T	C	La1.5	3617603	3614457	-	Rv3239c	3035	second	nonsynonymous	False
+3617058	T	C	La1.5	3617603	3614457	-	Rv3239c	546	third	synonymous	False
+3673521	C	T	La1.5	3672328	3673575	+	Rv3292	1194	third	synonymous	False
+3771595	G	A	La1.5	3771344	3772534	+	Rv3359	252	third	synonymous	False
+3775243	C	T	La1.5	3777501	3774871	-	Rv3365c	2259	third	synonymous	False
+3790384	G	A	La1.5	3790156	3790809	+	Rv3376	229	first	nonsynonymous	False
+3835549	G	A	La1.5	3836891	3835272	-	Rv3417c	1343	second	nonsynonymous	False
+3838742	A	C	La1.5	3839062	3838586	-	Rv3420c	321	third	synonymous	False
+3958729	G	A	La1.5	3958448	3959512	+	Rv3522	282	third	synonymous	False
+3979199	C	T	La1.5	3978059	3979498	+	Rv3539	1141	first	synonymous	False
+3995359	G	A	La1.5	3995699	3994830	-	Rv3555c	341	second	nonsynonymous	False
+4051892	G	A	La1.5	4052883	4050601	-	Rv3610c	992	second	nonsynonymous	False
+4104976	A	G	La1.5	4105457	4104531	-	Rv3665c	482	second	nonsynonymous	False
+413066	G	A	La1.5	412757	414238	+	Rv0343	310	first	nonsynonymous	False
+4157590	G	C	La1.5	4156981	4158222	+	Rv3712	610	first	nonsynonymous	False
+417606	G	T	La1.5	417304	418290	+	Rv0347	303	third	synonymous	False
+4192885	C	A	La1.5	4193245	4192850	-	Rv3742c	361	first	nonsynonymous	False
+4239220	T	C	La1.5	4237932	4239863	+	Rv3792	1289	second	nonsynonymous	False
+4284249	G	C	La1.5	4283996	4284331	+	Rv3819	254	second	nonsynonymous	False
+4356760	T	C	La1.5	4356693	4357535	+	Rv3878	68	second	nonsynonymous	False
+4360988	G	A	La1.5	4361925	4360543	-	Rv3881c	938	second	nonsynonymous	False
+4395851	G	A	La1.5	4394192	4396600	+	Rv3909	1660	first	nonsynonymous	False
+4404440	G	A	La1.5	4405167	4404433	-	Rv3916c	728	second	nonsynonymous	False
+463750	C	T	La1.5	463411	466668	+	Rv0386	340	first	nonsynonymous	False
+491522	G	T	La1.5	490783	491793	+	Rv0407	740	second	nonsynonymous	False
+51459	T	C	La1.5	51727	51185	-	Rv0047c	269	second	nonsynonymous	True
+517458	C	T	La1.5	517803	516895	-	Rv0428c	346	first	nonsynonymous	False
+594057	G	A	La1.5	594779	593871	-	Rv0503c	723	third	synonymous	True
+597749	C	T	La1.5	597199	600105	+	Rv0507	551	second	nonsynonymous	False
+602567	G	T	La1.5	601857	602786	+	Rv0510	711	third	synonymous	False
+60296	A	G	La1.5	59896	60417	+	Rv0057	401	second	nonsynonymous	False
+644597	G	A	La1.5	644490	645470	+	Rv0553	108	third	synonymous	False
+673652	G	A	La1.5	675916	671996	-	Rv0578c	2265	third	synonymous	False
+709722	T	C	La1.5	709356	710348	+	Rv0614	367	first	nonsynonymous	False
+786932	A	G	La1.5	786149	786946	+	Rv0686	784	first	nonsynonymous	False
+825480	C	T	La1.5	824800	826125	+	Rv0732	681	third	synonymous	False
+89410	A	G	La1.5	89022	89480	+	Rv0080	389	second	nonsynonymous	False
+955721	G	C	La1.5	955077	956288	+	Rv0859	645	third	nonsynonymous	False
+990711	G	A	La1.5	992596	989948	-	Rv0890c	1886	second	nonsynonymous	False
+1101047	C	A	La1.2 BCG	1101480	1101025	-	Rv0985c	434	second	nonsynonymous	False
+1105607	G	A	La1.2 BCG	1105116	1106276	+	Rv0988	492	third	synonymous	False
+1125845	G	A	La1.2 BCG	1127003	1125444	-	Rv1007c	1159	first	synonymous	False
+114093	C	A	La1.2 BCG	110001	117539	+	Rv0101	4093	first	nonsynonymous	False
+1149361	T	C	La1.2 BCG	1151686	1149104	-	Rv1028c	2326	first	nonsynonymous	False
+1151440	G	A	La1.2 BCG	1151686	1149104	-	Rv1028c	247	first	nonsynonymous	False
+1171637	C	T	La1.2 BCG	1172153	1171038	-	Rv1048c	517	first	nonsynonymous	False
+1196508	C	T	La1.2 BCG	1196279	1197115	+	Rv1072	230	second	nonsynonymous	False
+1215076	C	A	La1.2 BCG	1214769	1215131	+	Rv1089	308	second	custom	False
+1281650	C	T	La1.2 BCG	1281429	1281872	+	Rv1155	222	third	synonymous	False
+128264	A	G	La1.2 BCG	130541	125643	-	Rv0107c	2278	first	synonymous	True
+1317991	G	C	La1.2 BCG	1315234	1319982	+	Rv1181	2758	first	nonsynonymous	False
+1346228	G	A	La1.2 BCG	1345260	1346324	+	Rv1202	969	third	synonymous	False
+1354643	A	C	La1.2 BCG	1355661	1354498	-	Rv1212c	1019	second	nonsynonymous	False
+1363023	C	G	La1.2 BCG	1363361	1362723	-	Rv1219c	339	third	nonsynonymous	False
+1455207	C	G	La1.2 BCG	1455163	1455405	+	Rv1298	45	third	synonymous	False
+1456926	C	G	La1.2 BCG	1456565	1457542	+	Rv1300	362	second	nonsynonymous	False
+1505535	G	T	La1.2 BCG	1505075	1505890	+	Rv1338	461	second	nonsynonymous	False
+1525390	G	C	La1.2 BCG	1526216	1525293	-	Rv1357c	827	second	nonsynonymous	False
+1544460	A	G	La1.2 BCG	1543359	1544828	+	Rv1371	1102	first	nonsynonymous	False
+1545125	A	G	La1.2 BCG	1544825	1546006	+	Rv1372	301	first	nonsynonymous	False
+1567109	C	T	La1.2 BCG	1566825	1568036	+	Rv1392	285	third	synonymous	False
+1567408	G	A	La1.2 BCG	1566825	1568036	+	Rv1392	584	second	nonsynonymous	False
+1575674	G	C	La1.2 BCG	1575809	1574850	-	Rv1399c	136	first	nonsynonymous	False
+1646777	A	T	La1.2 BCG	1646186	1646992	+	Rv1460	592	first	nonsynonymous	False
+1672136	A	G	La1.2 BCG	1671377	1672384	+	Rv1481	760	first	nonsynonymous	False
+1686305	C	T	La1.2 BCG	1686271	1686573	+	Rv1494	35	second	nonsynonymous	False
+1711336	G	A	La1.2 BCG	1711028	1712068	+	Rv1520	309	third	synonymous	False
+1723697	C	A	La1.2 BCG	1728409	1722083	-	Rv1527c	4713	third	synonymous	False
+1730367	A	G	La1.2 BCG	1729502	1731256	+	Rv1529	866	second	nonsynonymous	False
+1749146	T	C	La1.2 BCG	1747694	1751248	+	Rv1547	1453	first	synonymous	False
+1778259	C	T	La1.2 BCG	1777859	1778539	+	Rv1570	401	second	nonsynonymous	False
+1798570	C	A	La1.2 BCG	1798294	1799052	+	Rv1597	277	first	nonsynonymous	False
+1827304	C	T	La1.2 BCG	1827945	1826614	-	Rv1625c	642	third	synonymous	False
+1830284	G	A	La1.2 BCG	1830561	1830070	-	Rv1628c	278	second	nonsynonymous	False
+1838287	A	T	La1.2 BCG	1837075	1839171	+	Rv1633	1213	first	nonsynonymous	False
+1849729	G	T	La1.2 BCG	1852035	1848517	-	Rv1640c	2307	third	nonsynonymous	False
+1852372	G	T	La1.2 BCG	1852273	1852878	+	Rv1641	100	first	nonsynonymous	False
+1929580	C	T	La1.2 BCG	1929721	1929131	-	Rv1703c	142	first	nonsynonymous	False
+1931093	C	T	La1.2 BCG	1931456	1929786	-	Rv1704c	364	first	nonsynonymous	False
+2012767	C	T	La1.2 BCG	2014479	2012686	-	Rv1779c	1713	third	synonymous	False
+2027617	G	A	La1.2 BCG	2026790	2027971	+	Rv1789	828	third	synonymous	True
+2040746	A	G	La1.2 BCG	2039453	2041420	+	Rv1800	1294	first	nonsynonymous	False
+2043086	C	T	La1.2 BCG	2042001	2043272	+	Rv1801	1086	third	synonymous	False
+2056805	G	A	La1.2 BCG	2056521	2057423	+	Rv1814	285	third	synonymous	False
+2104479	C	T	La1.2 BCG	2104823	2104146	-	Rv1856c	345	third	synonymous	False
+2119208	A	G	La1.2 BCG	2117347	2119446	+	Rv1868	1862	second	nonsynonymous	False
+2120686	A	G	La1.2 BCG	2120695	2119460	-	Rv1869c	10	first	nonsynonymous	False
+2136619	A	G	La1.2 BCG	2136258	2137400	+	Rv1887	362	second	nonsynonymous	False
+2144704	T	C	La1.2 BCG	2144882	2144451	-	Rv1897c	179	second	nonsynonymous	False
+2159209	C	T	La1.2 BCG	2159191	2159943	+	Rv1913	19	first	nonsynonymous	False
+2168920	C	A	La1.2 BCG	2170612	2167649	-	Rv1918c	1693	first	nonsynonymous	False
+217779	T	G	La1.2 BCG	216269	218344	+	Rv0186	1511	second	nonsynonymous	False
+2247905	G	A	La1.2 BCG	2247660	2248442	+	Rv2002	246	third	synonymous	False
+2254221	G	A	La1.2 BCG	2252002	2255985	+	Rv2006	2220	third	synonymous	False
+2297703	G	A	La1.2 BCG	2306986	2294531	-	Rv2048c	9284	second	nonsynonymous	False
+2318692	G	A	La1.2 BCG	2320753	2317169	-	Rv2062c	2062	first	nonsynonymous	False
+2385036	C	A	La1.2 BCG	2386067	2382489	-	Rv2124c	1032	third	synonymous	False
+2402502	G	A	La1.2 BCG	2402510	2402193	-	Rv2142c	9	third	synonymous	False
+241776	A	C	La1.2 BCG	241514	241924	+	Rv0203	263	second	nonsynonymous	False
+2483513	C	G	La1.2 BCG	2481965	2483626	+	Rv2215	1549	first	nonsynonymous	False
+253032	C	T	La1.2 BCG	251782	253602	+	Rv0211	1251	third	synonymous	False
+2543670	G	A	La1.2 BCG	2544276	2542807	-	Rv2268c	607	first	nonsynonymous	False
+2547664	A	C	La1.2 BCG	2546883	2547752	+	Rv2275	782	second	nonsynonymous	False
+2592413	T	C	La1.2 BCG	2592726	2591848	-	Rv2319c	314	second	nonsynonymous	False
+2603934	A	C	La1.2 BCG	2604222	2603695	-	Rv2330c	289	first	nonsynonymous	False
+2618244	C	G	La1.2 BCG	2618908	2617667	-	Rv2340c	665	second	nonsynonymous	False
+2705340	A	G	La1.2 BCG	2704697	2705518	+	Rv2407	644	second	nonsynonymous	False
+2729423	G	T	La1.2 BCG	2730560	2729115	-	Rv2434c	1138	first	synonymous	False
+2750756	G	A	La1.2 BCG	2751572	2750313	-	Rv2449c	817	first	nonsynonymous	False
+2758803	C	G	La1.2 BCG	2759488	2758208	-	Rv2457c	686	second	nonsynonymous	False
+2799276	G	C	La1.2 BCG	2800880	2797467	-	Rv2488c	1605	third	nonsynonymous	False
+2801664	C	T	La1.2 BCG	2806236	2801254	-	Rv2490c	4573	first	nonsynonymous	False
+2820456	T	C	La1.2 BCG	2821596	2819953	-	Rv2505c	1141	first	nonsynonymous	False
+2834424	G	A	La1.2 BCG	2835335	2834109	-	Rv2518c	912	third	synonymous	True
+2888978	G	A	La1.2 BCG	2886373	2889795	+	Rv2566	2606	second	nonsynonymous	False
+2891507	T	G	La1.2 BCG	2889795	2892449	+	Rv2567	1713	third	synonymous	False
+2924782	C	T	La1.2 BCG	2924820	2924230	-	Rv2593c	39	third	synonymous	False
+294127	C	T	La1.2 BCG	295633	293798	-	Rv0244c	1507	first	nonsynonymous	False
+3033869	C	T	La1.2 BCG	3034619	3032520	-	Rv2721c	751	first	nonsynonymous	False
+3062237	G	A	La1.2 BCG	3062506	3059855	-	Rv2748c	270	third	synonymous	False
+3076647	G	A	La1.2 BCG	3076720	3076367	-	Rv2767c	74	second	nonsynonymous	False
+3089363	G	A	La1.2 BCG	3090361	3089045	-	Rv2782c	999	third	synonymous	False
+3095342	A	C	La1.2 BCG	3095111	3096874	+	Rv2787	232	first	nonsynonymous	True
+3114703	T	C	La1.2 BCG	3113658	3114812	+	Rv2807	1046	second	nonsynonymous	False
+313086	C	T	La1.2 BCG	314168	312759	-	Rv0261c	1083	third	synonymous	False
+3138479	A	G	La1.2 BCG	3139181	3138099	-	Rv2832c	703	first	nonsynonymous	False
+3139854	G	A	La1.2 BCG	3140484	3139174	-	Rv2833c	631	first	stop_gained	False
+3143158	C	A	La1.2 BCG	3143628	3142309	-	Rv2836c	471	third	nonsynonymous	False
+3180775	C	T	La1.2 BCG	3181762	3180548	-	Rv2869c	988	first	nonsynonymous	False
+3183595	G	A	La1.2 BCG	3183382	3183825	+	Rv2872	214	first	nonsynonymous	False
+3192053	G	A	La1.2 BCG	3192201	3191644	-	Rv2882c	149	second	nonsynonymous	False
+3207709	G	A	La1.2 BCG	3207942	3206431	-	Rv2897c	234	third	synonymous	False
+324902	C	G	La1.2 BCG	324567	326249	+	Rv0270	336	third	nonsynonymous	False
+3306811	C	T	La1.2 BCG	3307391	3306666	-	Rv2954c	581	second	nonsynonymous	False
+3349019	A	G	La1.2 BCG	3350277	3348805	-	Rv2992c	1259	second	nonsynonymous	False
+3419621	A	G	La1.2 BCG	3419492	3420970	+	Rv3059	130	first	nonsynonymous	False
+3423939	T	A	La1.2 BCG	3425427	3423262	-	Rv3061c	1489	first	nonsynonymous	True
+3423966	T	C	La1.2 BCG	3425427	3423262	-	Rv3061c	1462	first	nonsynonymous	False
+3431434	A	G	La1.2 BCG	3431428	3431838	+	Rv3067	7	first	nonsynonymous	False
+3446362	T	C	La1.2 BCG	3446040	3447278	+	Rv3081	323	second	nonsynonymous	False
+3450822	A	G	La1.2 BCG	3449997	3450923	+	Rv3084	826	first	nonsynonymous	False
+346034	A	G	La1.2 BCG	345635	349627	+	Rv0284	400	first	nonsynonymous	False
+3517378	G	A	La1.2 BCG	3516746	3519166	+	Rv3151	633	third	synonymous	False
+35342	C	T	La1.2 BCG	34295	36610	+	Rv0032	1048	first	synonymous	False
+3687358	C	A	La1.2 BCG	3687577	3686912	-	Rv3301c	220	first	nonsynonymous	False
+3722344	G	A	La1.2 BCG	3722600	3721731	-	Rv3335c	257	second	nonsynonymous	False
+3726374	C	G	La1.2 BCG	3726127	3727476	+	Rv3340	248	second	nonsynonymous	False
+3731843	A	G	La1.2 BCG	3736935	3729364	-	Rv3343c	5093	second	nonsynonymous	False
+3793313	C	T	La1.2 BCG	3794867	3793257	-	Rv3379c	1555	first	nonsynonymous	False
+3806553	G	A	La1.2 BCG	3805621	3807573	+	Rv3391	933	third	synonymous	False
+3899790	C	T	La1.2 BCG	3900402	3898909	-	Rv3480c	613	first	nonsynonymous	False
+39093	G	A	La1.2 BCG	39829	39056	-	Rv0036c	737	second	nonsynonymous	False
+3918328	G	A	La1.2 BCG	3919200	3917998	-	Rv3499c	873	third	synonymous	False
+3958885	A	G	La1.2 BCG	3958448	3959512	+	Rv3522	438	third	synonymous	False
+4056365	G	A	La1.2 BCG	4056375	4055197	-	Rv3616c	11	second	nonsynonymous	False
+407507	T	C	La1.2 BCG	408448	405950	-	Rv0339c	942	third	synonymous	False
+4085376	G	A	La1.2 BCG	4087257	4084453	-	Rv3646c	1882	first	nonsynonymous	False
+4090810	G	A	La1.2 BCG	4088781	4091096	+	Rv3649	2030	second	nonsynonymous	False
+4091256	G	A	La1.2 BCG	4091233	4091517	+	Rv3650	24	third	synonymous	False
+4112441	A	G	La1.2 BCG	4113515	4112322	-	Rv3671c	1075	first	nonsynonymous	False
+4113022	T	G	La1.2 BCG	4113515	4112322	-	Rv3671c	494	second	nonsynonymous	False
+4117009	G	A	La1.2 BCG	4116478	4117152	+	Rv3676	532	first	nonsynonymous	False
+4151717	C	T	La1.2 BCG	4152217	4151180	-	Rv3708c	501	third	synonymous	False
+4167189	G	A	La1.2 BCG	4168128	4166821	-	Rv3722c	940	first	nonsynonymous	False
+423289	A	G	La1.2 BCG	422452	423639	+	Rv0352	838	first	nonsynonymous	False
+4238343	C	A	La1.2 BCG	4237932	4239863	+	Rv3792	412	first	synonymous	False
+4259198	C	T	La1.2 BCG	4261146	4255945	-	Rv3800c	1949	second	nonsynonymous	False
+4294257	T	C	La1.2 BCG	4299605	4293225	-	Rv3825c	5349	third	synonymous	False
+4303515	C	T	La1.2 BCG	4305008	4303398	-	Rv3829c	1494	third	synonymous	False
+4330262	T	G	La1.2 BCG	4331505	4330039	-	Rv3858c	1244	second	nonsynonymous	False
+4330376	G	T	La1.2 BCG	4331505	4330039	-	Rv3858c	1130	second	nonsynonymous	False
+4403200	T	C	La1.2 BCG	4403192	4404412	+	Rv3915	9	third	synonymous	False
+4409519	G	A	La1.2 BCG	4410069	4408969	-	Rv3921c	551	second	nonsynonymous	False
+484874	G	T	La1.2 BCG	483977	485734	+	Rv0404	898	first	nonsynonymous	False
+494270	C	T	La1.2 BCG	493851	495008	+	Rv0409	420	third	synonymous	False
+505302	G	A	La1.2 BCG	505086	506582	+	Rv0419	217	first	nonsynonymous	False
+50766	A	G	La1.2 BCG	51124	50021	-	Rv0046c	359	second	nonsynonymous	False
+558720	C	T	La1.2 BCG	557527	558813	+	Rv0467	1194	third	synonymous	False
+559153	C	T	La1.2 BCG	558895	559755	+	Rv0468	259	first	synonymous	False
+562943	C	T	La1.2 BCG	563427	562723	-	Rv0472c	485	second	nonsynonymous	False
+579674	T	C	La1.2 BCG	579349	580581	+	Rv0490	326	second	nonsynonymous	False
+580860	G	A	La1.2 BCG	580809	581492	+	Rv0491	52	first	nonsynonymous	False
+664045	G	T	La1.2 BCG	664818	663487	-	Rv0571c	774	third	nonsynonymous	False
+682964	T	C	La1.2 BCG	684272	681885	-	Rv0585c	1309	first	nonsynonymous	False
+69072	C	T	La1.2 BCG	68620	71559	+	Rv0064	453	third	synonymous	False
+700943	C	T	La1.2 BCG	700239	701189	+	Rv0604	705	third	synonymous	False
+763575	G	C	La1.2 BCG	763370	767320	+	Rv0668	206	second	nonsynonymous	False
+781568	C	T	La1.2 BCG	781560	781934	+	Rv0682	9	third	synonymous	False
+806630	T	C	La1.2 BCG	806335	808698	+	Rv0711	296	second	nonsynonymous	False
+822822	T	C	La1.2 BCG	821507	822853	+	Rv0729	1316	second	nonsynonymous	False
+835375	C	T	La1.2 BCG	835154	835681	+	Rv0745	222	third	synonymous	False
+84972	A	G	La1.2 BCG	83996	85168	+	Rv0075	977	second	nonsynonymous	False
+855557	C	T	La1.2 BCG	855826	854699	-	Rv0761c	270	third	synonymous	False
+8624	G	T	La1.2 BCG	7302	9818	+	Rv0006	1323	third	synonymous	False
+872431	A	G	La1.2 BCG	871431	872675	+	Rv0778	1001	second	nonsynonymous	False
+946958	C	T	La1.2 BCG	946056	947315	+	Rv0849	903	third	synonymous	False
+961941	C	G	La1.2 BCG	962612	960342	-	Rv0862c	672	third	nonsynonymous	False
+983462	C	T	La1.2 BCG	982762	983784	+	Rv0885	701	second	nonsynonymous	False
