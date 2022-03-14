@@ -12,8 +12,9 @@ Maintained by Kristina Ceres: kc649@cornell.edu
 * process_Reis_and_Cunha_pangenome: looking at variable genes over the four outbreaks included in the study, and plot for **Figure 6**
 
 ## iTOL annotation files
+* itol_colorstrip_lineage.txt: Colorstrip file labeling lineages
 * ITOL_glpK.txt: heatmap showing presence and absence of glpK 7C-->8C insertion used in **Supplemental Figure 4**
-* ITOL_acc.txt: presence/absence of filtered accessory genes used in **Figure 4**
+* ITOL_filtered_genes.txt: presence/absence of filtered accessory genes used in **Figure 4**
 * redundantly_annotated_genes: directory for iTOL gradient files for **Supplementary Figure 3**
 
 ## tree files
