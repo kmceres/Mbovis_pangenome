@@ -18,8 +18,9 @@ Maintained by Kristina Ceres: kc649@cornell.edu
 
 ## tree files
 * unfiltered_acc_gene_dendrogram.nwk: Jaccard distance dendrogram used in **Figure2A**
-* tree : core phylogeny used in all figures that display core trees
-* idnel tree: indel tree for **Figure 5** 
+* core_genome.final_tree.tre: core phylogeny used in all figures that display core trees
+* MN_SNPs.fasta.treefile: SNP tree used for **Figure 5**
+* Glaser_MN_indels.fasta.treefile: indel tree for **Figure 5** 
 
 ## Parameter_file.md
 * parameters for all bioinformatics not conducted in R
