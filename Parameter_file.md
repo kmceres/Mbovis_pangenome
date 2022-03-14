@@ -24,18 +24,17 @@
 	- panaroo -i \*.gff -o panaroo_results --clean-mode strict --remove-invalid-genes -t 4
 
 ## Core genome alignment
-* Panaroo core gene alignment:
+* Panaroo individual gene alignments:
 	- panaroo-msa --aligner mafft -a core -t 8 --verbose -o . 
 
-* Gblocks: ran on each core gene alignment output by panaroo
-	- Gblocks_0.91b/Gblocks gene.aln -t=d 
-
+* Parsnp core alignment:
+* 	- parsnp -g path/h37rv.gb -d ./fasta_dir/ -c
 ## Recombination analysis
-* IQTree (starting tree for Gubbins):
-	- iqtree-2.1.2-MacOSX/bin/iqtree2 -s concat_aln.fasta -m GTR -nt AUTO
-
 * Gubbins
-	- run_gubbins.py concat_aln.fasta -s concat_gblocks_aln.fasta.treefile -p concat_gblocks_aln
+	- run_gubbins.py parsnp.fasta -s parsnp.treefile -p bovis_pangenome
+* FastGEAR
+	- run_fastGEAR.sh /path/to/MATLAB_Runtime/v901 /path/to/alignment /path/to/outdir/out.mat ./fG_input_specs.txt
+	- (default specs)
 
 ## BLAST-n analysis
 * make local blast database:
@@ -49,13 +48,20 @@
 	- vSNP_step1.py -r1 \*\_1.fastq.gz -r2 \*\_2.fastq.gz -r Mycobacterium_AF2122 
 	- vSNP_step2.py -n -a 
 * filtering SNPs, merge vcf files into one for annotation
-	- vcffilter -f "MQ > 30 & DP > 10" file.vcf > file.filtered.vcf
+	- vcffilter -f "MQ > 30 & DP > 10 & AF > 0.9 " file.vcf > file.filtered.vcf
 	- bgzip file.filtered.vcf
 	- tabix file.filtered.vcf.gz 
 	- bcftools merge \*.vcf.gz -Oz -o Merged.vcf.gz 
 
 * snpEFF
-	- java -Xmx4g -jar snpEff af2122v4 Merged.vcf.vcf.gz -no-downstream -no-upstream > Merged_annotated.vcf 
+	- java -Xmx4g -jar snpEff af2122v4 Merged.vcf.vcf.gz -no-downstream -no-upstream > Merged_annotated.vcf
+
+## indel calling 
+* create pileup
+	- samtools mpileup -f ../alignment/NC_002945v4.fasta -s $line.bam  -o aln.sorted.bam.mpileup  #ScarTrek has specific naming requirements
+* ScarTrek
+ 	-python find_scars.py -i ./dir_with_bam_files -g AF2122_genes.txt -p AF2122_proteins.txt 
+
 
 ## PANTHER over-representation test
 * gene labels for Mtb were used because PANTHER has an Mtb datatabse
