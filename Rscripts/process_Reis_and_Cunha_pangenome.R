@@ -7,15 +7,14 @@ library(stringr)
 library(ape)
 genepa<- read.csv("additional_data/gene_presence_absence_roary.csv")
 ngenomes = max(genepa$No..isolates)
-## look at ends
 gene_df <- read.csv("additional_data/gene_data.csv") ## too large to upload to github; email kc649@cornell.edu if interested
-genepa <- read.csv("additional_data/gene_presence_absence_roary.csv")
 genepa_long <- genepa %>% gather("Genome","annotation_id",-colnames(genepa)[1:15])
 genepa_long <- genepa_long %>% dplyr::select(Gene, No..isolates,Genome,annotation_id) %>% 
   filter(annotation_id != "")
 gff_df <- tibble(scaffold_name=character(),start=numeric(),
                  end=numeric(),annotation_id=character())
 list <- colnames(genepa)[15:ncol(genepa)]
+# combine gene presence/absence matrix with location about position of gene within contig
 for (g in 1:length(list)){
   filename = paste("./gffs",list[g],sep="/")
   filename=paste(filename,"_no_fasta.gff",sep="")
@@ -55,6 +54,7 @@ library(ape)
 blast_results <- read.csv("additional_data/blast_results.csv")
 genepa <- read.csv("additional_data/gene_presence_absence_roary.csv")
 genes_not_blasted <- genepa %>% filter(!(Gene %in% blast_results$qseqid))
+ends <- read.csv("additional_data/genes_at_end_contig.csv")
 ends$End = 1
 genes_not_blasted <- left_join(genes_not_blasted,ends,by=c("Gene"))
 
